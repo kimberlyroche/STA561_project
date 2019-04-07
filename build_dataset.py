@@ -68,5 +68,7 @@ for title in movie_titles:
     f.write("\n")
     f.write("original_language\t" + info['original_language'] + "\n")
     f.write("release_date\t" + info['release_date'] + "\n")
+    f.write("vote_average\t" + str(info['vote_average']) + "\n")
+    f.write("vote_count\t" + str(info['vote_count']) + "\n")
     f.close()
 
