@@ -1,6 +1,0 @@
-title	Fantastic Beasts: The Crimes of Grindelwald
-genre	Family	Fantasy	Adventure
-original_language	en
-release_date	2018-11-14
-vote_average	6.9
-vote_count	4250

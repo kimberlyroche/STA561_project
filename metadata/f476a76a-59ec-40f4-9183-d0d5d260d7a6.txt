@@ -1,6 +1,0 @@
-title	Alita: Battle Angel
-genre	Action	Science Fiction	Thriller	Adventure
-original_language	en
-release_date	2019-01-31
-vote_average	6.6
-vote_count	1793

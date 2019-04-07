@@ -1,6 +1,0 @@
-title	Us
-genre	Thriller	Horror
-original_language	en
-release_date	2019-03-14
-vote_average	7.3
-vote_count	759

@@ -1,6 +1,0 @@
-title	Cars
-genre	Animation	Adventure	Comedy	Family
-original_language	en
-release_date	2006-06-08
-vote_average	6.7
-vote_count	7180

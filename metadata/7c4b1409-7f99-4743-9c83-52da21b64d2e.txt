@@ -1,6 +1,0 @@
-title	The Highwaymen
-genre	Crime	Drama	Thriller
-original_language	en
-release_date	2019-03-15
-vote_average	7.0
-vote_count	231

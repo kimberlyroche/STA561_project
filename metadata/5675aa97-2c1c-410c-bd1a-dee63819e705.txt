@@ -1,6 +1,0 @@
-title	Mirage
-genre	Mystery	Thriller
-original_language	en
-release_date	1965-10-29
-vote_average	6.9
-vote_count	32

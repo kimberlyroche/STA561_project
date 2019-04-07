@@ -1,6 +1,0 @@
-title	A Vigilante
-genre	Thriller	Drama
-original_language	en
-release_date	2019-03-29
-vote_average	5.1
-vote_count	27

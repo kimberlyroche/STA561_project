@@ -12,6 +12,10 @@ tmdb.API_KEY = api_token
 poster_folder = 'posters'
 metadata_folder = 'metadata'
 
+movie_genres = []
+
+downsample_size = (150, 200)
+
 # clear folders
 def empty_folder(folder):
     for the_file in os.listdir(folder):
@@ -31,7 +35,7 @@ movie_titles = []
 
 # iterate movies list in pages [1, N)
 # each "page" has 20 movies
-for i in range(1,3):
+for i in range(1,11):
     print("Pulling page " + str(i) + "...")
     paged_movies = all_movies.popular(page=i)['results']
     for movie in paged_movies:
@@ -58,13 +62,15 @@ for title in movie_titles:
     os.system(strcmd)
     # resize images
     img = Image.open(image_path)
-    img = img.resize((300, 400), PIL.Image.ANTIALIAS)
+    img = img.resize(downsample_size, PIL.Image.ANTIALIAS)
     img.save(image_path)
     # save metadata
     info = movie.info()
     f.write("genre")
     for genre in info['genres']:
         f.write("\t" + genre['name'])
+        if(not(genre['name'] in movie_genres)):
+            movie_genres.append(genre['name'])
     f.write("\n")
     f.write("original_language\t" + info['original_language'] + "\n")
     f.write("release_date\t" + info['release_date'] + "\n")
@@ -72,3 +78,4 @@ for title in movie_titles:
     f.write("vote_count\t" + str(info['vote_count']) + "\n")
     f.close()
 
+print(movie_genres)

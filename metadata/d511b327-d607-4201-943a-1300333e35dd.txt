@@ -1,6 +1,0 @@
-title	Avengers: Infinity War
-genre	Adventure	Action	Fantasy
-original_language	en
-release_date	2018-04-25
-vote_average	8.3
-vote_count	12478

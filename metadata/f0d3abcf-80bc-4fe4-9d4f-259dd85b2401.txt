@@ -1,6 +1,0 @@
-title	Fate/stay night: Heaven’s Feel II. lost butterfly
-genre	Animation	Action	Fantasy	Adventure
-original_language	ja
-release_date	2019-01-12
-vote_average	4.8
-vote_count	34

@@ -1,6 +1,0 @@
-title	Kuppathu Raja
-genre	Action	Comedy	Drama
-original_language	ta
-release_date	2019-04-05
-vote_average	0.0
-vote_count	0

@@ -1,6 +1,0 @@
-title	The Kid Who Would Be King
-genre	Action	Adventure	Fantasy	Family
-original_language	en
-release_date	2019-01-16
-vote_average	6.0
-vote_count	79
