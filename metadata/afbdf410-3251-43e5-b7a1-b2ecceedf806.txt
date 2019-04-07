@@ -1,0 +1,6 @@
+title	The Lord of the Rings: The Return of the King
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2003-12-01
+vote_average	8.4
+vote_count	12744

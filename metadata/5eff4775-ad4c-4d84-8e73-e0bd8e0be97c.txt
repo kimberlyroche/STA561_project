@@ -1,0 +1,6 @@
+title	Jaws
+genre	Horror	Thriller	Adventure
+original_language	en
+release_date	1975-06-18
+vote_average	7.6
+vote_count	4777

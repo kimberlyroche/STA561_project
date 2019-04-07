@@ -1,0 +1,6 @@
+title	The Lord of the Rings: The Two Towers
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2002-12-18
+vote_average	8.3
+vote_count	12082

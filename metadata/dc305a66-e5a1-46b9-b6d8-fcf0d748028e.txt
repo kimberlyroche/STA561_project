@@ -1,0 +1,6 @@
+title	Deep Blue Sea
+genre	Action	Science Fiction	Thriller
+original_language	en
+release_date	1999-07-28
+vote_average	5.8
+vote_count	1101

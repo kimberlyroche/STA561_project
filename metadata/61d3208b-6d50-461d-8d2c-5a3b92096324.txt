@@ -1,0 +1,6 @@
+title	The Upside
+genre	Comedy	Drama
+original_language	en
+release_date	2019-01-10
+vote_average	7.5
+vote_count	103

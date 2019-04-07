@@ -1,0 +1,6 @@
+title	King Kong
+genre	Adventure	Drama	Action
+original_language	en
+release_date	2005-12-12
+vote_average	6.7
+vote_count	4117

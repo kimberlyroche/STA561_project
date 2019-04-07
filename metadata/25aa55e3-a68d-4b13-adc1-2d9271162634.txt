@@ -1,0 +1,6 @@
+title	Ponyo
+genre	Animation	Family
+original_language	ja
+release_date	2008-07-19
+vote_average	7.6
+vote_count	1673

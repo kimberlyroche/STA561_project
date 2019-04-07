@@ -1,0 +1,6 @@
+title	Apocalypse Now
+genre	Drama	War
+original_language	en
+release_date	1979-08-15
+vote_average	8.2
+vote_count	3748

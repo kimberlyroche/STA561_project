@@ -1,0 +1,6 @@
+title	A Christmas Carol
+genre	Animation	Drama	Family
+original_language	en
+release_date	2009-11-04
+vote_average	6.8
+vote_count	2351

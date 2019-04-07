@@ -1,0 +1,6 @@
+title	The Man with the Golden Gun
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1974-12-01
+vote_average	6.4
+vote_count	868

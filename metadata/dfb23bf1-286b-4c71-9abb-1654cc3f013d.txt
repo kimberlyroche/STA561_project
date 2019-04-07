@@ -1,0 +1,6 @@
+title	Wonder Park
+genre	Comedy	Animation	Adventure	Family	Fantasy
+original_language	en
+release_date	2019-03-14
+vote_average	6.0
+vote_count	46

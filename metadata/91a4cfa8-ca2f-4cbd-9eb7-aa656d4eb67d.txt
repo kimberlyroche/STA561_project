@@ -1,0 +1,6 @@
+title	Central Intelligence
+genre	Action	Comedy	Mystery
+original_language	en
+release_date	2016-06-15
+vote_average	6.3
+vote_count	3008

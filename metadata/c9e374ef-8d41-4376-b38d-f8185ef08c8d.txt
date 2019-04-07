@@ -1,0 +1,6 @@
+title	Dragon Ball Z: Battle of Gods
+genre	Animation	Action
+original_language	ja
+release_date	2013-03-30
+vote_average	6.6
+vote_count	685

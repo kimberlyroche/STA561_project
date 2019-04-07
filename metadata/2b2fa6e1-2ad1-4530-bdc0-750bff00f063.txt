@@ -1,0 +1,6 @@
+title	Divergent
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2014-03-14
+vote_average	6.9
+vote_count	8034

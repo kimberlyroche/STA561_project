@@ -1,0 +1,6 @@
+title	Nancy Drew and the Hidden Staircase
+genre	Mystery	Crime	Comedy	Family
+original_language	en
+release_date	2019-03-15
+vote_average	10.0
+vote_count	1

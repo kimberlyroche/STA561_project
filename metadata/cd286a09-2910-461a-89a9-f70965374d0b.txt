@@ -1,0 +1,6 @@
+title	War for the Planet of the Apes
+genre	Drama	Science Fiction	War
+original_language	en
+release_date	2017-07-11
+vote_average	7.0
+vote_count	5087

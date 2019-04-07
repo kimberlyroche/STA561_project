@@ -1,0 +1,6 @@
+title	Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow
+genre	Animation	Adventure
+original_language	ja
+release_date	2018-10-06
+vote_average	4.0
+vote_count	6

@@ -1,0 +1,6 @@
+title	Kung Fu Panda 3
+genre	Action	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2016-01-23
+vote_average	6.7
+vote_count	2841

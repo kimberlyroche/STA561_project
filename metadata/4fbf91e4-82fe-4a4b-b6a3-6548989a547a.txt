@@ -1,0 +1,6 @@
+title	Inherent Vice
+genre	Comedy	Romance	Crime	Drama	Mystery
+original_language	en
+release_date	2014-12-25
+vote_average	6.6
+vote_count	1298

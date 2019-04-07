@@ -1,0 +1,6 @@
+title	A Fistful of Dollars
+genre	Western
+original_language	it
+release_date	1964-09-12
+vote_average	7.8
+vote_count	1716

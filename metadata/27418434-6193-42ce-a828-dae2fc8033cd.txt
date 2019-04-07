@@ -1,0 +1,6 @@
+title	Ant-Man and the Wasp
+genre	Action	Adventure	Science Fiction	Comedy	Family
+original_language	en
+release_date	2018-07-04
+vote_average	7.0
+vote_count	5392

@@ -1,0 +1,6 @@
+title	First Reformed
+genre	Drama
+original_language	en
+release_date	2018-05-18
+vote_average	6.9
+vote_count	402

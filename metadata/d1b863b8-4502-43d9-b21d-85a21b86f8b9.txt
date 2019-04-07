@@ -1,0 +1,6 @@
+title	13 Going on 30
+genre	Comedy	Fantasy	Romance
+original_language	en
+release_date	2004-04-13
+vote_average	6.5
+vote_count	2555

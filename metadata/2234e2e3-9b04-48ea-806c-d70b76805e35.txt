@@ -1,0 +1,6 @@
+title	The Hitman's Bodyguard
+genre	Action	Comedy
+original_language	en
+release_date	2017-08-16
+vote_average	6.7
+vote_count	2896

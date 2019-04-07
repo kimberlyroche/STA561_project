@@ -1,0 +1,6 @@
+title	Shoplifters
+genre	Drama	Crime	Family
+original_language	ja
+release_date	2018-06-02
+vote_average	8.0
+vote_count	394

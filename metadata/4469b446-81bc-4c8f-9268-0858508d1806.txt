@@ -1,0 +1,6 @@
+title	Ghost Rider: Spirit of Vengeance
+genre	Action	Fantasy	Thriller
+original_language	en
+release_date	2011-12-10
+vote_average	4.7
+vote_count	1964

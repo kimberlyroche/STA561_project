@@ -1,0 +1,6 @@
+title	Trading Paint
+genre	Action
+original_language	en
+release_date	2019-02-22
+vote_average	5.1
+vote_count	15

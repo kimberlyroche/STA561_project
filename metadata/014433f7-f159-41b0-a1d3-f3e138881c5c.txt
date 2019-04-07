@@ -1,0 +1,6 @@
+title	The Girl in the Spider's Web
+genre	Thriller
+original_language	en
+release_date	2018-10-25
+vote_average	6.0
+vote_count	430

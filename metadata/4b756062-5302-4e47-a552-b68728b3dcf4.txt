@@ -1,0 +1,6 @@
+title	The Man Who Knew Infinity
+genre	Drama
+original_language	en
+release_date	2016-04-08
+vote_average	7.1
+vote_count	665

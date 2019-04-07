@@ -1,0 +1,6 @@
+title	12 Years a Slave
+genre	Drama	History
+original_language	en
+release_date	2013-10-18
+vote_average	7.9
+vote_count	6406

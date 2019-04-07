@@ -1,0 +1,6 @@
+title	First Blood
+genre	Action	Adventure	Thriller	War
+original_language	en
+release_date	1982-10-22
+vote_average	7.3
+vote_count	2680

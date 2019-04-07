@@ -1,0 +1,6 @@
+title	Blade Runner 2049
+genre	Science Fiction
+original_language	en
+release_date	2017-10-04
+vote_average	7.4
+vote_count	6432

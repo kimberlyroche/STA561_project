@@ -1,0 +1,6 @@
+title	Terminator 2: Judgment Day
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	1991-07-03
+vote_average	7.9
+vote_count	6497

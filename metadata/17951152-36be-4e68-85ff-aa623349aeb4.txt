@@ -1,0 +1,6 @@
+title	Dances with Wolves
+genre	Adventure	Drama	Western
+original_language	en
+release_date	1990-11-09
+vote_average	7.8
+vote_count	1889

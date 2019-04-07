@@ -1,0 +1,6 @@
+title	The Cabin in the Woods
+genre	Horror	Comedy	Thriller
+original_language	en
+release_date	2012-04-12
+vote_average	6.5
+vote_count	4027

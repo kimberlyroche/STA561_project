@@ -1,0 +1,6 @@
+title	It Follows
+genre	Horror	Thriller
+original_language	en
+release_date	2014-11-13
+vote_average	6.5
+vote_count	3363

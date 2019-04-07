@@ -1,0 +1,6 @@
+title	Maze Runner: The Scorch Trials
+genre	Action	Science Fiction	Thriller
+original_language	en
+release_date	2015-09-09
+vote_average	6.6
+vote_count	6170

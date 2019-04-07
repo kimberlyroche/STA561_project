@@ -1,0 +1,6 @@
+title	Stonehearst Asylum
+genre	Thriller
+original_language	en
+release_date	2014-09-11
+vote_average	6.7
+vote_count	670

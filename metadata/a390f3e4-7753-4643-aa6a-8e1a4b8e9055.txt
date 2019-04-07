@@ -1,0 +1,6 @@
+title	Click
+genre	Comedy	Drama	Fantasy	Romance
+original_language	en
+release_date	2006-06-22
+vote_average	6.1
+vote_count	3802

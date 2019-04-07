@@ -1,0 +1,6 @@
+title	Live and Let Die
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1973-07-05
+vote_average	6.5
+vote_count	865

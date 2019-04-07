@@ -1,0 +1,6 @@
+title	Mars Attacks!
+genre	Comedy	Fantasy	Science Fiction
+original_language	en
+release_date	1996-12-12
+vote_average	6.2
+vote_count	2807

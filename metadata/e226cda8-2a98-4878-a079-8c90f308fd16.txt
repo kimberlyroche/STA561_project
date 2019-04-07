@@ -1,0 +1,6 @@
+title	Shrek 2
+genre	Adventure	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2004-05-19
+vote_average	6.9
+vote_count	5939

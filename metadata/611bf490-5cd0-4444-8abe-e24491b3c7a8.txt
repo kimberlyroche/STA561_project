@@ -1,0 +1,6 @@
+title	Reservoir Dogs
+genre	Crime	Thriller
+original_language	en
+release_date	1992-09-02
+vote_average	8.2
+vote_count	6852

@@ -1,0 +1,6 @@
+title	Jurassic World
+genre	Action	Adventure	Science Fiction	Thriller
+original_language	en
+release_date	2015-06-06
+vote_average	6.6
+vote_count	13695

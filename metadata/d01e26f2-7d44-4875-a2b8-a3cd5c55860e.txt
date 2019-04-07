@@ -1,0 +1,6 @@
+title	Maze Runner: The Death Cure
+genre	Action	Science Fiction
+original_language	en
+release_date	2018-01-10
+vote_average	7.1
+vote_count	3677

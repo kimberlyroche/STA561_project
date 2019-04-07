@@ -1,0 +1,6 @@
+title	Valerian and the City of a Thousand Planets
+genre	Adventure	Science Fiction	Action
+original_language	en
+release_date	2017-07-20
+vote_average	6.6
+vote_count	3983

@@ -1,0 +1,6 @@
+title	12 Angry Men
+genre	Drama
+original_language	en
+release_date	1957-03-25
+vote_average	8.4
+vote_count	3597

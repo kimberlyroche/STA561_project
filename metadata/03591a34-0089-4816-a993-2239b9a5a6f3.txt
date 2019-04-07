@@ -1,0 +1,6 @@
+title	Penguins of Madagascar
+genre	Family	Animation	Adventure	Comedy
+original_language	en
+release_date	2014-11-22
+vote_average	6.4
+vote_count	2200

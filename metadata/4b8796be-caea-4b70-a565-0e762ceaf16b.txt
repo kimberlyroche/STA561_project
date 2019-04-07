@@ -1,0 +1,6 @@
+title	Monsters, Inc.
+genre	Animation	Comedy	Family
+original_language	en
+release_date	2001-11-01
+vote_average	7.7
+vote_count	10434

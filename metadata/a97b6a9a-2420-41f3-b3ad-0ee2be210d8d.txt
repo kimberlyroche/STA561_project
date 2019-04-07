@@ -1,0 +1,6 @@
+title	Ghost Rider
+genre	Thriller	Action	Fantasy	Horror
+original_language	en
+release_date	2007-02-16
+vote_average	5.4
+vote_count	3106

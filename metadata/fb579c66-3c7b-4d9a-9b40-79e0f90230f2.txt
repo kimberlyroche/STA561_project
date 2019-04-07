@@ -1,0 +1,6 @@
+title	The Wife
+genre	Drama
+original_language	en
+release_date	2018-08-02
+vote_average	7.3
+vote_count	404

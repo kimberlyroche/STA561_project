@@ -1,0 +1,6 @@
+title	Mad Max
+genre	Adventure	Action	Thriller	Science Fiction
+original_language	en
+release_date	1979-04-12
+vote_average	6.7
+vote_count	1993

@@ -1,0 +1,6 @@
+title	Independence Day: Resurgence
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2016-06-22
+vote_average	5.1
+vote_count	3812

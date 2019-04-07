@@ -1,0 +1,6 @@
+title	Storks
+genre	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2016-09-22
+vote_average	6.6
+vote_count	1272

@@ -1,0 +1,6 @@
+title	Sex Tape
+genre	Comedy
+original_language	en
+release_date	2014-07-17
+vote_average	5.3
+vote_count	2605

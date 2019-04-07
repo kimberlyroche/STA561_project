@@ -1,0 +1,6 @@
+title	Doraemon: Nobita's Diary of the Creation of the World
+genre	Animation
+original_language	ja
+release_date	1995-03-04
+vote_average	7.0
+vote_count	1

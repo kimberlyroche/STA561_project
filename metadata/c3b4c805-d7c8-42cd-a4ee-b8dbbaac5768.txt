@@ -1,0 +1,6 @@
+title	Allied
+genre	Action	Drama	War	Romance	Thriller
+original_language	en
+release_date	2016-11-17
+vote_average	6.7
+vote_count	2632

@@ -1,0 +1,6 @@
+title	Die Hard 2
+genre	Action	Thriller
+original_language	en
+release_date	1990-07-02
+vote_average	6.8
+vote_count	2889

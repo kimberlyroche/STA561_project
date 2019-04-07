@@ -1,0 +1,6 @@
+title	A Cinderella Story: If the Shoe Fits
+genre	Comedy	Family	Fantasy	Music
+original_language	en
+release_date	2016-08-02
+vote_average	6.7
+vote_count	327

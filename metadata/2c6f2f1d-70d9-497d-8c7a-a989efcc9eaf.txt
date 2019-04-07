@@ -1,0 +1,6 @@
+title	Sleeping Beauty
+genre	Fantasy	Animation	Romance	Family
+original_language	en
+release_date	1959-01-28
+vote_average	6.8
+vote_count	2708

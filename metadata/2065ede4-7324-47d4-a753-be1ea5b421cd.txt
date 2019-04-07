@@ -1,0 +1,6 @@
+title	Ferdinand
+genre	Animation	Family	Adventure	Comedy
+original_language	en
+release_date	2017-12-09
+vote_average	7.1
+vote_count	1352

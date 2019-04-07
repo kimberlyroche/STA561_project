@@ -1,0 +1,6 @@
+title	Apollo 13
+genre	Drama	History
+original_language	en
+release_date	1995-06-30
+vote_average	7.4
+vote_count	2731

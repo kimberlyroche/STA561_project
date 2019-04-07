@@ -1,0 +1,6 @@
+title	Junpei, Think Again
+genre	Drama	Crime
+original_language	ja
+release_date	2018-09-22
+vote_average	0.0
+vote_count	0

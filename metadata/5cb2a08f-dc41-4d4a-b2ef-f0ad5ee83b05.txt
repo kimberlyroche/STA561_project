@@ -1,0 +1,6 @@
+title	Juanita
+genre	Drama
+original_language	en
+release_date	2019-03-08
+vote_average	4.8
+vote_count	28

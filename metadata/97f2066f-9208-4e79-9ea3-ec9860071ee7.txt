@@ -1,0 +1,6 @@
+title	A Silent Voice
+genre	Drama	Animation	Romance
+original_language	ja
+release_date	2016-09-17
+vote_average	8.3
+vote_count	950

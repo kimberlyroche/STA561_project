@@ -1,0 +1,6 @@
+title	Beyond the Edge
+genre	Adventure	Fantasy	Action
+original_language	ru
+release_date	2018-03-01
+vote_average	5.9
+vote_count	50

@@ -1,0 +1,6 @@
+title	The Hateful Eight
+genre	Crime	Drama	Mystery	Western
+original_language	en
+release_date	2015-12-25
+vote_average	7.7
+vote_count	7728

@@ -1,0 +1,6 @@
+title	Can You Ever Forgive Me?
+genre	Drama	Comedy	Crime
+original_language	en
+release_date	2018-10-19
+vote_average	6.9
+vote_count	366

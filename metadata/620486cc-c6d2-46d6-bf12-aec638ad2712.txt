@@ -1,0 +1,6 @@
+title	The Hobbit: The Desolation of Smaug
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2013-12-11
+vote_average	7.6
+vote_count	7476

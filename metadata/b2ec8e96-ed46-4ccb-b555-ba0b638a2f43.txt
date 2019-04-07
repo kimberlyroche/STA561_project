@@ -1,0 +1,6 @@
+title	The Amazing Spider-Man 2
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2014-04-16
+vote_average	6.4
+vote_count	6957

@@ -1,0 +1,6 @@
+title	Idiocracy
+genre	Adventure	Comedy	Science Fiction
+original_language	en
+release_date	2006-09-01
+vote_average	6.3
+vote_count	1236

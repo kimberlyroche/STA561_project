@@ -1,0 +1,6 @@
+title	Terminator Salvation
+genre	Action	Science Fiction	Thriller
+original_language	en
+release_date	2009-05-20
+vote_average	6.0
+vote_count	3596

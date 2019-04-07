@@ -1,0 +1,6 @@
+title	Quantum of Solace
+genre	Adventure	Action	Thriller	Crime
+original_language	en
+release_date	2008-10-30
+vote_average	6.2
+vote_count	4356

@@ -1,0 +1,6 @@
+title	Pirates of the Caribbean: At World's End
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2007-05-19
+vote_average	7.1
+vote_count	8063

@@ -1,0 +1,6 @@
+title	Thor: Ragnarok
+genre	Action	Adventure	Comedy	Fantasy	Science Fiction
+original_language	en
+release_date	2017-10-25
+vote_average	7.5
+vote_count	10638

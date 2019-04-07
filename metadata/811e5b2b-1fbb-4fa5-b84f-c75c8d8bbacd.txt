@@ -1,0 +1,6 @@
+title	Hotel Transylvania 2
+genre	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2015-09-21
+vote_average	6.7
+vote_count	3048

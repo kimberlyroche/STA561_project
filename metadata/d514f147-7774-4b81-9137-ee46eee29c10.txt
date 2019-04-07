@@ -1,0 +1,6 @@
+title	Stargate
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	1994-10-27
+vote_average	6.9
+vote_count	1573

@@ -1,0 +1,6 @@
+title	The Hate U Give
+genre	Crime	Drama
+original_language	en
+release_date	2018-10-19
+vote_average	8.2
+vote_count	485

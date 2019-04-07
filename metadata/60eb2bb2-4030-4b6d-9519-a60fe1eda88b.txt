@@ -1,0 +1,6 @@
+title	Wonder Woman
+genre	Adventure	Fantasy	War
+original_language	en
+release_date	2017-05-30
+vote_average	7.3
+vote_count	12075

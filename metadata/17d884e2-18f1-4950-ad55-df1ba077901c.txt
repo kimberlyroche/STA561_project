@@ -1,0 +1,6 @@
+title	Zootopia
+genre	Animation	Adventure	Family	Comedy
+original_language	en
+release_date	2016-02-11
+vote_average	7.7
+vote_count	9658

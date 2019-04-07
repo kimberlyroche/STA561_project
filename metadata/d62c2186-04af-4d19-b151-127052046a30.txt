@@ -1,0 +1,6 @@
+title	Once Upon a Deadpool
+genre	Comedy	Action
+original_language	en
+release_date	2018-12-11
+vote_average	7.1
+vote_count	187

@@ -1,0 +1,6 @@
+title	Twelve Monkeys
+genre	Science Fiction	Thriller	Mystery
+original_language	en
+release_date	1995-12-29
+vote_average	7.5
+vote_count	4195

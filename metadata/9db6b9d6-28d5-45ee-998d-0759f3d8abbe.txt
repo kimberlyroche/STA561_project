@@ -1,0 +1,6 @@
+title	28 Days Later
+genre	Horror	Thriller	Science Fiction
+original_language	en
+release_date	2002-10-31
+vote_average	7.2
+vote_count	3166

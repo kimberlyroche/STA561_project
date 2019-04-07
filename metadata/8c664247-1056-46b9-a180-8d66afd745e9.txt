@@ -1,0 +1,6 @@
+title	Focus
+genre	Romance	Comedy	Crime	Drama
+original_language	en
+release_date	2015-02-25
+vote_average	6.8
+vote_count	4007

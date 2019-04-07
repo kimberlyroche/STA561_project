@@ -1,0 +1,6 @@
+title	The Fault in Our Stars
+genre	Romance	Drama
+original_language	en
+release_date	2014-05-16
+vote_average	7.6
+vote_count	6998

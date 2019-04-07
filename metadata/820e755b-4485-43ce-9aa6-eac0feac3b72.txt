@@ -1,0 +1,6 @@
+title	The Kissing Booth
+genre	Romance	Comedy
+original_language	en
+release_date	2018-05-11
+vote_average	7.3
+vote_count	3110

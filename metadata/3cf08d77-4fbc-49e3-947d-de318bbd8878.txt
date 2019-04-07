@@ -1,0 +1,6 @@
+title	The Miseducation of Cameron Post
+genre	Drama
+original_language	en
+release_date	2018-07-18
+vote_average	7.2
+vote_count	259

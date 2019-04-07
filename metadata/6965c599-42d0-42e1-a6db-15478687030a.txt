@@ -1,0 +1,6 @@
+title	Kung Fu Panda 2
+genre	Animation	Family
+original_language	en
+release_date	2011-05-25
+vote_average	6.7
+vote_count	3481

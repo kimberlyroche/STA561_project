@@ -1,0 +1,6 @@
+title	Majili
+genre	Drama	Romance
+original_language	te
+release_date	2019-04-05
+vote_average	0.0
+vote_count	0

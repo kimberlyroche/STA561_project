@@ -1,0 +1,6 @@
+title	The Post
+genre	Drama	History
+original_language	en
+release_date	2017-12-22
+vote_average	7.0
+vote_count	2383

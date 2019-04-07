@@ -1,0 +1,6 @@
+title	Dead Poets Society
+genre	Drama
+original_language	en
+release_date	1989-06-02
+vote_average	8.3
+vote_count	5566

@@ -1,0 +1,6 @@
+title	Split
+genre	Horror	Thriller
+original_language	en
+release_date	2017-01-19
+vote_average	7.2
+vote_count	9869

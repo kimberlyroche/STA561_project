@@ -1,0 +1,6 @@
+title	Crimson Tide
+genre	Thriller
+original_language	en
+release_date	1995-05-12
+vote_average	7.1
+vote_count	786

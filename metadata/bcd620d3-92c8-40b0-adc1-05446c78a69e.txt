@@ -1,0 +1,6 @@
+title	Roma
+genre	Drama
+original_language	es
+release_date	2018-08-25
+vote_average	7.8
+vote_count	1671

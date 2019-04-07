@@ -1,0 +1,6 @@
+title	Isle of Dogs
+genre	Adventure	Comedy	Animation
+original_language	en
+release_date	2018-03-23
+vote_average	7.9
+vote_count	1743

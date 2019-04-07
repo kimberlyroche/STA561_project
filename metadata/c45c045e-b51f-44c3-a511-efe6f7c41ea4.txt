@@ -1,0 +1,6 @@
+title	Star Wars: The Last Jedi
+genre	Fantasy	Adventure	Science Fiction	Action
+original_language	en
+release_date	2017-12-13
+vote_average	7.0
+vote_count	8190

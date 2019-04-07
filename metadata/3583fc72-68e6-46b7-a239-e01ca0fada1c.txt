@@ -1,0 +1,6 @@
+title	The Dark Knight Rises
+genre	Action	Crime	Drama	Thriller
+original_language	en
+release_date	2012-07-16
+vote_average	7.7
+vote_count	13558

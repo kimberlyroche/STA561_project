@@ -1,0 +1,6 @@
+title	The Jackal
+genre	Action	Thriller	Adventure	Crime
+original_language	en
+release_date	1997-11-14
+vote_average	6.2
+vote_count	856

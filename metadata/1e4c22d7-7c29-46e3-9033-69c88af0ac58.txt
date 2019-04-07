@@ -1,0 +1,6 @@
+title	Zodiac
+genre	Crime	Drama	Mystery	Thriller
+original_language	en
+release_date	2007-03-02
+vote_average	7.4
+vote_count	4042

@@ -1,0 +1,6 @@
+title	Ice Age: Dawn of the Dinosaurs
+genre	Animation	Comedy	Family	Adventure
+original_language	en
+release_date	2009-06-29
+vote_average	6.6
+vote_count	4395

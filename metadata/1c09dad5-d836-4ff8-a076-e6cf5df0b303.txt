@@ -1,0 +1,6 @@
+title	Pirates of the Caribbean: Dead Men Tell No Tales
+genre	Adventure	Action	Fantasy	Comedy
+original_language	en
+release_date	2017-05-23
+vote_average	6.5
+vote_count	6673

@@ -1,0 +1,6 @@
+title	In the Realm of the Senses
+genre	Drama	Romance
+original_language	ja
+release_date	1976-05-15
+vote_average	6.5
+vote_count	180

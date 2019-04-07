@@ -1,0 +1,6 @@
+title	Harry Potter and the Goblet of Fire
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2005-11-16
+vote_average	7.7
+vote_count	10677

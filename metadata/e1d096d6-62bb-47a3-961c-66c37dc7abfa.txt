@@ -1,0 +1,6 @@
+title	The Fugitive
+genre	Adventure	Action	Thriller	Crime	Mystery
+original_language	en
+release_date	1993-08-06
+vote_average	7.3
+vote_count	1996

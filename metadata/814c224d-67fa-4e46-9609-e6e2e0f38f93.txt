@@ -1,0 +1,6 @@
+title	Harry Potter and the Chamber of Secrets
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2002-11-13
+vote_average	7.7
+vote_count	11311

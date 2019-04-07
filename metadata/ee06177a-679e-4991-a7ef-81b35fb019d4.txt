@@ -1,0 +1,6 @@
+title	Fear and Loathing in Las Vegas
+genre	Adventure	Drama	Comedy
+original_language	en
+release_date	1998-05-22
+vote_average	7.2
+vote_count	2236

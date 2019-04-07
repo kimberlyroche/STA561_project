@@ -1,0 +1,6 @@
+title	Close
+genre	Action	Thriller
+original_language	en
+release_date	2019-01-18
+vote_average	5.5
+vote_count	248

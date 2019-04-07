@@ -1,0 +1,6 @@
+title	RoboCop
+genre	Action	Science Fiction
+original_language	en
+release_date	2014-01-30
+vote_average	5.8
+vote_count	3306

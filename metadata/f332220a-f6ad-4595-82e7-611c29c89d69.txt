@@ -1,0 +1,6 @@
+title	Ghostbusters II
+genre	Comedy	Fantasy
+original_language	en
+release_date	1989-06-15
+vote_average	6.4
+vote_count	2015

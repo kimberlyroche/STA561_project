@@ -1,0 +1,6 @@
+title	The Day the Earth Stood Still
+genre	Drama	Science Fiction	Thriller
+original_language	en
+release_date	1951-09-17
+vote_average	7.5
+vote_count	482

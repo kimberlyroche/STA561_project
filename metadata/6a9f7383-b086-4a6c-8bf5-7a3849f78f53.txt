@@ -1,0 +1,6 @@
+title	The Hangover Part III
+genre	Comedy
+original_language	en
+release_date	2013-05-23
+vote_average	6.1
+vote_count	4945

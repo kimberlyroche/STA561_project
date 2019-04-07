@@ -1,0 +1,6 @@
+title	Thor: The Dark World
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2013-10-29
+vote_average	6.7
+vote_count	9579

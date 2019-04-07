@@ -1,0 +1,6 @@
+title	The Little Mermaid
+genre	Animation	Family
+original_language	en
+release_date	1989-11-17
+vote_average	7.3
+vote_count	3908

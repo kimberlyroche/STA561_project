@@ -1,0 +1,6 @@
+title	The Twilight Saga: New Moon
+genre	Adventure	Fantasy	Drama	Romance
+original_language	en
+release_date	2009-03-15
+vote_average	5.7
+vote_count	4983

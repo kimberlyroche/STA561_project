@@ -1,0 +1,6 @@
+title	Mad Max: Fury Road
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2015-05-13
+vote_average	7.4
+vote_count	14057

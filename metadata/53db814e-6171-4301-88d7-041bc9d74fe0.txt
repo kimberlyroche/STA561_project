@@ -1,0 +1,6 @@
+title	Troy
+genre	Adventure	History
+original_language	en
+release_date	2004-05-03
+vote_average	7.0
+vote_count	5173

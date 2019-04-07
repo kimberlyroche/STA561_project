@@ -1,0 +1,6 @@
+title	Teen Spirit
+genre	Music	Drama
+original_language	en
+release_date	2019-04-05
+vote_average	10.0
+vote_count	5

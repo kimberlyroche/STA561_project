@@ -1,0 +1,6 @@
+title	A-X-L
+genre	Science Fiction	Action	Adventure	Family
+original_language	en
+release_date	2018-08-23
+vote_average	5.6
+vote_count	345

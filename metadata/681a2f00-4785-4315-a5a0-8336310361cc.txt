@@ -1,0 +1,6 @@
+title	Trinity Is Still My Name
+genre	Comedy	Western
+original_language	it
+release_date	1971-10-21
+vote_average	7.5
+vote_count	377

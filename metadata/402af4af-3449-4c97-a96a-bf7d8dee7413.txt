@@ -1,0 +1,6 @@
+title	Planet of the Apes
+genre	Science Fiction	Adventure	Drama	Action
+original_language	en
+release_date	1968-02-07
+vote_average	7.6
+vote_count	1573

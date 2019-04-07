@@ -1,0 +1,6 @@
+title	300: Rise of an Empire
+genre	Action	War	Fantasy
+original_language	en
+release_date	2014-03-05
+vote_average	6.0
+vote_count	3746

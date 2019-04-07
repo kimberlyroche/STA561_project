@@ -1,0 +1,6 @@
+title	Mile 22
+genre	Action
+original_language	en
+release_date	2018-08-16
+vote_average	6.0
+vote_count	823

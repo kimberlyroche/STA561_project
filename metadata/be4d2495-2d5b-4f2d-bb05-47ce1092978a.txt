@@ -1,0 +1,6 @@
+title	From Russia with Love
+genre	Action	Thriller	Adventure
+original_language	en
+release_date	1963-10-11
+vote_average	7.1
+vote_count	1284

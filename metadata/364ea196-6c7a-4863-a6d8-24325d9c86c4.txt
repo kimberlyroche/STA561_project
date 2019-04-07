@@ -1,0 +1,6 @@
+title	Indiana Jones and the Last Crusade
+genre	Adventure	Action
+original_language	en
+release_date	1989-05-24
+vote_average	7.8
+vote_count	5191

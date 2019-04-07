@@ -1,0 +1,6 @@
+title	The Sisters Brothers
+genre	Comedy	Drama	Western
+original_language	en
+release_date	2018-09-19
+vote_average	7.1
+vote_count	428

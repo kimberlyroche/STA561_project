@@ -1,0 +1,6 @@
+title	Upgrade
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	2018-06-01
+vote_average	7.3
+vote_count	1176

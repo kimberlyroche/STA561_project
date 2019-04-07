@@ -1,0 +1,6 @@
+title	Die Another Day
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	2002-11-17
+vote_average	5.9
+vote_count	1801

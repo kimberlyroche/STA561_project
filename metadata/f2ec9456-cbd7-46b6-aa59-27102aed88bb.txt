@@ -1,0 +1,6 @@
+title	Nakee 2
+genre	Drama	Fantasy	Romance
+original_language	th
+release_date	2018-10-18
+vote_average	10.0
+vote_count	1

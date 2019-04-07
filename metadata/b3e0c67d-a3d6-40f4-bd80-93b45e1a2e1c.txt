@@ -1,0 +1,6 @@
+title	American Kamasutra
+genre	Drama	Romance
+original_language	en
+release_date	2018-12-13
+vote_average	4.1
+vote_count	9

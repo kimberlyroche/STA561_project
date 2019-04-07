@@ -1,0 +1,6 @@
+title	The Guilty
+genre	Drama	Crime	Thriller
+original_language	da
+release_date	2018-06-14
+vote_average	7.4
+vote_count	352

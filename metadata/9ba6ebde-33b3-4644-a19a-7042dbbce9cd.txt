@@ -1,0 +1,6 @@
+title	The Princess Switch
+genre	Romance
+original_language	en
+release_date	2018-11-16
+vote_average	7.2
+vote_count	987

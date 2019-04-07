@@ -1,0 +1,6 @@
+title	Octopussy
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1983-06-05
+vote_average	6.3
+vote_count	872

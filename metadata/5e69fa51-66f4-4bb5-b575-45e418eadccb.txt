@@ -1,0 +1,6 @@
+title	Insidious: Chapter 2
+genre	Horror	Thriller
+original_language	en
+release_date	2013-09-12
+vote_average	6.6
+vote_count	2203

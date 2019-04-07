@@ -1,0 +1,6 @@
+title	Wreck-It Ralph
+genre	Family	Animation	Comedy	Adventure
+original_language	en
+release_date	2012-11-01
+vote_average	7.3
+vote_count	7509

@@ -1,0 +1,6 @@
+title	Ice Age
+genre	Animation	Comedy	Family	Adventure
+original_language	en
+release_date	2002-03-10
+vote_average	7.2
+vote_count	7232

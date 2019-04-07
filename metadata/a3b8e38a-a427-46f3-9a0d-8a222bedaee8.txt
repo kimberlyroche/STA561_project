@@ -1,0 +1,6 @@
+title	Teenage Mutant Ninja Turtles
+genre	Science Fiction	Action	Adventure	Fantasy	Comedy
+original_language	en
+release_date	2014-08-07
+vote_average	5.8
+vote_count	4139

@@ -1,0 +1,6 @@
+title	Die Hard
+genre	Action	Thriller
+original_language	en
+release_date	1988-07-15
+vote_average	7.7
+vote_count	6035

@@ -1,0 +1,6 @@
+title	Jurassic World: Fallen Kingdom
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2018-06-06
+vote_average	6.5
+vote_count	5614

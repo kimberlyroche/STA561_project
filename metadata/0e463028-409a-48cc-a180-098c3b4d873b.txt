@@ -1,0 +1,6 @@
+title	Aliens
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	1986-07-18
+vote_average	7.9
+vote_count	4968

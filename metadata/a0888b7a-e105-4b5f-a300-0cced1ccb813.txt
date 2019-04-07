@@ -1,0 +1,6 @@
+title	Return of the Jedi
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	1983-05-23
+vote_average	8.0
+vote_count	7843

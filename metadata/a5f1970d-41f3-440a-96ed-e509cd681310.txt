@@ -1,0 +1,6 @@
+title	Boyka: Undisputed IV
+genre	Thriller	Action	Crime
+original_language	en
+release_date	2016-08-01
+vote_average	6.2
+vote_count	489

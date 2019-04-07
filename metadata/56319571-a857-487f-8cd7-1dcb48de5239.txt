@@ -1,0 +1,6 @@
+title	San Andreas
+genre	Action	Drama	Thriller
+original_language	en
+release_date	2015-05-27
+vote_average	6.1
+vote_count	4960

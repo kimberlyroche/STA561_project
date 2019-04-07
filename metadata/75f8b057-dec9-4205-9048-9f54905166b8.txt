@@ -1,0 +1,6 @@
+title	Dragon Ball Z: Fusion Reborn
+genre	Action	Animation
+original_language	ja
+release_date	1995-03-04
+vote_average	7.3
+vote_count	282

@@ -1,0 +1,6 @@
+title	Three Billboards Outside Ebbing, Missouri
+genre	Crime	Drama
+original_language	en
+release_date	2017-11-10
+vote_average	8.2
+vote_count	5177

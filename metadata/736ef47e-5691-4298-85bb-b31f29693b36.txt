@@ -1,6 +1,0 @@
-title	Unplanned
-genre	Drama
-original_language	en
-release_date	2019-03-21
-vote_average	6.7
-vote_count	9

@@ -1,0 +1,6 @@
+title	Seventh Son
+genre	Adventure	Fantasy
+original_language	en
+release_date	2014-12-12
+vote_average	5.3
+vote_count	1513

@@ -1,6 +1,0 @@
-title	Triple Frontier
-genre	Action	Thriller	Crime
-original_language	en
-release_date	2019-03-06
-vote_average	6.2
-vote_count	765

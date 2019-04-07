@@ -1,0 +1,6 @@
+title	The Princess Diaries 2: Royal Engagement
+genre	Comedy	Drama	Family	Romance
+original_language	en
+release_date	2004-08-06
+vote_average	6.4
+vote_count	1618

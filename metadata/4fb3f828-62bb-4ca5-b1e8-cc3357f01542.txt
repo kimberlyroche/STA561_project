@@ -1,0 +1,6 @@
+title	The Twilight Saga: Breaking Dawn - Part 1
+genre	Adventure	Fantasy	Romance
+original_language	en
+release_date	2011-03-15
+vote_average	6.0
+vote_count	4927

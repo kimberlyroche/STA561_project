@@ -1,0 +1,6 @@
+title	Highlander
+genre	Adventure	Action	Fantasy
+original_language	en
+release_date	1986-03-07
+vote_average	6.9
+vote_count	1135

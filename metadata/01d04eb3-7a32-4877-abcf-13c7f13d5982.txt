@@ -1,0 +1,6 @@
+title	The Mask of Zorro
+genre	Action	Adventure
+original_language	en
+release_date	1998-07-16
+vote_average	6.4
+vote_count	2102

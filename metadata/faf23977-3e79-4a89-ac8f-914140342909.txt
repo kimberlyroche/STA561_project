@@ -1,0 +1,6 @@
+title	Big Trouble in Little China
+genre	Action	Adventure	Comedy	Fantasy
+original_language	en
+release_date	1986-05-30
+vote_average	7.2
+vote_count	1281

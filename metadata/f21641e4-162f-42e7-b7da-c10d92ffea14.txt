@@ -1,0 +1,6 @@
+title	Ted 2
+genre	Comedy
+original_language	en
+release_date	2015-06-25
+vote_average	6.1
+vote_count	4091

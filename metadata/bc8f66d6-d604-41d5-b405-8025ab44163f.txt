@@ -1,0 +1,6 @@
+title	Mamma Mia! Here We Go Again
+genre	Comedy	Romance
+original_language	en
+release_date	2018-07-09
+vote_average	7.3
+vote_count	1537

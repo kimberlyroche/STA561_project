@@ -1,0 +1,6 @@
+title	Galaxy Quest
+genre	Comedy	Family	Science Fiction
+original_language	en
+release_date	1999-12-23
+vote_average	7.0
+vote_count	1086

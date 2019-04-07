@@ -1,0 +1,6 @@
+title	Percy Jackson: Sea of Monsters
+genre	Adventure	Family	Fantasy
+original_language	en
+release_date	2013-08-07
+vote_average	5.9
+vote_count	2989

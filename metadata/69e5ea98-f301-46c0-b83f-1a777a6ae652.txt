@@ -1,0 +1,6 @@
+title	Trainwreck
+genre	Comedy	Romance
+original_language	en
+release_date	2015-07-17
+vote_average	5.8
+vote_count	1689

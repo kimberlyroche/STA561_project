@@ -1,0 +1,6 @@
+title	Kong: Skull Island
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2017-03-08
+vote_average	6.3
+vote_count	5844

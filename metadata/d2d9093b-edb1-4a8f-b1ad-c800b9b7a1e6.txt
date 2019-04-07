@@ -1,0 +1,6 @@
+title	Undisputed III: Redemption
+genre	Action	Thriller
+original_language	en
+release_date	2010-05-22
+vote_average	7.4
+vote_count	292

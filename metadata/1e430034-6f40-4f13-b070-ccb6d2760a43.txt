@@ -1,0 +1,6 @@
+title	The Good, the Bad and the Ugly
+genre	Western
+original_language	it
+release_date	1966-12-23
+vote_average	8.4
+vote_count	3877

@@ -1,0 +1,6 @@
+title	The Dark Tower
+genre	Action	Fantasy	Science Fiction	Western	Horror
+original_language	en
+release_date	2017-08-03
+vote_average	5.6
+vote_count	2722

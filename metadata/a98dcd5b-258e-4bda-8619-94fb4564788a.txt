@@ -1,0 +1,6 @@
+title	Shooter
+genre	Action	Drama	Mystery	Thriller	Crime
+original_language	en
+release_date	2007-03-22
+vote_average	7.0
+vote_count	2257

@@ -1,0 +1,6 @@
+title	Rambo: First Blood Part II
+genre	Action	Adventure	Thriller	War
+original_language	en
+release_date	1985-05-21
+vote_average	6.4
+vote_count	1537

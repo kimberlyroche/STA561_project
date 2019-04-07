@@ -1,0 +1,6 @@
+title	Toy Story 2
+genre	Animation	Comedy	Family
+original_language	en
+release_date	1999-10-30
+vote_average	7.5
+vote_count	7272

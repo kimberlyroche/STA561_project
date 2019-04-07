@@ -1,0 +1,6 @@
+title	Kingsman: The Golden Circle
+genre	Action	Adventure	Comedy
+original_language	en
+release_date	2017-09-20
+vote_average	7.0
+vote_count	5300

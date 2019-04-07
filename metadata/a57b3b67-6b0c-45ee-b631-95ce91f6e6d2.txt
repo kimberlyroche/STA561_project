@@ -1,0 +1,6 @@
+title	Inception
+genre	Action	Science Fiction	Adventure
+original_language	en
+release_date	2010-07-15
+vote_average	8.3
+vote_count	21529

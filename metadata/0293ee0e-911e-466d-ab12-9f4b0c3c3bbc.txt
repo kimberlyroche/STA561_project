@@ -1,0 +1,6 @@
+title	Walking Tall
+genre	Adventure	Drama	Action	Thriller
+original_language	en
+release_date	2004-04-02
+vote_average	6.0
+vote_count	618

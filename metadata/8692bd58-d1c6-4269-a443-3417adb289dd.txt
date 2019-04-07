@@ -1,0 +1,6 @@
+title	Journey 2: The Mysterious Island
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	2012-01-19
+vote_average	5.9
+vote_count	2055

@@ -1,0 +1,6 @@
+title	Dark Phoenix
+genre	Action	Science Fiction
+original_language	en
+release_date	2019-06-05
+vote_average	0.0
+vote_count	0

@@ -1,0 +1,6 @@
+title	The Interview
+genre	Action	Comedy
+original_language	en
+release_date	2014-12-25
+vote_average	6.2
+vote_count	3481

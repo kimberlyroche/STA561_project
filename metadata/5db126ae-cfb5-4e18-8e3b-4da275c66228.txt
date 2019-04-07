@@ -1,0 +1,6 @@
+title	Hulk
+genre	Drama	Action	Science Fiction
+original_language	en
+release_date	2003-06-19
+vote_average	5.4
+vote_count	2975

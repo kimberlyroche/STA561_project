@@ -1,0 +1,6 @@
+title	Wild and Free
+genre	Drama
+original_language	tl
+release_date	2018-10-10
+vote_average	10.0
+vote_count	1

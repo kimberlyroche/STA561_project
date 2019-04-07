@@ -1,0 +1,6 @@
+title	Free Solo
+genre	Documentary
+original_language	en
+release_date	2018-10-12
+vote_average	8.1
+vote_count	246

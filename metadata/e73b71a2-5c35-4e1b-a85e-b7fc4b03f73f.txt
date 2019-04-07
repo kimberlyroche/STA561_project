@@ -1,0 +1,6 @@
+title	The Huntsman: Winter's War
+genre	Action	Adventure	Drama
+original_language	en
+release_date	2016-04-06
+vote_average	6.2
+vote_count	2869

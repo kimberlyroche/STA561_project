@@ -1,0 +1,6 @@
+title	Howl's Moving Castle
+genre	Fantasy	Animation	Adventure
+original_language	ja
+release_date	2004-11-19
+vote_average	8.3
+vote_count	3798

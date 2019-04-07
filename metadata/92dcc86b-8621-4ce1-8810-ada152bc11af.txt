@@ -1,0 +1,6 @@
+title	Spider-Man
+genre	Action	Adventure	Animation	Science Fiction	Comedy
+original_language	en
+release_date	2018-12-07
+vote_average	8.5
+vote_count	3109

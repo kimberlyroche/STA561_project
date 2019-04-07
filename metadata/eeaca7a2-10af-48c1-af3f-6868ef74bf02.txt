@@ -1,0 +1,6 @@
+title	Playing with Love
+genre	Drama
+original_language	it
+release_date	1977-05-17
+vote_average	5.3
+vote_count	31

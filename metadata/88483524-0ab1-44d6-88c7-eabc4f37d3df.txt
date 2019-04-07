@@ -1,0 +1,6 @@
+title	Climax
+genre	Drama	Music	Horror
+original_language	fr
+release_date	2018-09-19
+vote_average	7.3
+vote_count	290

@@ -1,0 +1,6 @@
+title	Entourage
+genre	Comedy
+original_language	en
+release_date	2015-06-03
+vote_average	6.2
+vote_count	636

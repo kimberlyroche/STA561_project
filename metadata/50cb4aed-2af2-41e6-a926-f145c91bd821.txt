@@ -1,0 +1,6 @@
+title	Ratatouille
+genre	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2007-06-22
+vote_average	7.6
+vote_count	8658

@@ -1,0 +1,6 @@
+title	If Beale Street Could Talk
+genre	Drama	Romance	Crime
+original_language	en
+release_date	2018-11-30
+vote_average	7.1
+vote_count	300

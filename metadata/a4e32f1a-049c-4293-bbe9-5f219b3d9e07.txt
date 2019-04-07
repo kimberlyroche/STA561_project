@@ -1,0 +1,6 @@
+title	A Bug's Life
+genre	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	1998-11-25
+vote_average	6.9
+vote_count	4775

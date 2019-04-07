@@ -1,0 +1,6 @@
+title	Blue Velvet
+genre	Crime	Drama	Mystery	Thriller
+original_language	en
+release_date	1986-08-01
+vote_average	7.7
+vote_count	1389

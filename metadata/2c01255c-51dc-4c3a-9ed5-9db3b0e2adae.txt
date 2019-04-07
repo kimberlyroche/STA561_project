@@ -1,0 +1,6 @@
+title	Batman Begins
+genre	Action	Crime	Drama
+original_language	en
+release_date	2005-06-10
+vote_average	7.6
+vote_count	11797

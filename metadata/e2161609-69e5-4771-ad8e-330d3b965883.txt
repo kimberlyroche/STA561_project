@@ -1,0 +1,6 @@
+title	Cold Pursuit
+genre	Thriller	Action	Drama
+original_language	en
+release_date	2019-02-07
+vote_average	5.2
+vote_count	291

@@ -1,0 +1,6 @@
+title	National Treasure
+genre	Adventure	Action	Thriller	Mystery
+original_language	en
+release_date	2004-11-19
+vote_average	6.5
+vote_count	3398

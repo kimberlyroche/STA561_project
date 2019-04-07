@@ -1,0 +1,6 @@
+title	Mechanic: Resurrection
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2016-08-25
+vote_average	5.6
+vote_count	1872

@@ -1,0 +1,6 @@
+title	Snowpiercer
+genre	Action	Science Fiction	Drama
+original_language	ko
+release_date	2013-08-01
+vote_average	6.8
+vote_count	4589

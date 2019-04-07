@@ -1,0 +1,6 @@
+title	The Wolf of Wall Street
+genre	Crime	Drama	Comedy
+original_language	en
+release_date	2013-12-25
+vote_average	7.9
+vote_count	11922

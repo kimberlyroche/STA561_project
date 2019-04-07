@@ -1,0 +1,6 @@
+title	I Want You
+genre	Thriller	Crime	Drama	Music	Romance
+original_language	en
+release_date	1998-02-15
+vote_average	5.8
+vote_count	15

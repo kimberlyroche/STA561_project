@@ -1,0 +1,6 @@
+title	The Sixth Sense
+genre	Mystery	Thriller	Drama
+original_language	en
+release_date	1999-08-06
+vote_average	7.9
+vote_count	5926

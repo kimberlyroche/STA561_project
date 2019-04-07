@@ -1,0 +1,6 @@
+title	The Great Wall
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2016-12-16
+vote_average	5.8
+vote_count	2674

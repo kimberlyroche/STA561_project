@@ -1,0 +1,6 @@
+title	Cars 3
+genre	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2017-06-15
+vote_average	6.7
+vote_count	2471

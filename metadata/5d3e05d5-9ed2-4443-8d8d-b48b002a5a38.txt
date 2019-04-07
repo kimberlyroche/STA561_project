@@ -1,0 +1,6 @@
+title	300
+genre	Action	Adventure	War
+original_language	en
+release_date	2007-03-07
+vote_average	7.1
+vote_count	7885

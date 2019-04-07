@@ -1,0 +1,6 @@
+title	Nymphomaniac: Vol. I
+genre	Drama
+original_language	en
+release_date	2013-12-25
+vote_average	6.9
+vote_count	1622

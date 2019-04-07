@@ -1,0 +1,6 @@
+title	Monster House
+genre	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2006-07-21
+vote_average	6.5
+vote_count	1855

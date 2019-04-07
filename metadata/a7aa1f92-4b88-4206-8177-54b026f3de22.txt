@@ -1,0 +1,6 @@
+title	Dragged Across Concrete
+genre	Drama	Crime	Action	Thriller
+original_language	en
+release_date	2019-02-21
+vote_average	6.6
+vote_count	43

@@ -1,0 +1,6 @@
+title	Blade
+genre	Horror	Action
+original_language	en
+release_date	1998-08-21
+vote_average	6.6
+vote_count	3031

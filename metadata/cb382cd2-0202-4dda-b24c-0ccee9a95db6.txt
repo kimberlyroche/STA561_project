@@ -1,0 +1,6 @@
+title	Under the Silver Lake
+genre	Crime	Thriller	Comedy	Drama	Mystery
+original_language	en
+release_date	2018-06-21
+vote_average	6.4
+vote_count	273

@@ -1,0 +1,6 @@
+title	The Hunger Games
+genre	Science Fiction	Adventure	Fantasy
+original_language	en
+release_date	2012-03-12
+vote_average	7.1
+vote_count	14197

@@ -1,0 +1,6 @@
+title	Spider-Man: Homecoming
+genre	Action	Adventure	Science Fiction	Drama
+original_language	en
+release_date	2017-07-05
+vote_average	7.4
+vote_count	10854

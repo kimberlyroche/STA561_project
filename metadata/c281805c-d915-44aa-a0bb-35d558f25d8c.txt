@@ -1,0 +1,6 @@
+title	The Hobbit: The Battle of the Five Armies
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2014-12-10
+vote_average	7.2
+vote_count	8110

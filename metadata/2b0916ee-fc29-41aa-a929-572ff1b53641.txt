@@ -1,0 +1,6 @@
+title	Four Rooms
+genre	Crime	Comedy
+original_language	en
+release_date	1995-12-09
+vote_average	6.3
+vote_count	1125

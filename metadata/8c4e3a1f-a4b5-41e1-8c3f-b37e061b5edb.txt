@@ -1,0 +1,6 @@
+title	The Beach Bum
+genre	Comedy
+original_language	en
+release_date	2019-03-21
+vote_average	4.9
+vote_count	20

@@ -1,0 +1,6 @@
+title	Sherlock Gnomes
+genre	Romance	Animation	Comedy	Family	Fantasy	Mystery	Adventure
+original_language	en
+release_date	2018-03-15
+vote_average	5.4
+vote_count	305

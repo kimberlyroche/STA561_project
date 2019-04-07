@@ -1,0 +1,6 @@
+title	Predator
+genre	Science Fiction	Action	Adventure	Thriller
+original_language	en
+release_date	1987-06-12
+vote_average	7.4
+vote_count	3610

@@ -1,0 +1,6 @@
+title	Female War: A Nasty Deal
+genre	Drama	Romance
+original_language	ko
+release_date	2015-09-27
+vote_average	3.5
+vote_count	4

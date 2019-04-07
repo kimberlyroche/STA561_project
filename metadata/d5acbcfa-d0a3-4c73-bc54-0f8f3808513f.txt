@@ -1,0 +1,6 @@
+title	Peppermint
+genre	Thriller	Action	Drama
+original_language	en
+release_date	2018-09-06
+vote_average	6.5
+vote_count	616

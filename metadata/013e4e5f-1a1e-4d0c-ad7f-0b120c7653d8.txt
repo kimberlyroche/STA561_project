@@ -1,0 +1,6 @@
+title	Blockers
+genre	Comedy
+original_language	en
+release_date	2018-03-14
+vote_average	6.1
+vote_count	902

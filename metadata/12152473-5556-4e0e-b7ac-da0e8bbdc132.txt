@@ -1,0 +1,6 @@
+title	Harry Potter and the Prisoner of Azkaban
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2004-05-31
+vote_average	7.9
+vote_count	11142

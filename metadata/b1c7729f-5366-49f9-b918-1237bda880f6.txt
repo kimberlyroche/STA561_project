@@ -1,0 +1,6 @@
+title	The Fighter
+genre	Drama
+original_language	en
+release_date	2010-12-17
+vote_average	7.3
+vote_count	2268

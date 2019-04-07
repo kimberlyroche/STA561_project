@@ -1,0 +1,6 @@
+title	Indiana Jones and the Temple of Doom
+genre	Adventure	Action
+original_language	en
+release_date	1984-05-23
+vote_average	7.2
+vote_count	4691

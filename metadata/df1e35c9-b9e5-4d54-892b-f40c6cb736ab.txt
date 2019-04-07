@@ -1,0 +1,6 @@
+title	Home Alone 3
+genre	Comedy	Family
+original_language	en
+release_date	1997-12-12
+vote_average	5.2
+vote_count	1399

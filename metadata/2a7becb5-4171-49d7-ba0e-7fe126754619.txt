@@ -1,0 +1,6 @@
+title	Allegiant
+genre	Adventure	Science Fiction	Action	Mystery
+original_language	en
+release_date	2016-03-09
+vote_average	5.9
+vote_count	3975

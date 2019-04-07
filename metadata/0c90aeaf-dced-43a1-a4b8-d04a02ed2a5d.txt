@@ -1,0 +1,6 @@
+title	Terminator 3: Rise of the Machines
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	2003-07-02
+vote_average	6.0
+vote_count	3416

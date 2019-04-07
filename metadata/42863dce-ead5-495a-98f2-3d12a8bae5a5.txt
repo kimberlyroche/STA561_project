@@ -1,0 +1,6 @@
+title	Home Alone 2: Lost in New York
+genre	Comedy	Family	Adventure	Crime
+original_language	en
+release_date	1992-11-19
+vote_average	6.5
+vote_count	4767

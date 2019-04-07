@@ -1,0 +1,6 @@
+title	Blindspotting
+genre	Comedy	Drama
+original_language	en
+release_date	2018-07-20
+vote_average	7.7
+vote_count	177

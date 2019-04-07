@@ -1,0 +1,6 @@
+title	Bird Box
+genre	Thriller	Drama
+original_language	en
+release_date	2018-12-13
+vote_average	7.0
+vote_count	4303

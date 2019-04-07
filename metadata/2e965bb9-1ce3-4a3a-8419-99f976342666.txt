@@ -1,0 +1,6 @@
+title	BlacKkKlansman
+genre	Crime	Drama
+original_language	en
+release_date	2018-07-30
+vote_average	7.6
+vote_count	2707

@@ -1,0 +1,6 @@
+title	Scary Movie
+genre	Comedy
+original_language	en
+release_date	2000-07-07
+vote_average	6.1
+vote_count	3191

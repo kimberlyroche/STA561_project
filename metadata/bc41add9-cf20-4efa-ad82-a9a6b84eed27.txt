@@ -1,0 +1,6 @@
+title	The Fate of the Furious
+genre	Adventure	Action	Crime	Thriller	Mystery
+original_language	en
+release_date	2017-04-12
+vote_average	6.9
+vote_count	6128

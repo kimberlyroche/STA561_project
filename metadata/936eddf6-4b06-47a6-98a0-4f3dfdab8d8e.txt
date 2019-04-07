@@ -1,0 +1,6 @@
+title	2012
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2009-10-10
+vote_average	5.7
+vote_count	7391

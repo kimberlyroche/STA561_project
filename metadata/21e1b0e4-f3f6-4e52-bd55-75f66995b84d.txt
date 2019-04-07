@@ -1,0 +1,6 @@
+title	The Exorcist
+genre	Drama	Horror
+original_language	en
+release_date	1973-12-26
+vote_average	7.6
+vote_count	3745

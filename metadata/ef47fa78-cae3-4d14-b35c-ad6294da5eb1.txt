@@ -1,0 +1,6 @@
+title	The Lobster
+genre	Thriller	Comedy	Drama	Romance	Science Fiction
+original_language	en
+release_date	2015-07-10
+vote_average	6.9
+vote_count	2741

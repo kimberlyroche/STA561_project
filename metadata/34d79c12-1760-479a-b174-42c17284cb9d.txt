@@ -1,0 +1,6 @@
+title	The Great Gatsby
+genre	Drama	Romance
+original_language	en
+release_date	2013-05-10
+vote_average	7.4
+vote_count	6866

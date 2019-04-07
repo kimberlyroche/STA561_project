@@ -1,0 +1,6 @@
+title	Exodus: Gods and Kings
+genre	Adventure	Drama	Action
+original_language	en
+release_date	2014-12-03
+vote_average	5.7
+vote_count	2828

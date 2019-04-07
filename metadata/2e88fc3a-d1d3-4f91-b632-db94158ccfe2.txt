@@ -1,0 +1,6 @@
+title	Pacific Rim: Uprising
+genre	Action	Fantasy	Science Fiction	Adventure
+original_language	en
+release_date	2018-03-21
+vote_average	5.9
+vote_count	2084

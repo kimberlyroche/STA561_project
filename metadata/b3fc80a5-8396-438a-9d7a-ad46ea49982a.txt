@@ -1,0 +1,6 @@
+title	The Lion King 2: Simba's Pride
+genre	Adventure	Animation	Family
+original_language	en
+release_date	1998-10-24
+vote_average	6.9
+vote_count	2185

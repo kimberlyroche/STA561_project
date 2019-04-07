@@ -1,0 +1,6 @@
+title	Love and Bullets
+genre	Comedy	Romance
+original_language	it
+release_date	2017-08-01
+vote_average	6.7
+vote_count	122

@@ -1,0 +1,6 @@
+title	Look Away
+genre	Horror	Thriller
+original_language	en
+release_date	2018-10-12
+vote_average	5.9
+vote_count	108

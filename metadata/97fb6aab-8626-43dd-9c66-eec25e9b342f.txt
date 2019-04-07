@@ -1,0 +1,6 @@
+title	Ex Machina
+genre	Drama	Science Fiction
+original_language	en
+release_date	2015-01-21
+vote_average	7.6
+vote_count	7796

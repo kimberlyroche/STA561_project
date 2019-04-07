@@ -1,0 +1,6 @@
+title	Rise of the Planet of the Apes
+genre	Thriller	Action	Drama	Science Fiction
+original_language	en
+release_date	2011-08-03
+vote_average	7.2
+vote_count	7065

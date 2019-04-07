@@ -1,0 +1,6 @@
+title	RED 2
+genre	Action	Comedy	Crime	Thriller
+original_language	en
+release_date	2013-07-18
+vote_average	6.5
+vote_count	2301

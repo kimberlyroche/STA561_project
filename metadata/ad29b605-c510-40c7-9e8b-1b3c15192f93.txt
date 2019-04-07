@@ -1,0 +1,6 @@
+title	Baywatch
+genre	Action	Comedy
+original_language	en
+release_date	2017-05-12
+vote_average	6.1
+vote_count	4528

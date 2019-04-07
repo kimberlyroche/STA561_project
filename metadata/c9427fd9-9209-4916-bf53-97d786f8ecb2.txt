@@ -1,0 +1,6 @@
+title	Law Abiding Citizen
+genre	Drama	Crime	Thriller
+original_language	en
+release_date	2009-10-15
+vote_average	7.3
+vote_count	2504

@@ -1,0 +1,6 @@
+title	The Wandering Earth
+genre	Science Fiction
+original_language	zh
+release_date	2019-02-05
+vote_average	6.8
+vote_count	36

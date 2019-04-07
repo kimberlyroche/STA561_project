@@ -1,0 +1,6 @@
+title	Happy Death Day 2U
+genre	Horror	Mystery	Thriller	Science Fiction	Comedy
+original_language	en
+release_date	2019-02-13
+vote_average	6.1
+vote_count	524

@@ -1,0 +1,6 @@
+title	The Notebook
+genre	Romance	Drama
+original_language	en
+release_date	2004-06-25
+vote_average	7.8
+vote_count	5850

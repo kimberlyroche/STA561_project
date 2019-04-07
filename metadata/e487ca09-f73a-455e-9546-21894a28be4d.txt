@@ -1,0 +1,6 @@
+title	Dilwale Dulhania Le Jayenge
+genre	Comedy	Drama	Romance
+original_language	hi
+release_date	1995-10-20
+vote_average	9.0
+vote_count	2026

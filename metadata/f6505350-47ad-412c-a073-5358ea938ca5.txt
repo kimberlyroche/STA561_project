@@ -1,0 +1,6 @@
+title	Star Wars: Episode II - Attack of the Clones
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	2002-05-15
+vote_average	6.5
+vote_count	6953

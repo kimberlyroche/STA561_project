@@ -1,0 +1,6 @@
+title	The Scorpion King: Book of Souls
+genre	Adventure	Action	Fantasy
+original_language	en
+release_date	2018-10-23
+vote_average	5.0
+vote_count	66

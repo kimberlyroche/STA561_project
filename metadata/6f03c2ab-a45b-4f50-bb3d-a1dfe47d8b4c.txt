@@ -1,0 +1,6 @@
+title	Her
+genre	Romance	Science Fiction	Drama
+original_language	en
+release_date	2013-12-18
+vote_average	7.9
+vote_count	7484

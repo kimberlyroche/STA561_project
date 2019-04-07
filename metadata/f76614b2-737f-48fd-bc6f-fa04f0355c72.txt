@@ -1,0 +1,6 @@
+title	Daddy's Home 2
+genre	Comedy
+original_language	en
+release_date	2017-11-09
+vote_average	6.0
+vote_count	1220

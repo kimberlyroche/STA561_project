@@ -1,0 +1,6 @@
+title	A.I. Artificial Intelligence
+genre	Drama	Science Fiction	Adventure
+original_language	en
+release_date	2001-06-29
+vote_average	7.0
+vote_count	3398

@@ -1,0 +1,6 @@
+title	The Foreigner
+genre	Action	Thriller	Drama
+original_language	en
+release_date	2017-09-28
+vote_average	6.7
+vote_count	1037

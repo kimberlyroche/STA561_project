@@ -1,0 +1,6 @@
+title	Harry Potter and the Deathly Hallows: Part 1
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2010-10-17
+vote_average	7.7
+vote_count	10366

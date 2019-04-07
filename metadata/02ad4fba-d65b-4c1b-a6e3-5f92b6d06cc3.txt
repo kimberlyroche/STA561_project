@@ -1,0 +1,6 @@
+title	Close Encounters of the Third Kind
+genre	Science Fiction	Drama
+original_language	en
+release_date	1977-11-16
+vote_average	7.3
+vote_count	1929

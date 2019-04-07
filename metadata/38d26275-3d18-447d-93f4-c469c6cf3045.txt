@@ -1,0 +1,6 @@
+title	(500) Days of Summer
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2009-07-17
+vote_average	7.2
+vote_count	5397

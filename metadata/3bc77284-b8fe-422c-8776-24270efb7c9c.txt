@@ -1,0 +1,6 @@
+title	Scary Movie 5
+genre	Comedy
+original_language	en
+release_date	2013-04-11
+vote_average	4.7
+vote_count	1434

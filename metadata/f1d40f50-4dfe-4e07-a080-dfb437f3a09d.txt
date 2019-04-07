@@ -1,0 +1,6 @@
+title	The Lord of the Rings: The Fellowship of the Ring
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2001-12-18
+vote_average	8.3
+vote_count	14003

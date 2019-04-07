@@ -1,0 +1,6 @@
+title	Megamind
+genre	Animation	Action	Comedy	Family	Science Fiction
+original_language	en
+release_date	2010-10-28
+vote_average	6.8
+vote_count	3467
