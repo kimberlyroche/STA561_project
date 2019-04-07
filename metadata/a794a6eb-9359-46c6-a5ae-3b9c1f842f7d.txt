@@ -1,0 +1,6 @@
+title	The Lego Movie
+genre	Action	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2017-02-08
+vote_average	7.2
+vote_count	2788

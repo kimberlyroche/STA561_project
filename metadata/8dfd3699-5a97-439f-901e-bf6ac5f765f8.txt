@@ -1,0 +1,6 @@
+title	The Shape of Water
+genre	Drama	Fantasy	Romance
+original_language	en
+release_date	2017-12-01
+vote_average	7.3
+vote_count	6920

@@ -1,0 +1,6 @@
+title	National Lampoon's Vacation
+genre	Comedy	Adventure
+original_language	en
+release_date	1983-07-28
+vote_average	7.1
+vote_count	658

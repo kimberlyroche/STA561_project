@@ -1,0 +1,6 @@
+title	Truth or Dare
+genre	Thriller	Horror
+original_language	en
+release_date	2018-04-12
+vote_average	6.0
+vote_count	1807

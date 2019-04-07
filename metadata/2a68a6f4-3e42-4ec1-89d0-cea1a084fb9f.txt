@@ -1,0 +1,6 @@
+title	A Star Is Born
+genre	Drama	Romance
+original_language	en
+release_date	2018-10-03
+vote_average	7.5
+vote_count	4936

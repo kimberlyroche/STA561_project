@@ -1,0 +1,6 @@
+title	Master and Commander: The Far Side of the World
+genre	Adventure	Drama	War
+original_language	en
+release_date	2003-11-14
+vote_average	7.1
+vote_count	1428

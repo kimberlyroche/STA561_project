@@ -1,0 +1,6 @@
+title	Carrie
+genre	Drama	Horror
+original_language	en
+release_date	2013-10-16
+vote_average	5.9
+vote_count	2577

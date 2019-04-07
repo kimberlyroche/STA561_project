@@ -1,0 +1,6 @@
+title	Goosebumps
+genre	Adventure	Horror	Comedy
+original_language	en
+release_date	2015-08-05
+vote_average	6.2
+vote_count	2039

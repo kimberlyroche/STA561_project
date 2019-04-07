@@ -1,0 +1,6 @@
+title	Pulp Fiction
+genre	Thriller	Crime
+original_language	en
+release_date	1994-09-10
+vote_average	8.4
+vote_count	14694

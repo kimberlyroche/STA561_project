@@ -1,0 +1,6 @@
+title	Ice Age: Collision Course
+genre	Adventure	Animation	Family	Comedy
+original_language	en
+release_date	2016-06-23
+vote_average	5.9
+vote_count	2326

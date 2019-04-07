@@ -1,0 +1,6 @@
+title	Rampage
+genre	Action	Adventure	Science Fiction	Fantasy
+original_language	en
+release_date	2018-04-12
+vote_average	6.2
+vote_count	2975

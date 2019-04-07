@@ -1,0 +1,6 @@
+title	The Final Wish
+genre	Horror
+original_language	en
+release_date	2019-01-24
+vote_average	4.5
+vote_count	19

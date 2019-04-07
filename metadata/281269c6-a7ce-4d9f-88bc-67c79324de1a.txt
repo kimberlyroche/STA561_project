@@ -1,0 +1,6 @@
+title	District 9
+genre	Science Fiction
+original_language	en
+release_date	2009-08-05
+vote_average	7.3
+vote_count	5299

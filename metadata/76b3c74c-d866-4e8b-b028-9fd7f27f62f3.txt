@@ -1,0 +1,6 @@
+title	Night at the Museum: Secret of the Tomb
+genre	Adventure	Comedy	Fantasy	Family
+original_language	en
+release_date	2014-12-17
+vote_average	6.2
+vote_count	3397

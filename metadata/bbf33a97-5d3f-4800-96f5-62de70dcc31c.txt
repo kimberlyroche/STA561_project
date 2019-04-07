@@ -1,0 +1,6 @@
+title	Cars 2
+genre	Animation	Family	Adventure	Comedy
+original_language	en
+release_date	2011-06-11
+vote_average	5.9
+vote_count	3894

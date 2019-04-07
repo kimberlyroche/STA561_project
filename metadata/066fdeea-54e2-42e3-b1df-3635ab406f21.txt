@@ -1,0 +1,6 @@
+title	Pet Sematary
+genre	Horror	Thriller
+original_language	en
+release_date	2019-04-04
+vote_average	5.9
+vote_count	77

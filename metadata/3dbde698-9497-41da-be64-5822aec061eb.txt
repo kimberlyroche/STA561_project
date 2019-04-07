@@ -1,0 +1,6 @@
+title	The Big Lebowski
+genre	Comedy	Crime
+original_language	en
+release_date	1998-03-06
+vote_average	7.9
+vote_count	5405

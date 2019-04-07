@@ -1,0 +1,6 @@
+title	TRON: Legacy
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	2010-12-10
+vote_average	6.3
+vote_count	4276

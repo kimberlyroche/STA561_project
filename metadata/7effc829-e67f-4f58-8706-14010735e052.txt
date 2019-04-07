@@ -1,0 +1,6 @@
+title	Ice Princess
+genre	Drama	Comedy	Family
+original_language	en
+release_date	2005-03-17
+vote_average	6.0
+vote_count	461

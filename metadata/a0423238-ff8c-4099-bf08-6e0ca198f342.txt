@@ -1,0 +1,6 @@
+title	Rambo III
+genre	Action	Adventure	Thriller	War
+original_language	en
+release_date	1988-05-24
+vote_average	5.9
+vote_count	1246

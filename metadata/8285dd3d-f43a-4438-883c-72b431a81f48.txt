@@ -1,0 +1,6 @@
+title	The Purity of Vengeance
+genre	Crime	Thriller	Mystery
+original_language	da
+release_date	2018-10-04
+vote_average	7.5
+vote_count	39

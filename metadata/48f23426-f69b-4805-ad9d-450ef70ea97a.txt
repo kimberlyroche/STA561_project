@@ -1,0 +1,6 @@
+title	Wild Tales
+genre	Drama	Thriller	Comedy
+original_language	es
+release_date	2014-08-21
+vote_average	7.8
+vote_count	1505

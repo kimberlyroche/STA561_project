@@ -1,0 +1,6 @@
+title	Jigsaw
+genre	Crime	Horror	Mystery	Thriller
+original_language	en
+release_date	2017-10-26
+vote_average	6.1
+vote_count	1783

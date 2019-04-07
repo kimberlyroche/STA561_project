@@ -1,0 +1,6 @@
+title	Asterix: The Secret of the Magic Potion
+genre	Animation	Family	Comedy	Adventure
+original_language	fr
+release_date	2018-12-05
+vote_average	7.1
+vote_count	237

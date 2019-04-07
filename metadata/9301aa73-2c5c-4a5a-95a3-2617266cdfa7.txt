@@ -1,0 +1,6 @@
+title	The Mummy: Tomb of the Dragon Emperor
+genre	Adventure	Action	Fantasy
+original_language	en
+release_date	2008-07-01
+vote_average	5.3
+vote_count	2416

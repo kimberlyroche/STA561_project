@@ -1,0 +1,6 @@
+title	50 First Dates
+genre	Comedy	Romance
+original_language	en
+release_date	2004-02-13
+vote_average	6.7
+vote_count	3886

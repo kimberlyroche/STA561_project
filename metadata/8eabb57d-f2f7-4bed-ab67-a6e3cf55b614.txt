@@ -1,0 +1,6 @@
+title	The Empire Strikes Back
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	1980-05-20
+vote_average	8.3
+vote_count	9513

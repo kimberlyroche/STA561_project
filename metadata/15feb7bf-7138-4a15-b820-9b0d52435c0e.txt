@@ -1,0 +1,6 @@
+title	A Cure for Wellness
+genre	Horror	Mystery	Science Fiction	Thriller
+original_language	en
+release_date	2017-02-15
+vote_average	6.2
+vote_count	1983

@@ -1,0 +1,6 @@
+title	Tag
+genre	Comedy	Drama
+original_language	en
+release_date	2018-05-30
+vote_average	6.8
+vote_count	1185

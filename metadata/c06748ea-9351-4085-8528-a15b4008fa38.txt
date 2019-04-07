@@ -1,0 +1,6 @@
+title	American Sniper
+genre	War	Action
+original_language	en
+release_date	2014-12-11
+vote_average	7.4
+vote_count	7404

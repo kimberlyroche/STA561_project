@@ -1,0 +1,6 @@
+title	Wild Card
+genre	Thriller	Crime	Drama
+original_language	en
+release_date	2015-01-14
+vote_average	5.4
+vote_count	913

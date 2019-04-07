@@ -1,0 +1,6 @@
+title	The Man Who Knew Too Much
+genre	Adventure	Crime	Drama	Mystery	Thriller
+original_language	en
+release_date	1956-06-01
+vote_average	7.5
+vote_count	526

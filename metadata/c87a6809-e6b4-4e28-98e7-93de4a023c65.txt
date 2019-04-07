@@ -1,0 +1,6 @@
+title	Gnomeo & Juliet
+genre	Animation	Family
+original_language	en
+release_date	2011-01-13
+vote_average	5.8
+vote_count	1044

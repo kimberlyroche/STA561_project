@@ -1,0 +1,6 @@
+title	Uncle Drew
+genre	Comedy
+original_language	en
+release_date	2018-06-27
+vote_average	6.5
+vote_count	203

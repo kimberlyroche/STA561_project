@@ -1,0 +1,6 @@
+title	Logan
+genre	Action	Drama	Science Fiction
+original_language	en
+release_date	2017-02-28
+vote_average	7.8
+vote_count	11897

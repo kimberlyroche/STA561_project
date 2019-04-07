@@ -1,0 +1,6 @@
+title	The First Purge
+genre	Action	Science Fiction	Thriller	Horror
+original_language	en
+release_date	2018-07-04
+vote_average	5.8
+vote_count	1690

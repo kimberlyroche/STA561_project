@@ -1,0 +1,6 @@
+title	Snow White and the Huntsman
+genre	Adventure	Fantasy	Drama
+original_language	en
+release_date	2012-05-30
+vote_average	5.9
+vote_count	5106

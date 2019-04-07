@@ -1,0 +1,6 @@
+title	The Sisterhood of the Traveling Pants 2
+genre	Adventure	Comedy	Drama	Family
+original_language	en
+release_date	2008-08-06
+vote_average	6.2
+vote_count	459

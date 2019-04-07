@@ -1,0 +1,6 @@
+title	Schindler's List
+genre	Drama	History	War
+original_language	en
+release_date	1993-12-15
+vote_average	8.5
+vote_count	7700

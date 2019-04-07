@@ -1,0 +1,6 @@
+title	The Gods Must Be Crazy
+genre	Action	Comedy
+original_language	en
+release_date	1980-09-10
+vote_average	7.1
+vote_count	427

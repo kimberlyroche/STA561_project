@@ -1,0 +1,6 @@
+title	Let's Be Cops
+genre	Comedy
+original_language	en
+release_date	2014-08-13
+vote_average	6.3
+vote_count	1661

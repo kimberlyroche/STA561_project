@@ -1,0 +1,6 @@
+title	Aladdin
+genre	Animation	Family	Adventure	Fantasy	Romance
+original_language	en
+release_date	1992-11-25
+vote_average	7.6
+vote_count	6115

@@ -1,0 +1,6 @@
+title	Romeo Akbar Walter
+genre	Action	Drama	Thriller
+original_language	hi
+release_date	2019-03-15
+vote_average	9.0
+vote_count	1

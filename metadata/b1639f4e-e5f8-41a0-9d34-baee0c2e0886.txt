@@ -1,0 +1,6 @@
+title	Operation Red Sea
+genre	Action	Thriller	War	Drama
+original_language	zh
+release_date	2018-02-16
+vote_average	6.6
+vote_count	48

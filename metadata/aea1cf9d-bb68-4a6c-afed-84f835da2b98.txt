@@ -1,0 +1,6 @@
+title	Mulholland Drive
+genre	Thriller	Drama	Mystery
+original_language	en
+release_date	2001-09-08
+vote_average	7.8
+vote_count	2855

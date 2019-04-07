@@ -1,0 +1,6 @@
+title	To All the Boys I've Loved Before
+genre	Comedy	Romance
+original_language	en
+release_date	2018-08-16
+vote_average	7.9
+vote_count	4080

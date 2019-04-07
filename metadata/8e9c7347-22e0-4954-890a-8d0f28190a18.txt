@@ -1,0 +1,6 @@
+title	My Neighbor Totoro
+genre	Fantasy	Animation	Family
+original_language	ja
+release_date	1988-04-16
+vote_average	8.1
+vote_count	3124

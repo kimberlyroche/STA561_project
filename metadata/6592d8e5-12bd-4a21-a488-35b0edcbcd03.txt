@@ -1,0 +1,6 @@
+title	The Incredible Hulk
+genre	Science Fiction	Action	Adventure
+original_language	en
+release_date	2008-06-12
+vote_average	6.2
+vote_count	5904

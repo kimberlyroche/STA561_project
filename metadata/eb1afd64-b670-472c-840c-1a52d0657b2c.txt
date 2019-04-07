@@ -1,0 +1,6 @@
+title	The Emoji Movie
+genre	Animation	Family	Comedy
+original_language	en
+release_date	2017-07-23
+vote_average	5.4
+vote_count	1366

@@ -1,0 +1,6 @@
+title	Eighth Grade
+genre	Comedy	Drama
+original_language	en
+release_date	2018-01-19
+vote_average	7.5
+vote_count	429

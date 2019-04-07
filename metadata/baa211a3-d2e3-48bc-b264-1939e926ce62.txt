@@ -1,0 +1,6 @@
+title	Fifty Shades Freed
+genre	Drama	Romance
+original_language	en
+release_date	2018-01-17
+vote_average	6.1
+vote_count	3395

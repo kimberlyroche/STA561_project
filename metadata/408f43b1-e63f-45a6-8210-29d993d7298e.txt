@@ -1,0 +1,6 @@
+title	Hot Fuzz
+genre	Crime	Action	Comedy
+original_language	en
+release_date	2007-02-14
+vote_average	7.5
+vote_count	3811

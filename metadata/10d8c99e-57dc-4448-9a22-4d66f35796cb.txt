@@ -1,0 +1,6 @@
+title	Blade Runner
+genre	Science Fiction	Drama	Thriller
+original_language	en
+release_date	1982-06-25
+vote_average	7.9
+vote_count	7250

@@ -1,0 +1,6 @@
+title	The Edge of Seventeen
+genre	Comedy	Drama
+original_language	en
+release_date	2016-11-18
+vote_average	7.2
+vote_count	2118

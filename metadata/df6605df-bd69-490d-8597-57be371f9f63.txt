@@ -1,0 +1,6 @@
+title	The Usual Suspects
+genre	Drama	Crime	Thriller
+original_language	en
+release_date	1995-07-19
+vote_average	8.2
+vote_count	5470

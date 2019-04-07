@@ -1,0 +1,6 @@
+title	Insurgent
+genre	Action	Adventure	Science Fiction	Thriller
+original_language	en
+release_date	2015-03-18
+vote_average	6.3
+vote_count	6575

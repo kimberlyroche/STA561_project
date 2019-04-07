@@ -1,0 +1,6 @@
+title	Pirates of the Caribbean: On Stranger Tides
+genre	Adventure	Action	Fantasy
+original_language	en
+release_date	2011-05-14
+vote_average	6.4
+vote_count	8292

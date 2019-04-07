@@ -1,0 +1,6 @@
+title	The ComDads
+genre	Comedy
+original_language	fr
+release_date	1983-11-23
+vote_average	6.5
+vote_count	162

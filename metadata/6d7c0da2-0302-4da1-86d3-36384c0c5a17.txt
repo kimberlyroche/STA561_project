@@ -1,0 +1,6 @@
+title	Apostle
+genre	Thriller	Mystery	Fantasy	Horror
+original_language	en
+release_date	2018-09-21
+vote_average	6.1
+vote_count	485

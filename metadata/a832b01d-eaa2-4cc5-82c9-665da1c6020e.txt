@@ -1,0 +1,6 @@
+title	X-Men: Apocalypse
+genre	Action	Adventure	Science Fiction	Fantasy
+original_language	en
+release_date	2016-05-18
+vote_average	6.5
+vote_count	8012

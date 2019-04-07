@@ -1,0 +1,6 @@
+title	Spirited Away
+genre	Animation	Family	Fantasy
+original_language	ja
+release_date	2001-07-20
+vote_average	8.5
+vote_count	7135

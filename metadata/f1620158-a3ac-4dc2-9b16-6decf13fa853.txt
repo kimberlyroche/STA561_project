@@ -1,0 +1,6 @@
+title	The 5th Wave
+genre	Adventure	Science Fiction
+original_language	en
+release_date	2016-01-14
+vote_average	5.8
+vote_count	3536

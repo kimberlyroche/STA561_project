@@ -1,0 +1,6 @@
+title	Bee Movie
+genre	Family	Animation	Adventure	Comedy
+original_language	en
+release_date	2007-10-28
+vote_average	5.9
+vote_count	2401

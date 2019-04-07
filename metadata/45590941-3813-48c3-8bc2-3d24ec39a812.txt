@@ -1,0 +1,6 @@
+title	Rambo
+genre	Action	Thriller
+original_language	en
+release_date	2008-01-24
+vote_average	6.4
+vote_count	1668

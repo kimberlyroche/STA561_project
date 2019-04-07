@@ -1,0 +1,6 @@
+title	Pirates of the Caribbean: The Curse of the Black Pearl
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2003-07-09
+vote_average	7.7
+vote_count	11941

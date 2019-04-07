@@ -1,0 +1,6 @@
+title	The Magnificent Seven
+genre	Adventure	Action	Western
+original_language	en
+release_date	2016-09-14
+vote_average	6.2
+vote_count	3536

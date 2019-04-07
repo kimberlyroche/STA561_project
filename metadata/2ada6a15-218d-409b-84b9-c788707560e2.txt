@@ -1,0 +1,6 @@
+title	The Lego Ninjago Movie
+genre	Action	Animation	Adventure	Family
+original_language	en
+release_date	2017-09-21
+vote_average	6.4
+vote_count	394

@@ -1,0 +1,6 @@
+title	E.T. the Extra-Terrestrial
+genre	Science Fiction	Adventure	Family	Fantasy
+original_language	en
+release_date	1982-06-11
+vote_average	7.5
+vote_count	6203

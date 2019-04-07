@@ -1,0 +1,6 @@
+title	Coco
+genre	Animation	Family	Comedy	Adventure	Fantasy
+original_language	en
+release_date	2017-10-27
+vote_average	8.1
+vote_count	8245

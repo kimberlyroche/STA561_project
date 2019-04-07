@@ -1,0 +1,6 @@
+title	A Simple Favor
+genre	Thriller	Crime	Mystery	Comedy	Drama
+original_language	en
+release_date	2018-08-29
+vote_average	6.6
+vote_count	1574

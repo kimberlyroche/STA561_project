@@ -1,0 +1,6 @@
+title	Self/less
+genre	Science Fiction	Mystery	Thriller
+original_language	en
+release_date	2015-07-10
+vote_average	6.3
+vote_count	1761

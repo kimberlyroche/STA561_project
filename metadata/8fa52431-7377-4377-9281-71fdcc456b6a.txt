@@ -1,0 +1,6 @@
+title	Gundala
+genre	Action	Crime
+original_language	id
+release_date	2019-04-07
+vote_average	0.0
+vote_count	0

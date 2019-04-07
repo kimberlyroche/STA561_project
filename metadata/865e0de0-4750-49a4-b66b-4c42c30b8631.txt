@@ -1,0 +1,6 @@
+title	Assassination Nation
+genre	Thriller	Comedy	Action	Drama	Crime
+original_language	en
+release_date	2018-09-21
+vote_average	6.2
+vote_count	207

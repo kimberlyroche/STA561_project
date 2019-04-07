@@ -1,0 +1,6 @@
+title	John Wick: Chapter 2
+genre	Thriller	Action	Crime
+original_language	en
+release_date	2017-02-08
+vote_average	7.0
+vote_count	5362

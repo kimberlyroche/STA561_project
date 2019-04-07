@@ -1,0 +1,6 @@
+title	Pitch Perfect 2
+genre	Comedy	Music
+original_language	en
+release_date	2015-05-07
+vote_average	6.9
+vote_count	3471

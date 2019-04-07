@@ -1,0 +1,6 @@
+title	Spider-Man 3
+genre	Fantasy	Action	Adventure
+original_language	en
+release_date	2007-05-01
+vote_average	6.1
+vote_count	6816

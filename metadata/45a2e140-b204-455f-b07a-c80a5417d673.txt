@@ -1,0 +1,6 @@
+title	Shrek the Third
+genre	Fantasy	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2007-05-17
+vote_average	6.1
+vote_count	4575

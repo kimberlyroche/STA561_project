@@ -1,0 +1,6 @@
+title	National Lampoon's Christmas Vacation
+genre	Comedy
+original_language	en
+release_date	1989-12-01
+vote_average	7.2
+vote_count	1077

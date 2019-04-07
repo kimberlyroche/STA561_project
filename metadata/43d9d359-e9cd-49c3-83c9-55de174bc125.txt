@@ -1,0 +1,6 @@
+title	Men in Black
+genre	Action	Adventure	Comedy	Science Fiction
+original_language	en
+release_date	1997-07-02
+vote_average	7.0
+vote_count	7588

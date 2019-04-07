@@ -1,0 +1,6 @@
+title	mother!
+genre	Drama	Horror	Mystery
+original_language	en
+release_date	2017-09-13
+vote_average	7.0
+vote_count	3324

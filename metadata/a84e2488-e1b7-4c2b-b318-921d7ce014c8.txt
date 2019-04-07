@@ -1,0 +1,6 @@
+title	Saving Private Ryan
+genre	Drama	History	War
+original_language	en
+release_date	1998-07-24
+vote_average	8.1
+vote_count	8138

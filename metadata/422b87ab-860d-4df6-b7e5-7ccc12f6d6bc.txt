@@ -1,0 +1,6 @@
+title	Man of Steel
+genre	Action	Adventure	Fantasy	Science Fiction
+original_language	en
+release_date	2013-06-12
+vote_average	6.5
+vote_count	9504

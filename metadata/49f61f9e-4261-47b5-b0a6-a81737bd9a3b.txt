@@ -1,0 +1,6 @@
+title	I Feel Pretty
+genre	Comedy
+original_language	en
+release_date	2018-04-19
+vote_average	6.4
+vote_count	973

@@ -1,0 +1,6 @@
+title	Van Helsing
+genre	Horror	Adventure	Action
+original_language	en
+release_date	2004-05-05
+vote_average	6.1
+vote_count	2948

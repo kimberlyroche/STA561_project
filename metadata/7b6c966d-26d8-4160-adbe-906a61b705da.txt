@@ -1,0 +1,6 @@
+title	Reprisal
+genre	Action	Thriller	Crime
+original_language	en
+release_date	2018-08-31
+vote_average	4.9
+vote_count	76

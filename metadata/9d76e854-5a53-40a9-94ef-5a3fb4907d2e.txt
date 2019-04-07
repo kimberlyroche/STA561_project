@@ -1,0 +1,6 @@
+title	Alien
+genre	Horror	Science Fiction
+original_language	en
+release_date	1979-05-25
+vote_average	8.1
+vote_count	7315

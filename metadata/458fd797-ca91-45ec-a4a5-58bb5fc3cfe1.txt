@@ -1,0 +1,6 @@
+title	Pan's Labyrinth
+genre	Fantasy	Drama	War
+original_language	es
+release_date	2006-08-25
+vote_average	7.7
+vote_count	5759

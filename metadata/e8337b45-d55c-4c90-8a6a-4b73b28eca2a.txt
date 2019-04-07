@@ -1,0 +1,6 @@
+title	Guardians of the Galaxy Vol. 2
+genre	Action	Adventure	Comedy	Science Fiction
+original_language	en
+release_date	2017-04-19
+vote_average	7.7
+vote_count	11774

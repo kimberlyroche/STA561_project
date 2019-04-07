@@ -1,0 +1,6 @@
+title	The Running Man
+genre	Action	Science Fiction	Thriller
+original_language	en
+release_date	1987-11-13
+vote_average	6.5
+vote_count	1073

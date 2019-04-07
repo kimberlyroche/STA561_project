@@ -1,0 +1,6 @@
+title	Gattaca
+genre	Thriller	Science Fiction	Mystery	Romance
+original_language	en
+release_date	1997-09-07
+vote_average	7.5
+vote_count	3149

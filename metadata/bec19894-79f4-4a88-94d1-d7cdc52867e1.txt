@@ -1,0 +1,6 @@
+title	Eternal Sunshine of the Spotless Mind
+genre	Science Fiction	Drama	Romance
+original_language	en
+release_date	2004-03-19
+vote_average	8.1
+vote_count	7139

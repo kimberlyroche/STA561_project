@@ -1,0 +1,6 @@
+title	13 Hours: The Secret Soldiers of Benghazi
+genre	Action	Drama	History	Thriller	War
+original_language	en
+release_date	2016-01-13
+vote_average	7.0
+vote_count	1521

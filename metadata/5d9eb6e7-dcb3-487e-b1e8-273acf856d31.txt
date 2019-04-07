@@ -1,0 +1,6 @@
+title	Kiki's Delivery Service
+genre	Animation	Adventure	Drama	Fantasy	Family
+original_language	ja
+release_date	1989-07-29
+vote_average	7.8
+vote_count	1406

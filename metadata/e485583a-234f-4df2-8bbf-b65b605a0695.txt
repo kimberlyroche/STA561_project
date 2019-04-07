@@ -1,0 +1,6 @@
+title	Hotel Artemis
+genre	Thriller	Crime
+original_language	en
+release_date	2018-06-07
+vote_average	5.9
+vote_count	418

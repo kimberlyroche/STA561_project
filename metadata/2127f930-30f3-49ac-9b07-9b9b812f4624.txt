@@ -1,0 +1,6 @@
+title	Charlie and the Chocolate Factory
+genre	Adventure	Comedy	Family	Fantasy
+original_language	en
+release_date	2005-07-13
+vote_average	6.9
+vote_count	7905

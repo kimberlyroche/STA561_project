@@ -1,0 +1,6 @@
+title	Robots
+genre	Animation	Comedy	Family	Science Fiction
+original_language	en
+release_date	2005-03-10
+vote_average	6.2
+vote_count	2399

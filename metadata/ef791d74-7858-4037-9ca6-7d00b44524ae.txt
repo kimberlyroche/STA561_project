@@ -1,0 +1,6 @@
+title	Star Wars: Episode I - The Phantom Menace
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	1999-05-19
+vote_average	6.4
+vote_count	7701

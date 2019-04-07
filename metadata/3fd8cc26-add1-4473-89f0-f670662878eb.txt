@@ -1,0 +1,6 @@
+title	The Intouchables
+genre	Drama	Comedy
+original_language	fr
+release_date	2011-11-02
+vote_average	8.2
+vote_count	9570

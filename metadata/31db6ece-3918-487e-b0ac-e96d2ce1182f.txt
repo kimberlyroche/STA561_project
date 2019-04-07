@@ -1,0 +1,6 @@
+title	Ready Player One
+genre	Adventure	Science Fiction
+original_language	en
+release_date	2018-03-28
+vote_average	7.6
+vote_count	6576

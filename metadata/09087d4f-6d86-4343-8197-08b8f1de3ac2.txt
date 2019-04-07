@@ -1,0 +1,6 @@
+title	Doraemon the Movie: Nobita's Treasure Island
+genre	Animation
+original_language	ja
+release_date	2018-03-03
+vote_average	7.3
+vote_count	8

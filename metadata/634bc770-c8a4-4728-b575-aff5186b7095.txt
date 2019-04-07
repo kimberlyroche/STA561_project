@@ -1,0 +1,6 @@
+title	Nymphomaniac: Vol. II
+genre	Drama	Mystery
+original_language	en
+release_date	2013-12-25
+vote_average	6.7
+vote_count	1418

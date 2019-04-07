@@ -1,0 +1,6 @@
+title	The Spy Who Loved Me
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1977-07-07
+vote_average	6.7
+vote_count	816

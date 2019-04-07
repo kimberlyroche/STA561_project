@@ -1,0 +1,6 @@
+title	Love, Simon
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2018-02-16
+vote_average	8.2
+vote_count	2900

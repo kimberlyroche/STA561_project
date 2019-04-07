@@ -1,0 +1,6 @@
+title	Inglourious Basterds
+genre	Drama	Action	Thriller	War
+original_language	en
+release_date	2009-08-18
+vote_average	8.1
+vote_count	11499

@@ -1,0 +1,6 @@
+title	Jupiter Ascending
+genre	Science Fiction	Fantasy	Action	Adventure
+original_language	en
+release_date	2015-02-04
+vote_average	5.3
+vote_count	4292

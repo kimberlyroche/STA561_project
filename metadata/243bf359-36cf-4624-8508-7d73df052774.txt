@@ -1,0 +1,6 @@
+title	Nerve
+genre	Mystery	Adventure	Crime
+original_language	en
+release_date	2016-07-27
+vote_average	7.1
+vote_count	4431

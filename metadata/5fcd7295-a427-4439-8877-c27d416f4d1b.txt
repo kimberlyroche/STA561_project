@@ -1,0 +1,6 @@
+title	The House with a Clock in Its Walls
+genre	Fantasy	Family
+original_language	en
+release_date	2018-09-15
+vote_average	6.2
+vote_count	812

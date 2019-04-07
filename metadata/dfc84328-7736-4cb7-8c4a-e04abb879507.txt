@@ -1,0 +1,6 @@
+title	Spotlight
+genre	Drama	Thriller	History
+original_language	en
+release_date	2015-11-06
+vote_average	7.8
+vote_count	4773

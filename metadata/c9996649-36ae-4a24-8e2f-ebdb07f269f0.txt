@@ -1,0 +1,6 @@
+title	Braveheart
+genre	Action	Drama	History	War
+original_language	en
+release_date	1995-05-24
+vote_average	7.9
+vote_count	5326

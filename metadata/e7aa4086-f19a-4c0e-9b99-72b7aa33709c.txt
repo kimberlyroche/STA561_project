@@ -1,0 +1,6 @@
+title	The Truman Show
+genre	Comedy	Drama
+original_language	en
+release_date	1998-06-04
+vote_average	8.0
+vote_count	8974

@@ -1,0 +1,6 @@
+title	Wrath of the Titans
+genre	Fantasy	Adventure	Action
+original_language	en
+release_date	2012-03-27
+vote_average	5.6
+vote_count	2354

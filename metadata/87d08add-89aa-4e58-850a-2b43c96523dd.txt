@@ -1,0 +1,6 @@
+title	10 Cloverfield Lane
+genre	Thriller	Science Fiction	Drama
+original_language	en
+release_date	2016-03-10
+vote_average	6.9
+vote_count	4488

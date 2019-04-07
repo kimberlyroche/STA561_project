@@ -1,0 +1,6 @@
+title	The Equalizer
+genre	Thriller	Action	Crime
+original_language	en
+release_date	2014-09-24
+vote_average	7.2
+vote_count	4801

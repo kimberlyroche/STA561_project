@@ -1,0 +1,6 @@
+title	Rio 2
+genre	Adventure	Comedy	Family	Music	Animation
+original_language	en
+release_date	2014-03-19
+vote_average	6.3
+vote_count	1726

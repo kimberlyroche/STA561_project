@@ -1,0 +1,6 @@
+title	Harry Potter and the Half-Blood Prince
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2009-07-07
+vote_average	7.6
+vote_count	10132

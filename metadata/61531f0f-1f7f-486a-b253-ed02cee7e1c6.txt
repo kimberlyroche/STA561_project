@@ -1,0 +1,6 @@
+title	Ip Man 4
+genre	Action	Drama	History
+original_language	cn
+release_date	2019-10-18
+vote_average	0.0
+vote_count	0

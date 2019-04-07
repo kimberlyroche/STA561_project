@@ -1,0 +1,6 @@
+title	How to Train Your Dragon 2
+genre	Fantasy	Action	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2014-06-09
+vote_average	7.7
+vote_count	5354

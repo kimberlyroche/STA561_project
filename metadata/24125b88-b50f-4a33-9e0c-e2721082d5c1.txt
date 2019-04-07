@@ -1,0 +1,6 @@
+title	Crazy, Stupid, Love.
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2011-07-29
+vote_average	7.2
+vote_count	4426

@@ -1,0 +1,6 @@
+title	The Head Hunter
+genre	Horror	Fantasy
+original_language	en
+release_date	2019-04-05
+vote_average	6.7
+vote_count	3

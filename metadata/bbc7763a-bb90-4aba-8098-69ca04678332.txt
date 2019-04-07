@@ -1,0 +1,6 @@
+title	How the Grinch Stole Christmas
+genre	Family	Comedy	Fantasy
+original_language	en
+release_date	2000-11-17
+vote_average	6.6
+vote_count	3475

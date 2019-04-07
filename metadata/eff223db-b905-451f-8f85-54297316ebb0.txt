@@ -1,0 +1,6 @@
+title	The Mule
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2018-12-14
+vote_average	6.5
+vote_count	1136

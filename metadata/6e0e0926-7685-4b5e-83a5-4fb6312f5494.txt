@@ -1,0 +1,6 @@
+title	Annihilation
+genre	Science Fiction
+original_language	en
+release_date	2018-02-22
+vote_average	6.3
+vote_count	4229

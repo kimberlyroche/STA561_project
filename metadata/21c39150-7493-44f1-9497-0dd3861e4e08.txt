@@ -1,0 +1,6 @@
+title	Indiana Jones and the Kingdom of the Crystal Skull
+genre	Adventure	Action
+original_language	en
+release_date	2008-05-21
+vote_average	5.8
+vote_count	4289

@@ -1,0 +1,6 @@
+title	A Wrinkle in Time
+genre	Adventure	Science Fiction	Family	Fantasy
+original_language	en
+release_date	2018-03-08
+vote_average	5.0
+vote_count	1008

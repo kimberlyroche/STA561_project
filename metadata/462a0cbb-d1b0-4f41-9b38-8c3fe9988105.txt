@@ -1,0 +1,6 @@
+title	Ocean's Eight
+genre	Crime	Comedy	Action	Thriller
+original_language	en
+release_date	2018-06-07
+vote_average	6.9
+vote_count	3390

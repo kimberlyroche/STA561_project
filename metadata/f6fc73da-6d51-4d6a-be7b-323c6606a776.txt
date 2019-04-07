@@ -1,0 +1,6 @@
+title	A View to a Kill
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1985-05-24
+vote_average	6.2
+vote_count	826

@@ -1,0 +1,6 @@
+title	Taken
+genre	Action	Thriller
+original_language	en
+release_date	2008-02-18
+vote_average	7.3
+vote_count	6609

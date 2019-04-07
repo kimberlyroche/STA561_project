@@ -1,0 +1,6 @@
+title	Sin City: A Dame to Kill For
+genre	Crime	Thriller
+original_language	en
+release_date	2014-08-20
+vote_average	6.3
+vote_count	2134

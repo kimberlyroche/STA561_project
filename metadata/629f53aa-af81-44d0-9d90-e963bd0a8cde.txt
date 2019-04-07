@@ -1,0 +1,6 @@
+title	R.I.P.D.
+genre	Fantasy	Action	Comedy	Crime
+original_language	en
+release_date	2013-07-18
+vote_average	5.6
+vote_count	1983

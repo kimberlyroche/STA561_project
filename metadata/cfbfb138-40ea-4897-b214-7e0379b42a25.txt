@@ -1,0 +1,6 @@
+title	Incredibles 2
+genre	Action	Adventure	Animation	Family
+original_language	en
+release_date	2018-06-14
+vote_average	7.6
+vote_count	5804

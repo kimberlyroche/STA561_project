@@ -1,0 +1,6 @@
+title	Bruce Almighty
+genre	Fantasy	Comedy
+original_language	en
+release_date	2003-05-23
+vote_average	6.6
+vote_count	5965

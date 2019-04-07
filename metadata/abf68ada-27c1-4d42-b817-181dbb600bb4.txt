@@ -1,0 +1,6 @@
+title	10 Things I Hate About You
+genre	Comedy	Romance	Drama
+original_language	en
+release_date	1999-03-30
+vote_average	7.5
+vote_count	3759

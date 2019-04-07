@@ -1,0 +1,6 @@
+title	Sicario: Day of the Soldado
+genre	Action	Crime	Drama	Thriller
+original_language	en
+release_date	2018-06-27
+vote_average	6.7
+vote_count	1188

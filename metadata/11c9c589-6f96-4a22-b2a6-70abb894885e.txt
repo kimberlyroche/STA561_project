@@ -1,0 +1,6 @@
+title	King Arthur: Legend of the Sword
+genre	Action	Drama	Fantasy
+original_language	en
+release_date	2017-05-10
+vote_average	6.5
+vote_count	3179

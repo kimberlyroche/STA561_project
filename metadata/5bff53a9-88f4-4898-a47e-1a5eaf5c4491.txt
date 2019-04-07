@@ -1,0 +1,6 @@
+title	Ouija
+genre	Horror
+original_language	en
+release_date	2014-10-24
+vote_average	5.1
+vote_count	1609

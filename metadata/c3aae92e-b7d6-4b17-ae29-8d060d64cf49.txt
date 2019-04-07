@@ -1,0 +1,6 @@
+title	Mandy
+genre	Action	Thriller	Horror	Fantasy	Mystery
+original_language	en
+release_date	2018-09-13
+vote_average	6.3
+vote_count	556

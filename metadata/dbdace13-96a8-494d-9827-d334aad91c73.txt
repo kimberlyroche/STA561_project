@@ -1,0 +1,6 @@
+title	The Haunting of Sharon Tate
+genre	Horror	Thriller	Drama
+original_language	en
+release_date	2019-04-05
+vote_average	4.1
+vote_count	4

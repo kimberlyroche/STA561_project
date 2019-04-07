@@ -1,0 +1,6 @@
+title	Night School
+genre	Comedy
+original_language	en
+release_date	2018-09-27
+vote_average	6.0
+vote_count	707

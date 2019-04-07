@@ -1,0 +1,6 @@
+title	Frozen
+genre	Animation	Adventure	Family
+original_language	en
+release_date	2013-11-27
+vote_average	7.3
+vote_count	9396

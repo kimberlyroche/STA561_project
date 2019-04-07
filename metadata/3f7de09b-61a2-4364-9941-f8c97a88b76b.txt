@@ -1,0 +1,6 @@
+title	Black Panther
+genre	Action	Adventure	Fantasy	Science Fiction
+original_language	en
+release_date	2018-02-13
+vote_average	7.4
+vote_count	11456

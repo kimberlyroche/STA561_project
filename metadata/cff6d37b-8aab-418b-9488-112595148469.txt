@@ -1,0 +1,6 @@
+title	The Hunger Games: Mockingjay - Part 1
+genre	Science Fiction	Adventure	Thriller
+original_language	en
+release_date	2014-11-18
+vote_average	6.8
+vote_count	9792

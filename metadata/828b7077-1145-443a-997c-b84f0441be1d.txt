@@ -1,0 +1,6 @@
+title	How About Adolf?
+genre	Comedy
+original_language	de
+release_date	2018-10-18
+vote_average	6.6
+vote_count	18

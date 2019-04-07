@@ -1,0 +1,6 @@
+title	Solo: A Star Wars Story
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2018-05-15
+vote_average	6.6
+vote_count	3530

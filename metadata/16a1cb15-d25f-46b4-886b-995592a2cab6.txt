@@ -1,0 +1,6 @@
+title	Brimstone
+genre	Mystery	Thriller	Western
+original_language	en
+release_date	2016-03-12
+vote_average	7.1
+vote_count	451

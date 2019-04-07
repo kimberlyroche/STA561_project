@@ -1,0 +1,6 @@
+title	The Great Debaters
+genre	Drama
+original_language	en
+release_date	2007-12-27
+vote_average	7.2
+vote_count	255

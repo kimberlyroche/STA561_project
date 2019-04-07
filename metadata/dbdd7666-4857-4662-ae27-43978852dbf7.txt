@@ -1,0 +1,6 @@
+title	Kursk
+genre	Drama	History
+original_language	en
+release_date	2018-11-07
+vote_average	6.7
+vote_count	91

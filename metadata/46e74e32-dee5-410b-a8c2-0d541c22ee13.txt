@@ -1,0 +1,6 @@
+title	My Teacher, My Love
+genre	Romance
+original_language	ja
+release_date	2018-08-01
+vote_average	9.5
+vote_count	1

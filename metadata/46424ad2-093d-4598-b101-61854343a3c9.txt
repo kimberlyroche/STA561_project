@@ -1,0 +1,6 @@
+title	Dogman
+genre	Crime	Drama	Thriller
+original_language	it
+release_date	2018-05-17
+vote_average	7.7
+vote_count	761

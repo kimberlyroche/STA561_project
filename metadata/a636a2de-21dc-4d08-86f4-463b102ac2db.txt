@@ -1,0 +1,6 @@
+title	Alien: Covenant
+genre	Horror	Science Fiction	Thriller
+original_language	en
+release_date	2017-05-09
+vote_average	5.9
+vote_count	4828

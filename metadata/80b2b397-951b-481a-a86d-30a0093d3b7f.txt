@@ -1,0 +1,6 @@
+title	Joker
+genre	Crime	Thriller	Drama
+original_language	en
+release_date	2019-10-03
+vote_average	0.0
+vote_count	0

@@ -1,0 +1,6 @@
+title	2001: A Space Odyssey
+genre	Science Fiction	Mystery	Adventure
+original_language	en
+release_date	1968-04-09
+vote_average	8.0
+vote_count	5618

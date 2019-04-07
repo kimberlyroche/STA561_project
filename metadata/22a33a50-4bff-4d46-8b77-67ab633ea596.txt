@@ -1,0 +1,6 @@
+title	Monty Python and the Holy Grail
+genre	Adventure	Comedy	Fantasy
+original_language	en
+release_date	1975-05-25
+vote_average	7.8
+vote_count	2945

@@ -1,0 +1,6 @@
+title	Tangled
+genre	Animation	Family
+original_language	en
+release_date	2010-02-03
+vote_average	7.5
+vote_count	6132

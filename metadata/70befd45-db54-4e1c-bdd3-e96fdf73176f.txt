@@ -1,0 +1,6 @@
+title	Smallfoot
+genre	Animation	Family	Adventure	Fantasy
+original_language	en
+release_date	2018-09-20
+vote_average	6.6
+vote_count	531

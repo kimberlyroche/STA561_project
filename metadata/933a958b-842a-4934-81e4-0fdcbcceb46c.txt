@@ -1,0 +1,6 @@
+title	Parker
+genre	Action	Crime
+original_language	en
+release_date	2013-01-23
+vote_average	5.8
+vote_count	1825

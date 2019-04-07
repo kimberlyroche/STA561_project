@@ -1,0 +1,6 @@
+title	The Maze Runner
+genre	Action	Mystery	Science Fiction	Thriller
+original_language	en
+release_date	2014-09-10
+vote_average	7.1
+vote_count	10343

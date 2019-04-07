@@ -1,0 +1,6 @@
+title	Despicable Me
+genre	Animation	Family	Comedy
+original_language	en
+release_date	2010-07-08
+vote_average	7.2
+vote_count	9790

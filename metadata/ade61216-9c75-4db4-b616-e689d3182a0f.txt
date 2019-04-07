@@ -1,0 +1,6 @@
+title	Suicide Squad
+genre	Action	Adventure	Crime	Fantasy	Science Fiction
+original_language	en
+release_date	2016-08-03
+vote_average	5.9
+vote_count	13141

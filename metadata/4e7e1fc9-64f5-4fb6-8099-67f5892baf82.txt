@@ -1,0 +1,6 @@
+title	Disobedience
+genre	Drama	Romance
+original_language	en
+release_date	2017-09-10
+vote_average	6.9
+vote_count	372

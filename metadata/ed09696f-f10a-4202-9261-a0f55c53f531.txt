@@ -1,0 +1,6 @@
+title	Alice in Wonderland
+genre	Family	Fantasy	Adventure
+original_language	en
+release_date	2010-03-03
+vote_average	6.6
+vote_count	8394

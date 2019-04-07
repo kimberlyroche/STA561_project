@@ -1,0 +1,6 @@
+title	AVP: Alien vs. Predator
+genre	Adventure	Science Fiction	Action	Horror
+original_language	en
+release_date	2004-08-12
+vote_average	5.6
+vote_count	2086

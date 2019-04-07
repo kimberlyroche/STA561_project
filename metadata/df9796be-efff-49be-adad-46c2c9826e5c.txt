@@ -1,0 +1,6 @@
+title	Chicken Little
+genre	Animation	Family	Comedy
+original_language	en
+release_date	2005-11-04
+vote_average	5.8
+vote_count	1933

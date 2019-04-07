@@ -1,0 +1,6 @@
+title	Justice League
+genre	Action	Adventure	Fantasy	Science Fiction
+original_language	en
+release_date	2017-11-15
+vote_average	6.2
+vote_count	7192

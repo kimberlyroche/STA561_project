@@ -1,0 +1,6 @@
+title	World War Z
+genre	Action	Drama	Horror	Science Fiction	Thriller
+original_language	en
+release_date	2013-06-20
+vote_average	6.7
+vote_count	8839

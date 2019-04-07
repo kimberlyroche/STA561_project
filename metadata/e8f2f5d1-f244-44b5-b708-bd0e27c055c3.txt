@@ -1,0 +1,6 @@
+title	I Kill Giants
+genre	Drama	Fantasy
+original_language	en
+release_date	2018-01-21
+vote_average	6.1
+vote_count	585

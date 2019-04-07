@@ -1,0 +1,6 @@
+title	The Devil Wears Prada
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2006-06-30
+vote_average	7.2
+vote_count	6271

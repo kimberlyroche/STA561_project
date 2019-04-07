@@ -1,0 +1,6 @@
+title	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+genre	Adventure	Family	Fantasy
+original_language	en
+release_date	2005-12-07
+vote_average	7.0
+vote_count	5519

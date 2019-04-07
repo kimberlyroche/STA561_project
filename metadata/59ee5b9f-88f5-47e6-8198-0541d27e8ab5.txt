@@ -1,0 +1,6 @@
+title	Black '47
+genre	Drama	Western
+original_language	en
+release_date	2018-09-05
+vote_average	6.7
+vote_count	68

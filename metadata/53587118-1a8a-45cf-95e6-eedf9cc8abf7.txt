@@ -1,0 +1,6 @@
+title	Gladiator
+genre	Action	Drama	Adventure
+original_language	en
+release_date	2000-05-01
+vote_average	8.1
+vote_count	9356

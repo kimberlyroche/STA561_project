@@ -1,0 +1,6 @@
+title	Chappie
+genre	Crime	Action	Science Fiction
+original_language	en
+release_date	2015-03-04
+vote_average	6.7
+vote_count	4876

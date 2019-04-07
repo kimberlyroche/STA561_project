@@ -1,0 +1,6 @@
+title	Harry Potter and the Deathly Hallows: Part 2
+genre	Family	Fantasy	Adventure
+original_language	en
+release_date	2011-07-07
+vote_average	8.1
+vote_count	11119

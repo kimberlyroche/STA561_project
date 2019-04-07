@@ -1,0 +1,6 @@
+title	Psycho
+genre	Horror
+original_language	en
+release_date	1960-06-16
+vote_average	8.4
+vote_count	4707

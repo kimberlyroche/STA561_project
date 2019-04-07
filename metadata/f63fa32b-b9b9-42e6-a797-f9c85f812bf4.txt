@@ -1,0 +1,6 @@
+title	Love of My Life
+genre	Drama	Comedy
+original_language	en
+release_date	2017-02-17
+vote_average	5.4
+vote_count	8

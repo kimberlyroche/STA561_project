@@ -1,0 +1,6 @@
+title	One Hundred and One Dalmatians
+genre	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	1961-01-25
+vote_average	7.0
+vote_count	3252

@@ -1,0 +1,6 @@
+title	Star Wars
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	1977-05-25
+vote_average	8.2
+vote_count	11109

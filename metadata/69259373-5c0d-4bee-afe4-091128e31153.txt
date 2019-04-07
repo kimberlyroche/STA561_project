@@ -1,0 +1,6 @@
+title	Kill Bill: Vol. 1
+genre	Action	Crime
+original_language	en
+release_date	2003-10-10
+vote_average	7.9
+vote_count	9021

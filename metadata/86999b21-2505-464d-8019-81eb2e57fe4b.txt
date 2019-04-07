@@ -1,0 +1,6 @@
+title	Gone Girl
+genre	Mystery	Thriller	Drama
+original_language	en
+release_date	2014-10-01
+vote_average	7.9
+vote_count	10023

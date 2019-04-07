@@ -1,0 +1,6 @@
+title	The Grinch
+genre	Animation	Family	Comedy	Fantasy
+original_language	en
+release_date	2018-11-08
+vote_average	6.4
+vote_count	938

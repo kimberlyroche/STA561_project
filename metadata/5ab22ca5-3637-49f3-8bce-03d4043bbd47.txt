@@ -1,0 +1,6 @@
+title	Justice League vs. the Fatal Five
+genre	Animation	Action	Science Fiction
+original_language	en
+release_date	2019-03-30
+vote_average	6.3
+vote_count	25

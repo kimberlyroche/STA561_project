@@ -1,0 +1,6 @@
+title	Minority Report
+genre	Action	Thriller	Science Fiction	Mystery
+original_language	en
+release_date	2002-06-20
+vote_average	7.3
+vote_count	4441

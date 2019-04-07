@@ -1,0 +1,6 @@
+title	S.W.A.T.
+genre	Action	Thriller	Crime
+original_language	en
+release_date	2003-08-08
+vote_average	5.9
+vote_count	1205

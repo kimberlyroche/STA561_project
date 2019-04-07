@@ -1,0 +1,6 @@
+title	Shame
+genre	Drama
+original_language	en
+release_date	2011-10-02
+vote_average	7.0
+vote_count	1560

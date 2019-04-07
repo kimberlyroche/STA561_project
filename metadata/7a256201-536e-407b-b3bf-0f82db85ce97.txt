@@ -1,0 +1,6 @@
+title	Balkan Line
+genre	Drama	Action
+original_language	ru
+release_date	2019-03-21
+vote_average	8.6
+vote_count	7

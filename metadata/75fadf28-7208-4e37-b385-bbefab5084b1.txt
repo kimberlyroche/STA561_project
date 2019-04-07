@@ -1,0 +1,6 @@
+title	The Death of Superman
+genre	Animation	Action	Drama	Science Fiction
+original_language	en
+release_date	2019-01-13
+vote_average	7.1
+vote_count	236

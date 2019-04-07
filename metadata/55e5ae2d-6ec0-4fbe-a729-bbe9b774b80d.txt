@@ -1,0 +1,6 @@
+title	A.I. Rising
+genre	Science Fiction	Drama	Romance
+original_language	en
+release_date	2018-02-25
+vote_average	5.5
+vote_count	16

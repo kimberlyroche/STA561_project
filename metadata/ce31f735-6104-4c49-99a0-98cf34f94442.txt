@@ -1,0 +1,6 @@
+title	Beauty and the Beast
+genre	Romance	Family	Animation	Fantasy
+original_language	en
+release_date	1991-11-13
+vote_average	7.7
+vote_count	5511

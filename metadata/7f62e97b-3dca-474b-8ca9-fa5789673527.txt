@@ -1,0 +1,6 @@
+title	Forbidden Planet
+genre	Science Fiction
+original_language	en
+release_date	1956-03-15
+vote_average	7.3
+vote_count	369

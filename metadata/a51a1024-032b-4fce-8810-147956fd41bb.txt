@@ -1,0 +1,6 @@
+title	Power Rangers
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2017-03-23
+vote_average	6.2
+vote_count	2580

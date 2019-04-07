@@ -1,0 +1,6 @@
+title	Justice League: Throne of Atlantis
+genre	Science Fiction	Action	Animation	Adventure
+original_language	en
+release_date	2015-01-27
+vote_average	6.6
+vote_count	393

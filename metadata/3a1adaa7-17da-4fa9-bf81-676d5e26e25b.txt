@@ -1,0 +1,6 @@
+title	Interstellar
+genre	Adventure	Drama	Science Fiction
+original_language	en
+release_date	2014-11-05
+vote_average	8.2
+vote_count	17976

@@ -1,0 +1,6 @@
+title	Licence to Kill
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1989-07-07
+vote_average	6.1
+vote_count	885

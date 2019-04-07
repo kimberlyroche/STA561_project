@@ -1,0 +1,6 @@
+title	Happy Feet
+genre	Animation	Comedy	Family
+original_language	en
+release_date	2006-11-16
+vote_average	6.0
+vote_count	2678

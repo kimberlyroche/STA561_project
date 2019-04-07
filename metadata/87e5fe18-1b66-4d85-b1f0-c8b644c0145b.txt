@@ -1,0 +1,6 @@
+title	Bridge of Spies
+genre	Thriller	Drama
+original_language	en
+release_date	2015-10-15
+vote_average	7.2
+vote_count	4189

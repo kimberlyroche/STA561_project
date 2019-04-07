@@ -1,0 +1,6 @@
+title	Tropic Thunder
+genre	Action	Comedy	Adventure	War
+original_language	en
+release_date	2008-08-09
+vote_average	6.5
+vote_count	2980

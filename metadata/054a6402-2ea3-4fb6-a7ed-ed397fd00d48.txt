@@ -1,0 +1,6 @@
+title	Life of the Party
+genre	Comedy
+original_language	en
+release_date	2018-05-10
+vote_average	6.2
+vote_count	405

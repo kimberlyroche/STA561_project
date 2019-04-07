@@ -1,0 +1,6 @@
+title	Wrong Turn 5: Bloodlines
+genre	Horror	Thriller
+original_language	en
+release_date	2012-10-23
+vote_average	4.9
+vote_count	381

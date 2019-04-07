@@ -1,0 +1,6 @@
+title	Diamonds Are Forever
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1971-12-13
+vote_average	6.4
+vote_count	905

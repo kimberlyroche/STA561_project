@@ -1,0 +1,6 @@
+title	Outlaw King
+genre	Drama	Action	History
+original_language	en
+release_date	2018-11-09
+vote_average	7.0
+vote_count	568

@@ -1,0 +1,6 @@
+title	Suspiria
+genre	Thriller	Mystery	Horror	Fantasy
+original_language	en
+release_date	2018-10-11
+vote_average	7.2
+vote_count	575

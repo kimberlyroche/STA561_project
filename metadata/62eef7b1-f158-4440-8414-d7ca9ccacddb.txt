@@ -1,0 +1,6 @@
+title	Rocky
+genre	Drama
+original_language	en
+release_date	1976-11-21
+vote_average	7.7
+vote_count	3562

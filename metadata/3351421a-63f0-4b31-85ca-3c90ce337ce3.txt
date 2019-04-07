@@ -1,0 +1,6 @@
+title	King of Thieves
+genre	Crime	Drama
+original_language	en
+release_date	2018-09-04
+vote_average	5.3
+vote_count	80

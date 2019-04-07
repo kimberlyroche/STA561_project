@@ -1,0 +1,6 @@
+title	First Man
+genre	History	Drama
+original_language	en
+release_date	2018-10-11
+vote_average	7.1
+vote_count	2053

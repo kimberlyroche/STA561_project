@@ -1,0 +1,6 @@
+title	Irreversible
+genre	Drama	Thriller	Crime	Mystery
+original_language	fr
+release_date	2002-05-22
+vote_average	7.1
+vote_count	972

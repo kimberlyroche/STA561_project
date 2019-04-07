@@ -1,0 +1,6 @@
+title	Ocean's Twelve
+genre	Thriller	Crime
+original_language	en
+release_date	2004-12-09
+vote_average	6.5
+vote_count	3792

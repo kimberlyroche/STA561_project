@@ -1,0 +1,6 @@
+title	Kim Possible
+genre	Family	Action	Adventure	Comedy
+original_language	en
+release_date	2019-02-15
+vote_average	5.7
+vote_count	22

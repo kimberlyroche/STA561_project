@@ -1,0 +1,6 @@
+title	Sniper: Ultimate Kill
+genre	Action	Drama	Thriller
+original_language	en
+release_date	2017-10-03
+vote_average	6.0
+vote_count	51

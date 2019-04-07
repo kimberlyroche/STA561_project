@@ -1,0 +1,6 @@
+title	Green Lantern
+genre	Adventure	Action	Thriller	Science Fiction
+original_language	en
+release_date	2011-06-16
+vote_average	5.1
+vote_count	4146

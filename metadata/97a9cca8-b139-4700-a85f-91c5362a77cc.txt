@@ -1,0 +1,6 @@
+title	Mary Poppins
+genre	Fantasy	Family	Comedy
+original_language	en
+release_date	2018-12-13
+vote_average	6.7
+vote_count	1150

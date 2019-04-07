@@ -1,0 +1,6 @@
+title	Superman Returns
+genre	Adventure	Fantasy	Action	Science Fiction
+original_language	en
+release_date	2006-06-28
+vote_average	5.5
+vote_count	2273

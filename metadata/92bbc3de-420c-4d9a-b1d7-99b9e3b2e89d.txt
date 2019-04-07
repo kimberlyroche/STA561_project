@@ -1,0 +1,6 @@
+title	It's a Wonderful Life
+genre	Drama	Family	Fantasy
+original_language	en
+release_date	1946-12-20
+vote_average	8.2
+vote_count	1946

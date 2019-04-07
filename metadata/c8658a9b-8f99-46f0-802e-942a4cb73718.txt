@@ -1,0 +1,6 @@
+title	Lethal Weapon
+genre	Adventure	Action	Comedy	Thriller	Crime
+original_language	en
+release_date	1987-03-06
+vote_average	7.1
+vote_count	2230

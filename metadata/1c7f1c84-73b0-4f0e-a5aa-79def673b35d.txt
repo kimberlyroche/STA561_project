@@ -1,0 +1,6 @@
+title	The Adventures of Tintin
+genre	Adventure	Animation	Mystery
+original_language	en
+release_date	2011-10-25
+vote_average	6.8
+vote_count	3166

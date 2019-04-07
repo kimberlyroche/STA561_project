@@ -1,0 +1,6 @@
+title	Goldfinger
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1964-09-17
+vote_average	7.4
+vote_count	1649

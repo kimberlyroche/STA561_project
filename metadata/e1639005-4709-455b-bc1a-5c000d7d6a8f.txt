@@ -1,0 +1,6 @@
+title	Austin Powers: The Spy Who Shagged Me
+genre	Adventure	Comedy	Crime	Science Fiction
+original_language	en
+release_date	1999-06-08
+vote_average	6.2
+vote_count	1732

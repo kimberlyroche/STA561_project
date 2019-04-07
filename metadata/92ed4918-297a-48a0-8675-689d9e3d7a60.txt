@@ -1,0 +1,6 @@
+title	Percy Jackson & the Olympians: The Lightning Thief
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2010-02-01
+vote_average	6.1
+vote_count	4058

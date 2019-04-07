@@ -1,0 +1,6 @@
+title	Little Children
+genre	Romance	Drama	Comedy
+original_language	en
+release_date	2006-10-06
+vote_average	7.2
+vote_count	409

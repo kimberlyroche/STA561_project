@@ -1,0 +1,6 @@
+title	Hotel Transylvania
+genre	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2012-09-20
+vote_average	6.9
+vote_count	4808

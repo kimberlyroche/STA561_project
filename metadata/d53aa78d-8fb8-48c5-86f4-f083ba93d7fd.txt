@@ -1,0 +1,6 @@
+title	Wrong Turn
+genre	Horror	Thriller
+original_language	en
+release_date	2003-05-30
+vote_average	6.1
+vote_count	1120

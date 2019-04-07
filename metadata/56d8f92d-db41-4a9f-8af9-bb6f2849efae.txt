@@ -1,0 +1,6 @@
+title	Batman
+genre	Fantasy	Action
+original_language	en
+release_date	1989-06-23
+vote_average	7.1
+vote_count	3668

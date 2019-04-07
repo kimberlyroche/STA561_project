@@ -1,0 +1,6 @@
+title	Ghostland
+genre	Horror	Mystery	Thriller
+original_language	en
+release_date	2018-03-15
+vote_average	7.2
+vote_count	676

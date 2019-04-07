@@ -1,0 +1,6 @@
+title	Memoirs of a Geisha
+genre	Drama	History	Romance
+original_language	en
+release_date	2005-12-06
+vote_average	7.6
+vote_count	1260

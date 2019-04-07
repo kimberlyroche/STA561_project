@@ -1,0 +1,6 @@
+title	Pitch Perfect 3
+genre	Comedy	Music
+original_language	en
+release_date	2017-12-20
+vote_average	6.4
+vote_count	1771

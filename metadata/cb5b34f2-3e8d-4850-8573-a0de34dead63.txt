@@ -1,0 +1,6 @@
+title	Up
+genre	Animation	Comedy	Family	Adventure
+original_language	en
+release_date	2009-05-28
+vote_average	7.9
+vote_count	11941

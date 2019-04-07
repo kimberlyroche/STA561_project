@@ -1,0 +1,6 @@
+title	Ghostbusters
+genre	Comedy	Fantasy
+original_language	en
+release_date	1984-06-07
+vote_average	7.4
+vote_count	4371

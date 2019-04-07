@@ -1,0 +1,6 @@
+title	Sing
+genre	Animation	Comedy	Drama	Family	Music
+original_language	en
+release_date	2016-11-23
+vote_average	6.9
+vote_count	4160

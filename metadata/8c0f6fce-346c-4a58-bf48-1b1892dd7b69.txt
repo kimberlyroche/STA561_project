@@ -1,0 +1,6 @@
+title	Shark Tale
+genre	Animation	Action	Comedy	Family
+original_language	en
+release_date	2004-09-20
+vote_average	5.9
+vote_count	3404

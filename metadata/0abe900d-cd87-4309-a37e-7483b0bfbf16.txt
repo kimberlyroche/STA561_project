@@ -1,0 +1,6 @@
+title	The Sorcerer's Apprentice
+genre	Fantasy	Adventure	Action	Comedy	Drama
+original_language	en
+release_date	2010-07-13
+vote_average	5.9
+vote_count	2765

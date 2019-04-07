@@ -1,0 +1,6 @@
+title	Invasion of the Body Snatchers
+genre	Horror	Science Fiction
+original_language	en
+release_date	1956-02-05
+vote_average	7.5
+vote_count	399

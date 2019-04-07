@@ -1,0 +1,6 @@
+title	Heat
+genre	Action	Crime	Drama	Thriller
+original_language	en
+release_date	1995-12-15
+vote_average	7.8
+vote_count	3086

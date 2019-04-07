@@ -1,0 +1,6 @@
+title	Life Is Beautiful
+genre	Thriller	Drama	Crime
+original_language	ru
+release_date	1979-06-01
+vote_average	8.0
+vote_count	2
