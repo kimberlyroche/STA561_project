@@ -1,0 +1,6 @@
+title	Master Z: Ip Man Legacy
+genre	Action
+original_language	cn
+release_date	2018-12-20
+vote_average	5.1
+vote_count	113

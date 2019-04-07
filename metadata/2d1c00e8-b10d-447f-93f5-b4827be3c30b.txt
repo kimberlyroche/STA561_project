@@ -1,0 +1,6 @@
+title	Redcon-1
+genre	Action	Horror
+original_language	en
+release_date	2018-09-28
+vote_average	5.4
+vote_count	12

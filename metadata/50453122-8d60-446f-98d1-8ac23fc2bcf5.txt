@@ -1,0 +1,6 @@
+title	Bohemian Rhapsody
+genre	Drama	Music
+original_language	en
+release_date	2018-10-24
+vote_average	8.1
+vote_count	6695

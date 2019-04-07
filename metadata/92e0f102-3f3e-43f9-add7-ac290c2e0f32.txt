@@ -1,0 +1,6 @@
+title	Kamen Rider Heisei Generations FOREVER
+genre	Action	Adventure	Science Fiction
+original_language	ja
+release_date	2018-12-22
+vote_average	4.8
+vote_count	8

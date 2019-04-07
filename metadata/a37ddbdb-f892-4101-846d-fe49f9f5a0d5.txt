@@ -1,0 +1,6 @@
+title	Escape Room
+genre	Horror	Thriller	Action	Science Fiction	Adventure	Drama	Mystery
+original_language	en
+release_date	2019-01-03
+vote_average	6.3
+vote_count	622

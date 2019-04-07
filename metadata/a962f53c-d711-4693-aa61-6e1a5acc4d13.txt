@@ -1,0 +1,6 @@
+title	Glass
+genre	Thriller	Mystery	Drama	Fantasy	Science Fiction
+original_language	en
+release_date	2019-01-16
+vote_average	6.5
+vote_count	1960

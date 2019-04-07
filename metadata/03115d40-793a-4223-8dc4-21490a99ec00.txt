@@ -1,0 +1,6 @@
+title	How to Train Your Dragon: The Hidden World
+genre	Animation	Family	Adventure
+original_language	en
+release_date	2019-01-03
+vote_average	7.6
+vote_count	1322

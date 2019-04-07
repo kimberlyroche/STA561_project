@@ -1,0 +1,6 @@
+title	A Madea Family Funeral
+genre	Comedy
+original_language	en
+release_date	2019-03-01
+vote_average	5.6
+vote_count	242
