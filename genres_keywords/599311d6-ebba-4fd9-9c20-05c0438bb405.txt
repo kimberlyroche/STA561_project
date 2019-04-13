@@ -1,0 +1,8 @@
+title	Predators
+genre	Action	Science Fiction	Adventure	Thriller
+original_language	en
+release_date	2010-07-03
+vote_average	6.0
+vote_count	1924
+overview	A mercenary reluctantly leads a motley crew of warriors who soon come to realize they've been captured and deposited on an alien planet by an unknown nemesis. With the exception of a peculiar physician, they are all cold-blooded killers, convicts, death squad members... hunters who have now become the hunted.
+keywords	hunter	predator	yakuza	hunting human beings	alien life-form	sequel	alien	alien planet	jungle	soldier	warrior

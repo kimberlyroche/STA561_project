@@ -1,0 +1,8 @@
+title	The Spectacular Now
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2013-08-02
+vote_average	6.6
+vote_count	1744
+overview	Sutter, a popular party animal unexpectedly meets the introverted Aimee after waking up on a stranger's lawn. As Sutter deals with the problems in his life and Aimee plans for her future beyond school, an unexpected romance blossoms between them.
+keywords	based on novel or book	alcoholism	coming of age	teenager	high school student	based on young adult novel

@@ -1,0 +1,8 @@
+title	Night at the Museum: Battle of the Smithsonian
+genre	Adventure	Fantasy	Action	Comedy	Family
+original_language	en
+release_date	2009-05-20
+vote_average	6.0
+vote_count	3874
+overview	Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.
+keywords	museum	theodore roosevelt	duringcreditsstinger	amelia earhart	smithsonian

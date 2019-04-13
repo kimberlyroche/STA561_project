@@ -1,0 +1,8 @@
+title	Eastern Promises
+genre	Thriller	Crime	Mystery
+original_language	en
+release_date	2007-09-14
+vote_average	7.3
+vote_count	1512
+overview	A Russian teenager, living in London, dies during childbirth but leaves clues to a midwife in her journal, that could tie her child to a rape involving a violent Russian mob family.
+keywords	london	jealousy	parent child relationship	underworld	undercover	hitman	russian	diary	gangster	human trafficking	midwife	murder	orphan	motorcycle	bathhouse

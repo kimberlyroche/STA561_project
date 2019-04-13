@@ -1,0 +1,8 @@
+title	The Emperor's New Groove
+genre	Adventure	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2000-12-09
+vote_average	7.5
+vote_count	3226
+overview	Kuzco is a self-centered emperor who summons Pacha from a village and to tell him that his home will be destroyed to make room for Kuzco's new summer home. Kuzco's advisor, Yzma, tries to poison Kuzco and accidentally turns him into a llama, who accidentally ends up in Pacha's village. Pacha offers to help Kuzco if he doesn't destroy his house, and so they form an unlikely partnership.
+keywords	central and south america	birthday	emperor	palace	kingdom	berater	llama

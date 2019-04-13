@@ -1,0 +1,8 @@
+title	Harry Potter and the Philosopher's Stone
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2001-11-16
+vote_average	7.8
+vote_count	13425
+overview	Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame.
+keywords	witch	based on novel or book	christmas party	magic	halloween	child hero	broom	chosen one	frog	fantasy world	based on young adult novel	wizarding world

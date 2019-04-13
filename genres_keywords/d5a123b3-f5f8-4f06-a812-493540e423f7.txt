@@ -1,0 +1,8 @@
+title	Monty Python and the Holy Grail
+genre	Adventure	Comedy	Fantasy
+original_language	en
+release_date	1975-05-25
+vote_average	7.8
+vote_count	2948
+overview	King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as "it is a silly place".
+keywords	holy grail	monk	england	scotland yard	swordplay	camelot	round table	chapter	animal attack	satire	knight	king arthur	wedding reception	midnight movie	cult film	monty python	knights of the round table	anarchic comedy

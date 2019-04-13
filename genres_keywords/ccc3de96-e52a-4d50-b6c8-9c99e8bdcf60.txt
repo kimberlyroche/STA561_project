@@ -1,0 +1,8 @@
+title	Ghost Stories
+genre	Drama	Horror
+original_language	en
+release_date	2018-01-20
+vote_average	6.6
+vote_count	510
+overview	Professor Phillip Goodman devotes his life to exposing phony psychics and fraudulent supernatural shenanigans. His skepticism soon gets put to the test when he receives news of three chilling and inexplicable cases -- disturbing visions in an abandoned asylum, a car accident deep in the woods and the spirit of an unborn child. Even scarier -- each of the macabre stories seems to have a sinister connection to the professor's own life.
+keywords	journalist	asylum	anthology	flashback	apparition	based on play or musical	car accident	guilt	ghost	tunnel

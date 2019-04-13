@@ -1,0 +1,8 @@
+title	Groundhog Day
+genre	Romance	Fantasy	Drama	Comedy
+original_language	en
+release_date	1993-02-11
+vote_average	7.5
+vote_count	3895
+overview	A narcissistic T.V. weatherman, along with his attractive-but-distant producer and mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.
+keywords	deja vu	groundhog	weather forecast	telecaster	pennsylvania	alarm clock	winter	time warp	time loop	cult film	existentialism	groundhog day

@@ -1,0 +1,8 @@
+title	Divergent
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2014-03-14
+vote_average	6.9
+vote_count	8055
+overview	In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.
+keywords	based on novel or book	future	dystopia	futuristic	youth	alternate world	individuality	dystopian future	caste system	based on young adult novel

@@ -1,0 +1,8 @@
+title	The Incredibles
+genre	Action	Adventure	Animation	Family
+original_language	en
+release_date	2004-11-05
+vote_average	7.7
+vote_count	10280
+overview	Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.
+keywords	secret identity	secret	hero	island	wretch	weapon	lawsuit	superhero	super power

@@ -1,0 +1,8 @@
+title	Donnie Darko
+genre	Fantasy	Drama	Mystery
+original_language	en
+release_date	2001-01-18
+vote_average	7.8
+vote_count	6503
+overview	After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.
+keywords	parent child relationship	airplane	time travel	school presentation	loss	school performance	suburbia	vision	morality	psychological thriller	teenager	cult film	1980s

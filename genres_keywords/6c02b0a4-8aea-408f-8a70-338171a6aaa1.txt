@@ -1,0 +1,8 @@
+title	San Andreas
+genre	Action	Drama	Thriller
+original_language	en
+release_date	2015-05-27
+vote_average	6.1
+vote_count	4973
+overview	In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.
+keywords	california	earthquake	catastrophe	disaster movie	3d	san andreas	san andreas california	rescue operation

@@ -1,0 +1,8 @@
+title	Pitch Perfect
+genre	Comedy	Music	Romance
+original_language	en
+release_date	2012-09-28
+vote_average	7.3
+vote_count	4096
+overview	College student Beca knows she does not want to be part of a clique, but that's exactly where she finds herself after arriving at her new school. Thrust in among mean gals, nice gals and just plain weird gals, Beca finds that the only thing they have in common is how well they sing together. She takes the women of the group out of their comfort zone of traditional arrangements and into a world of amazing harmonic combinations in a fight to the top of college music competitions.
+keywords	competition	roommate	college	female friendship	music	misfit	hazing	university	audition	group of friends	dorm room	bickering	dj	singing competition	film score	female musician	young adult	acapella

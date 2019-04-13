@@ -1,0 +1,8 @@
+title	Star Wars: The Force Awakens
+genre	Action	Adventure	Science Fiction	Fantasy
+original_language	en
+release_date	2015-12-15
+vote_average	7.4
+vote_count	12343
+overview	Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.
+keywords	android	spacecraft	jedi	imax	space opera	3d

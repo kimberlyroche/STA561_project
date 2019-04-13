@@ -1,0 +1,8 @@
+title	Tag
+genre	Comedy	Drama
+original_language	en
+release_date	2018-05-30
+vote_average	6.8
+vote_count	1201
+overview	For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
+keywords	travel	game	group of friends	based on supposedly true story	classmates

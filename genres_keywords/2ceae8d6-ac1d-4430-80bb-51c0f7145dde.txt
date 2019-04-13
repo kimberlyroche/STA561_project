@@ -1,0 +1,8 @@
+title	Marley & Me
+genre	Comedy	Family
+original_language	en
+release_date	2008-12-25
+vote_average	7.1
+vote_count	2615
+overview	A newly married couple who, in the process of starting a family, learn many of life's important lessons from their trouble-loving retriever, Marley. Packed with plenty of laughs to lighten the load, the film explores the highs and lows of marriage, maturity and confronting one's own mortality, as seen through the lens of family life with a dog.
+keywords	journalist	based on novel or book	puppy	love	dog	duringcreditsstinger	columnist	animal lead

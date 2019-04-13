@@ -1,0 +1,8 @@
+title	R.I.P.D.
+genre	Fantasy	Action	Comedy	Crime
+original_language	en
+release_date	2013-07-18
+vote_average	5.6
+vote_count	1988
+overview	A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov.
+keywords	detective	gold	wife	police operation	investigation	partner	love	revenge	undead	death	husband	ghost	police department

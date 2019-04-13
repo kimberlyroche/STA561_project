@@ -1,0 +1,8 @@
+title	Movie 43
+genre	Comedy
+original_language	en
+release_date	2013-01-01
+vote_average	4.4
+vote_count	1292
+overview	The film is composed of multiple comedy shorts presented through an overarching segment titled "The Pitch", in which Charlie Wessler, a mad screenwriter, is attempting to pitch a script to film executive Griffin Schraeder. After revealing several of the stories in his script, Wessler becomes agitated when Schraeder dismisses his outrageous ideas, and he pulls a gun on him and forces him to listen to multiple other stories before making Schraeder consult his manager, Bob Mone, to purchase the film.
+keywords	slapstick	anthology	ensemble cast	duringcreditsstinger	woman director	laxative

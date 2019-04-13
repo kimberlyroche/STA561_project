@@ -1,0 +1,8 @@
+title	Rocky IV
+genre	Drama
+original_language	en
+release_date	1985-11-21
+vote_average	6.9
+vote_count	1914
+overview	After iron man Drago, a highly intimidating 6-foot-5, 261-pound Soviet athlete, kills Apollo Creed in an exhibition match, Rocky comes to the heart of Russia for 15 pile-driving boxing rounds of revenge.
+keywords	usa	transporter	loss of loved one	cold war	soviet union	boxer	kgb	dying and death	loss of powers	boxing match	training	matter of life and death	sibiria	friendship	victory	sport	revenge

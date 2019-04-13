@@ -1,0 +1,8 @@
+title	The Lord of the Rings: The Return of the King
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2003-12-01
+vote_average	8.4
+vote_count	12777
+overview	Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam bring the ring closer to the heart of Mordor, the dark lord's realm.
+keywords	elves	dwarf	orcs	middle-earth (tolkien)	hobbit	based on novel or book	suspicion	volcano	power	giant spider	bravery	war	addiction	honor	royalty	troll	brutality	violence	ghost	wizard	quest	sword and sorcery

@@ -1,0 +1,8 @@
+title	Marainthirunthu Paarkum Marmam Enna
+genre	Family	Crime	Romance
+original_language	ta
+release_date	2018-08-17
+vote_average	5.9
+vote_count	7
+overview	A daring young man joins a gang that is behind chain-snatching crimes in the city. What's his game plan?
+keywords

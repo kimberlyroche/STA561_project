@@ -1,0 +1,8 @@
+title	Mulholland Drive
+genre	Thriller	Drama	Mystery
+original_language	en
+release_date	2001-09-08
+vote_average	7.8
+vote_count	2866
+overview	Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.
+keywords	schizophrenia	identity	amnesia	loss of sense of reality	suppressed past	trauma	key	bisexuality	hallucination	surreal	job interview	casting	suspense	lesbian	los angeles	neo-noir

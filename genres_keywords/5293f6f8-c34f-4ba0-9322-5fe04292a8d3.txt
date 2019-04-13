@@ -1,0 +1,8 @@
+title	Adrift
+genre	Thriller	Romance	Adventure
+original_language	en
+release_date	2018-05-31
+vote_average	6.7
+vote_count	1136
+overview	A true story of survival, as a young couple's chance encounter leads them first to love, and then on the adventure of a lifetime as they face one of the most catastrophic hurricanes in recorded history.
+keywords	sailboat	boat	marriage proposal	hurricane	sailing	vegetarian	tahiti	based on a true story	survival	couple

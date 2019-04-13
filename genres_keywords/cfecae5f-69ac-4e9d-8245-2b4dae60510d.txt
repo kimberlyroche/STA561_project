@@ -1,0 +1,8 @@
+title	Little
+genre	Comedy	Fantasy
+original_language	en
+release_date	2019-04-04
+vote_average	6.7
+vote_count	9
+overview	A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.
+keywords

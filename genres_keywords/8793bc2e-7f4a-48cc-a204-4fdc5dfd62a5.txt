@@ -1,0 +1,8 @@
+title	TRON: Legacy
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	2010-12-10
+vote_average	6.3
+vote_count	4284
+overview	Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.
+keywords	artificial intelligence	secret identity	computer program	dystopia	computer	deception	duel	motorcycle	neon light	autocracy

@@ -1,0 +1,8 @@
+title	Step Up All In
+genre	Romance	Drama	Music
+original_language	en
+release_date	2014-07-16
+vote_average	6.7
+vote_count	1159
+overview	All-stars from the previous Step Up installments come together in glittering Las Vegas, battling for a victory that could define their dreams and their careers.
+keywords	street artist	dance competition	woman director

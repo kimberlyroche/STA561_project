@@ -1,0 +1,8 @@
+title	Big Hero 6
+genre	Adventure	Family	Animation	Action	Comedy
+original_language	en
+release_date	2014-10-24
+vote_average	7.8
+vote_count	9908
+overview	The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
+keywords	sibling relationship	hero	talent	revenge	best friend	another dimension	robot	boy genius	hate	aftercreditsstinger	moral dilemma	3d	teen superhero	dead brother

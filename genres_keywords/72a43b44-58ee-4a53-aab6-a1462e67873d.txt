@@ -1,0 +1,8 @@
+title	Allied
+genre	Action	Drama	War	Romance	Thriller
+original_language	en
+release_date	2016-11-17
+vote_average	6.7
+vote_count	2664
+overview	In 1942, an intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.
+keywords	spy	resistance	world war ii	nazi	french	war	love	north africa	1940s	french woman

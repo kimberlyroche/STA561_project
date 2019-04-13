@@ -1,0 +1,8 @@
+title	Rise of the Planet of the Apes
+genre	Thriller	Action	Drama	Science Fiction
+original_language	en
+release_date	2011-08-03
+vote_average	7.2
+vote_count	7078
+overview	Scientist Will Rodman is determined to find a cure for Alzheimer's, the disease which has slowly consumed his father. Will feels certain he is close to a breakthrough and tests his latest serum on apes, noticing dramatic increases in intelligence and brain activity in the primate subjects – especially Caesar, his pet chimpanzee.
+keywords	intelligence	zoo	cage	dystopia	alzheimer's disease	golden gate bridge	ape	monkey	medical research

@@ -1,0 +1,8 @@
+title	Despicable Me
+genre	Animation	Family	Comedy
+original_language	en
+release_date	2010-07-08
+vote_average	7.2
+vote_count	9810
+overview	Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.
+keywords	parent child relationship	adoptive father	orphanage	life's dream	rivalry	stealing	ballet	little girl	orphan	tomboy	intelligent	kids	evil doctor	duringcreditsstinger	minions	supervillain	3d	despicable	cattivissimo

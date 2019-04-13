@@ -1,0 +1,8 @@
+title	Planet of the Apes
+genre	Thriller	Science Fiction	Action	Adventure
+original_language	en
+release_date	2001-07-25
+vote_average	5.7
+vote_count	2106
+overview	After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Davidson finds himself trapped in a savage world where talking apes dominate the human race. Desperate to find a way home, Leo must evade the invincible gorilla army led by Ruthless General Thade.
+keywords	gorilla	space marine	space suit	revolution	chimp	slavery	space travel	time travel	dystopia	alien planet	ape	human subjugation

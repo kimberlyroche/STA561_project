@@ -1,0 +1,8 @@
+title	Gangs of New York
+genre	Drama	History	Crime
+original_language	en
+release_date	2002-12-14
+vote_average	7.2
+vote_count	3374
+overview	It's 1863. America was born in the streets. Amsterdam Vallon returns to the Five Points of America to seek vengeance against the psychotic gangland kingpin, Bill the Butcher, who murdered his father years earlier. With an eager pickpocket by his side and a whole new army, Vallon fights his way to seek vengeance on the Butcher and restore peace in the area.
+keywords	fire	irish-american	immigrant	gang war	pickpocket	ship	gang of thieves	butcher	pig	army	rescue	gang	19th century

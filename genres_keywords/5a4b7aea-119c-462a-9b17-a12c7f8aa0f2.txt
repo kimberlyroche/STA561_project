@@ -1,0 +1,8 @@
+title	Aladdin
+genre	Animation	Family	Adventure	Fantasy	Romance
+original_language	en
+release_date	1992-11-25
+vote_average	7.6
+vote_count	6139
+overview	Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin.  The couple falls in love, although Jasmine may only marry a prince.  After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.
+keywords	magic	parrot	musical	tiger	sultan	flying carpet	cartoon	princess	love	animation	monkey	arab	aftercreditsstinger	genie	arabian nights	three wishes	animal sidekick	magic lamp

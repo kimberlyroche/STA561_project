@@ -1,0 +1,8 @@
+title	Once Upon a Time in America
+genre	Drama	Crime
+original_language	en
+release_date	1984-05-23
+vote_average	8.4
+vote_count	2152
+overview	A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.
+keywords	life and death	corruption	street gang	rape	sadistic	lovesickness	sexual abuse	regret	prohibition	money laundering	opium	gangster	mafia boss	murder	memory	torture	new york city	brooklyn bridge	childhood friends	1920s	1960s	1930s

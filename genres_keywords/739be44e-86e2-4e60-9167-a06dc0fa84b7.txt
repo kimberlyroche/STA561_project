@@ -1,0 +1,8 @@
+title	Shrek the Third
+genre	Fantasy	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2007-05-17
+vote_average	6.1
+vote_count	4598
+overview	The King of Far Far Away has died and Shrek and Fiona are to become King &amp; Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.
+keywords	ambush	sadness	stage	liberation of prisoners	island	traitor	shipwreck	prince	pregnancy	ship	donkey	kingdom	theatre play	transformation	conciliation	tricks	heir to the throne	assault	boarding school	teacher	best friend	dragon	cowardliness	capture	duringcreditsstinger	ogre

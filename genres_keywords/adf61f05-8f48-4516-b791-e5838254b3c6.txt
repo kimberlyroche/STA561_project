@@ -1,0 +1,8 @@
+title	The Da Vinci Code
+genre	Thriller	Mystery
+original_language	en
+release_date	2006-05-17
+vote_average	6.6
+vote_count	4925
+overview	A murder in Paris’ Louvre Museum and cryptic clues in some of Leonardo da Vinci’s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that — should it come to light — could rock the very foundations of Christianity.
+keywords	paris france	holy grail	christianity	monk	based on novel or book	zurich	secret society	louvre	heresy	mona lisa	freemason	conspiracy	pentagram	tomb	catholicism	cryptologist	iconography	albino	sect

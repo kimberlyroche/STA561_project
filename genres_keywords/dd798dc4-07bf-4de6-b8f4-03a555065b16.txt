@@ -1,0 +1,8 @@
+title	Chronicle
+genre	Science Fiction	Drama	Thriller
+original_language	en
+release_date	2012-02-01
+vote_average	6.7
+vote_count	2999
+overview	Three high school students make an incredible discovery, leading to their developing uncanny powers beyond their understanding. As they learn to control their abilities and use them to their advantage, their lives start to spin out of control, and their darker sides begin to take over.
+keywords	usa	seattle	telekinesis	friendship	loneliness	outcast	coming of age	student	teenager	super power	found footage	aftercreditsstinger	abuse	bittersweet

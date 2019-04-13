@@ -1,0 +1,8 @@
+title	Bambi
+genre	Animation	Drama	Family
+original_language	en
+release_date	1942-08-14
+vote_average	6.9
+vote_count	2858
+overview	Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.
+keywords	loss of loved one	forest	deer	coming of age	best friend	rabbit	forest fire

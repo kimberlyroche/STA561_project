@@ -1,0 +1,8 @@
+title	Creed
+genre	Drama
+original_language	en
+release_date	2015-11-25
+vote_average	7.3
+vote_count	3850
+overview	The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
+keywords	underdog	mexico	mentor	trainer	sport	cancer	spin off	underground fighting	motivational speaker	boxing	legacy	first part

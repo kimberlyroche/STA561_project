@@ -1,0 +1,8 @@
+title	Madura Raja
+genre	Action	Comedy	Family	Thriller
+original_language	ml
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	It is the story which narrates the history of raja ,the story is about a don in madhura raja and his actions.
+keywords

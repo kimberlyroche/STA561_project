@@ -1,0 +1,8 @@
+title	The Godfather
+genre	Drama	Crime
+original_language	en
+release_date	1972-03-14
+vote_average	8.6
+vote_count	9723
+overview	Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.
+keywords	italy	loss of loved one	love at first sight	italian american	europe	patriarch	organized crime	mafia	lawyer	crime family	rise to power	mob boss	1940s	1950s

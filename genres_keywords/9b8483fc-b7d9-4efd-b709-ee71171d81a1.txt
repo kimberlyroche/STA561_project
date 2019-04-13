@@ -1,0 +1,8 @@
+title	Papillon
+genre	Drama	History
+original_language	en
+release_date	2017-09-07
+vote_average	7.4
+vote_count	582
+overview	Henri “Papillon” Charrière, a safecracker from the Parisian underworld, is wrongfully convicted and sentenced to life imprisonment in the penal colony of French Guiana, where he forges a strong friendship with Louis Dega, a counterfeiter who needs his protection.
+keywords	based on novel or book	biography	remake	solitary confinement	south america	prison break	island prison	devil's island	french guiana

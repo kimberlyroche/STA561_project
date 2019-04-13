@@ -1,0 +1,8 @@
+title	Terminator Genisys
+genre	Science Fiction	Action	Thriller	Adventure
+original_language	en
+release_date	2015-06-23
+vote_average	5.9
+vote_count	5200
+overview	The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.
+keywords	saving the world	artificial intelligence	cyborg	killer robot	future	time travel	dystopia	sequel	robot	duringcreditsstinger	3d	fin du monde

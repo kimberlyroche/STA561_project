@@ -1,0 +1,8 @@
+title	Batman
+genre	Fantasy	Action
+original_language	en
+release_date	1989-06-23
+vote_average	7.1
+vote_count	3679
+overview	The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker, who has seized control of Gotham's underworld.
+keywords	double life	dc comics	dual identity	chemical	crime fighter	fictional place	gotham city	superhero	super power

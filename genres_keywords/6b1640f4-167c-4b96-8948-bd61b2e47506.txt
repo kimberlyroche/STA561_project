@@ -1,0 +1,8 @@
+title	Flatliners
+genre	Drama	Science Fiction
+original_language	en
+release_date	2017-09-28
+vote_average	5.7
+vote_count	1205
+overview	Five medical students, hoping to gain insight into the mystery of what lies beyond the confines of life, embark on a daring and dangerous experiment. By stopping their hearts for short periods of time, each triggers a near-death experience. As the investigation becomes more and more perilous, they are forced to confront the sins of their pasts, as well as contend with the paranormal consequences of trespassing to the other side.
+keywords	bullying	remake	car accident	death	medical student	guilty conscience	near-death experience	competitiveness	scientific experiment

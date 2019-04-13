@@ -1,0 +1,8 @@
+title	Back to the Future Part II
+genre	Adventure	Comedy	Family	Science Fiction
+original_language	en
+release_date	1989-11-22
+vote_average	7.7
+vote_count	6683
+overview	Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.
+keywords	skateboarding	flying car	car race	delorean	lightning	almanac	inventor	time travel	sequel	diner	alternate history	teenager	electric guitar	walking cane	high school dance	hoverboard	video phone

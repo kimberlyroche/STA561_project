@@ -1,0 +1,8 @@
+title	North by Northwest
+genre	Mystery	Thriller
+original_language	en
+release_date	1959-07-07
+vote_average	8.0
+vote_count	1804
+overview	Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.
+keywords	assassination	spy	mount rushmore national memorial	romance	suspense	mistaken identity	on the run	fugitive	espionage	advertising	framed	government agent

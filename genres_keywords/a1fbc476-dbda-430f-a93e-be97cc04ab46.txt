@@ -1,0 +1,8 @@
+title	John Wick: Chapter 2
+genre	Thriller	Action	Crime
+original_language	en
+release_date	2017-02-08
+vote_average	7.0
+vote_count	5378
+overview	John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.
+keywords	italy	gun	roof	party	sequel	handshake

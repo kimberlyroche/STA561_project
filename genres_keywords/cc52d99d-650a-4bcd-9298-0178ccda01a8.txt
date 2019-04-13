@@ -1,0 +1,8 @@
+title	The Front Runner
+genre	Drama	History
+original_language	en
+release_date	2018-11-06
+vote_average	6.1
+vote_count	81
+overview	Gary Hart, former Senator of Colorado, becomes the front-runner for the Democratic presidential nomination in 1987. Hart's intelligence, charisma and idealism makes him popular with young voters, leaving him with a seemingly clear path to the White House. All that comes crashing down when allegations of an extramarital affair surface in the media, forcing the candidate to address a scandal that threatens to derail his campaign and personal life.
+keywords	colorado	senator	scandal	biography	politics	politician	based on a true story	presidential campaign	1980s	affair	20th century

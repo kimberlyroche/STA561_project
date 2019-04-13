@@ -1,0 +1,8 @@
+title	One Flew Over the Cuckoo's Nest
+genre	Drama
+original_language	en
+release_date	1975-11-18
+vote_average	8.4
+vote_count	5315
+overview	While serving time for insanity at a state mental hospital, implacable rabble-rouser, Randle Patrick McMurphy, inspires his fellow patients to rebel against the authoritarian rule of head nurse, Mildred Ratched.
+keywords	nurse	based on novel or book	oregon	lunatic asylum	friendship	hospital	female villain	shock treatment

@@ -1,0 +1,8 @@
+title	Ouija
+genre	Horror
+original_language	en
+release_date	2014-10-24
+vote_average	5.1
+vote_count	1612
+overview	A group of friends must confront their most terrifying fears when they awaken the dark powers of an ancient spirit board.
+keywords	loss of loved one	supernatural	swimming pool	ouija	ouija board	teenager	based on game	ghost	spiritualism

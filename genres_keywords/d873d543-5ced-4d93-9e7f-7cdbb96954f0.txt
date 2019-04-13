@@ -1,0 +1,8 @@
+title	Sicario
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2015-09-17
+vote_average	7.3
+vote_count	4348
+overview	An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.
+keywords	mexico	cia	smoking	texas	fbi	murder	dirty cop	soccer	drugs	night vision	death of daughter	tunnel	el paso	moral dilemma	death of wife	mexican cartel	first part

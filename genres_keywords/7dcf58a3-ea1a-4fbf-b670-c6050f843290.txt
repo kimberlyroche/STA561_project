@@ -1,0 +1,8 @@
+title	Back to the Future Part III
+genre	Adventure	Comedy	Family	Science Fiction
+original_language	en
+release_date	1990-05-25
+vote_average	7.4
+vote_count	5277
+overview	The final installment of the Back to the Future trilogy finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.
+keywords	railroad robber	california	delorean	indian territory	sports car	inventor	locomotive	saloon	horseback riding	time travel	outlaw	sequel	mad scientist	native american	western	shootout	gunfight	train	wild west	cavalry

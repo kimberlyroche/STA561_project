@@ -1,0 +1,8 @@
+title	Sully
+genre	Drama	History
+original_language	en
+release_date	2016-09-07
+vote_average	7.1
+vote_count	3759
+overview	On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the frigid waters of the Hudson River, saving the lives of all 155 aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.
+keywords	new york	pilot	airplane	investigation	biography	based on a true story	travel	rescue	aviation	airplane accident	based on memoir or autobiography	hudson river	imax

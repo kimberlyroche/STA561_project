@@ -1,0 +1,8 @@
+title	The Patriot
+genre	Drama	History	War	Action
+original_language	en
+release_date	2000-06-28
+vote_average	7.0
+vote_count	1881
+overview	After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.
+keywords	rebel	southern usa	loss of loved one	martial arts	general	passion	insurgence	french	daughter	south carolina	british	based on a true story	gore	mission	american revolution

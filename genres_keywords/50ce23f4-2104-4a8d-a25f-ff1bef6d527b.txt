@@ -1,0 +1,8 @@
+title	The Hangover
+genre	Comedy
+original_language	en
+release_date	2009-06-02
+vote_average	7.2
+vote_count	10100
+overview	When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.
+keywords	blackjack	stag night	hangover	lost weekend	bag over head	chapel	hit with tire iron	memory loss	las vegas	drugs	duringcreditsstinger	elevator

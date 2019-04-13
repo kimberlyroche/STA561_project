@@ -1,0 +1,8 @@
+title	The Ring
+genre	Horror	Mystery
+original_language	en
+release_date	2002-10-18
+vote_average	6.5
+vote_count	3117
+overview	It sounded like just another urban legend: A videotape filled with nightmarish images, leading to a phone call foretelling the viewer's death in exactly seven days. As a newspaper reporter, Rachel Keller was naturally skeptical of the story, until four teenagers all met with mysterious deaths exactly one week after watching just such a tape. Allowing her investigative curiosity to get the better of her, Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring.
+keywords	journalist	drowning	island	television	horse	investigation	telephone	supernatural	remake	paranormal	curse	cabin in the woods	ghost	well	videotape	mysterious death

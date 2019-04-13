@@ -1,0 +1,8 @@
+title	Live and Let Die
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1973-07-05
+vote_average	6.5
+vote_count	866
+overview	James Bond must investigate a mysterious murder case of a British agent in New Orleans. Soon he finds himself up against a gangster boss named Mr. Big.
+keywords	london	new york	bomb	england	spy	sheriff	based on novel or book	dual identity	secret identity	boat	drug traffic	tarot cards	heroin	crocodile	jamaica	secret mission	secret intelligence service	drug smuggle	voodoo	tombstone	speedboat 	aftercreditsstinger

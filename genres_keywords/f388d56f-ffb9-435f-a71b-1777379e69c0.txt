@@ -1,0 +1,8 @@
+title	Mamma Mia!
+genre	Comedy	Romance
+original_language	en
+release_date	2008-07-02
+vote_average	6.9
+vote_count	3504
+overview	An independent, single mother who owns a small hotel on a Greek island is about to marry off the spirited young daughter she's raised alone. But, the daughter has secretly invited three of her mother's ex-lovers in the hopes of finding her biological father.
+keywords	single parent	parent child relationship	greece	musical	single	based on song, poem or rhyme	duringcreditsstinger	woman director

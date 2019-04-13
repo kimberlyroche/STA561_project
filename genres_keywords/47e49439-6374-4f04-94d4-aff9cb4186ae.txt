@@ -1,0 +1,8 @@
+title	Akira
+genre	Science Fiction	Animation
+original_language	ja
+release_date	1988-07-16
+vote_average	7.9
+vote_count	1576
+overview	A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.
+keywords	saving the world	total destruction	megacity	street gang	underground	general	stadium	experiment	atomic bomb	mutation	dystopia	army	cyberpunk	motorcycle gang	cult film	anime

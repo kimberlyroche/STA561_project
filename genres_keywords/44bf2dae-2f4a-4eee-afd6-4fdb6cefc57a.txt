@@ -1,0 +1,8 @@
+title	Dragon Ball Z: Fusion Reborn
+genre	Action	Animation
+original_language	ja
+release_date	1995-03-04
+vote_average	7.3
+vote_count	286
+overview	Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.
+keywords	anime

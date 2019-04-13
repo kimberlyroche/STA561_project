@@ -1,0 +1,8 @@
+title	Bruce Almighty
+genre	Fantasy	Comedy
+original_language	en
+release_date	2003-05-23
+vote_average	6.6
+vote_count	5986
+overview	Bruce Nolan toils as a 'human interest' television reporter in Buffalo, N.Y., but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God—and the Almighty responds, endowing Bruce with all of His divine powers.
+keywords	christianity	moon	moses	street gang	lovesickness	journalism	new love	faith	prayer	god	car crash	responsibility

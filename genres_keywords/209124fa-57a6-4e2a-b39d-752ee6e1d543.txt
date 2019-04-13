@@ -1,0 +1,8 @@
+title	The Nun
+genre	Horror	Mystery	Thriller
+original_language	en
+release_date	2018-09-05
+vote_average	5.6
+vote_count	2589
+overview	When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.
+keywords	rome italy	father	supernatural	spirit	demon	spin off	evil nun	demonic possession	romania	murder mystery	ancient evil	the conjuring universe

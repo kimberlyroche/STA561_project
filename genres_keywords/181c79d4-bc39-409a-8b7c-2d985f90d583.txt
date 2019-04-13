@@ -1,0 +1,8 @@
+title	Galveston
+genre	Drama	Thriller	Action	Crime
+original_language	en
+release_date	2018-10-10
+vote_average	6.2
+vote_count	109
+overview	After a violent encounter, Roy finds Rocky and sees something in her eyes that prompts a fateful decision. He takes her with him as he flees to Galveston, an action as ill-advised as it is inescapable.
+keywords	based on novel or book	hurricane	motel	hitman	laundry

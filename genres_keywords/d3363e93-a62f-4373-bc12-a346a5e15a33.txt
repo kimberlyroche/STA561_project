@@ -1,0 +1,8 @@
+title	The Lord of the Rings: The Two Towers
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2002-12-18
+vote_average	8.3
+vote_count	12111
+overview	Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.
+keywords	elves	dwarf	orcs	middle-earth (tolkien)	hobbit	based on novel or book	explosive	cave	power	fort	army	addiction	mission	attack	guide	split personality	wizard	ring	sword and sorcery

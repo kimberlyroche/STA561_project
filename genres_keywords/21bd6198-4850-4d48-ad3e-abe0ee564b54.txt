@@ -1,0 +1,8 @@
+title	Pirates of the Caribbean: Dead Man's Chest
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2006-06-20
+vote_average	7.2
+vote_count	9102
+overview	Captain Jack Sparrow works his way out of a blood debt with the ghostly Davey Jones, he also attempts to avoid eternal damnation.
+keywords	witch	fortune teller	bondage	exotic island	monster	captain	card game	east india trading company	compass	ship	daughter	pirate	swashbuckler	aftercreditsstinger

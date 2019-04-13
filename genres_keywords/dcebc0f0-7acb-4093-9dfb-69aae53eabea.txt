@@ -1,0 +1,8 @@
+title	Rio
+genre	Animation	Adventure	Comedy	Family
+original_language	en
+release_date	2011-04-03
+vote_average	6.6
+vote_count	3604
+overview	Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.
+keywords	brazil	pet	bird	parrot	musical	adventure	canary	jungle	samba	city	animal	duringcreditsstinger

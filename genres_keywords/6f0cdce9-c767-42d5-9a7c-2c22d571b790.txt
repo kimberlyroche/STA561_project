@@ -1,0 +1,8 @@
+title	Athiran
+genre	Romance	Thriller
+original_language	ml
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	In an isolated hospital in the high ranges of Kerala, an autistic patient with special skills piques the interest of a psychiatrist, whose investigation into her past leads to startling revelations
+keywords

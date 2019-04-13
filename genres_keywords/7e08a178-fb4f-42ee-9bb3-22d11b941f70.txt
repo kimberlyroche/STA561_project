@@ -1,0 +1,8 @@
+title	To Live and Die in L.A.
+genre	Crime	Thriller
+original_language	en
+release_date	1985-11-01
+vote_average	7.0
+vote_count	227
+overview	A fearless Secret Service agent will stop at nothing to bring down the counterfeiter who killed his partner.
+keywords	hold-up robbery	cops	counterfeit	los angeles	secret service

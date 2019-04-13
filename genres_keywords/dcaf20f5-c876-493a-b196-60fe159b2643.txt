@@ -1,0 +1,8 @@
+title	Willy Wonka & the Chocolate Factory
+genre	Family	Fantasy	Comedy
+original_language	en
+release_date	1971-06-29
+vote_average	7.4
+vote_count	1565
+overview	Eccentric candy man Willy Wonka prompts a worldwide frenzy when he announces that golden tickets hidden inside five of his delicious candy bars will admit their lucky holders into his top-secret confectionary. But does Wonka have an agenda hidden amid a world of Oompa Loompas and chocolate rivers?
+keywords	chocolate	factory worker	based on novel or book	candy	tv addicted person	overweight child	grandparent grandchild relationship	factory	musical	single	teacher	based on children's book	grandfather grandson relationship

@@ -1,0 +1,8 @@
+title	Tombstone
+genre	Western
+original_language	en
+release_date	1993-12-25
+vote_average	7.5
+vote_count	908
+overview	Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.
+keywords	retirement	wyatt earp	right and justice	historical figure

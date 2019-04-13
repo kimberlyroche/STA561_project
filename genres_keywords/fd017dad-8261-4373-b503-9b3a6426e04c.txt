@@ -1,0 +1,8 @@
+title	Titanic
+genre	Drama	Romance	Thriller
+original_language	en
+release_date	1997-11-18
+vote_average	7.8
+vote_count	13764
+overview	101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.
+keywords	iceberg	ship	panic	titanic	ocean liner	epic	rich woman poor man	love	disaster	tragic love	class differences	imax	star crossed lovers	steerage	rich snob	inspired by true events

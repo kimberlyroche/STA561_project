@@ -1,0 +1,8 @@
+title	Green Lantern
+genre	Adventure	Action	Thriller	Science Fiction
+original_language	en
+release_date	2011-06-16
+vote_average	5.1
+vote_count	4154
+overview	For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.
+keywords	dc comics	transformation	superhero	based on comic	alien	alien infection	magical object	protector	based on graphic novel	super power	origin	3d

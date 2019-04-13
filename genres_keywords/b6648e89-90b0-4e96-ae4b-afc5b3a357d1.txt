@@ -1,0 +1,8 @@
+title	2001: A Space Odyssey
+genre	Science Fiction	Mystery	Adventure
+original_language	en
+release_date	1968-04-09
+vote_average	8.0
+vote_count	5638
+overview	Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.
+keywords	moon	jupiter	artificial intelligence	man vs machine	technology	super computer	human being	space travel	space mission	moon base	astronaut	cult film	evolution	monolith	space station

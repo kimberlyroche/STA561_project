@@ -1,0 +1,8 @@
+title	The Woman in Black 2: Angel of Death
+genre	Thriller	Horror	Drama
+original_language	en
+release_date	2014-12-30
+vote_average	5.1
+vote_count	612
+overview	40 years after the first haunting at Eel Marsh House, a group of children evacuated from WWII London arrive, awakening the house's darkest inhabitant.
+keywords	based on novel or book	haunted house	supernatural	sequel	haunting	ghost

@@ -1,0 +1,8 @@
+title	Child 44
+genre	Crime	Thriller
+original_language	en
+release_date	2015-03-15
+vote_average	6.2
+vote_count	874
+overview	Set in Stalin-era Soviet Union, a disgraced MGB agent is dispatched to investigate a series of child murders -- a case that begins to connect with the very top of party leadership.
+keywords	based on novel or book	soviet union	russian	murder	serial killer	military	child murder	stalinism	1950s

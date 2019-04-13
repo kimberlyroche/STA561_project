@@ -1,0 +1,8 @@
+title	When Harry Met Sally...
+genre	Comedy	Romance	Drama
+original_language	en
+release_date	1989-07-21
+vote_average	7.4
+vote_count	1868
+overview	During their travel from Chicago to New York, Harry and Sally debate whether or not sex ruins a friendship between a man and a woman. Eleven years later, and they're still no closer to finding the answer.
+keywords	new york	wife husband relationship	restaurant	platonic love	orgasm	friendship

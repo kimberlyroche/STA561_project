@@ -1,0 +1,8 @@
+title	Eraser
+genre	Action	Drama	Mystery	Thriller
+original_language	en
+release_date	1996-06-21
+vote_average	5.8
+vote_count	853
+overview	U.S. Marshall John Kruger erases the identities of people enrolled in the Witness Protection Program. His current assignment is to protect Lee Cullen, who's uncovered evidence that the weapons manufacturer she works for has been selling to terrorist groups. When Kruger discovers that there's a corrupt agent within the program, he must guard his own life while trying to protect Lee's.
+keywords	suicide	ambush	showdown	hostage	traitor	new identity	hitman	witness	witness protection	arms dealer	deception	betrayal	treason	conspiracy	u.s. marshal	gunfight	train	explosion	violence	sabotage	corporate crime	rogue agent	assassination attempt	x-ray vision	railgun

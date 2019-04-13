@@ -1,0 +1,8 @@
+title	La La Land
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2016-11-29
+vote_average	7.9
+vote_count	9745
+overview	Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.
+keywords	jazz	dance	passion	traffic jam	ambition	musical	casting	coffee shop	jazz club	music	hollywood	los angeles	pianist	pier	audition	theatre	planetarium	watching a movie	aspiring actor	movie set	sunset	one woman show	actress	bittersweet	pool party	griffith observatory

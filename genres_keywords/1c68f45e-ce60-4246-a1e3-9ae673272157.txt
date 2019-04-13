@@ -1,0 +1,8 @@
+title	St. Vincent
+genre	Comedy
+original_language	en
+release_date	2014-10-09
+vote_average	7.1
+vote_count	1050
+overview	A young boy whose parents just divorced finds an unlikely friend and mentor in the misanthropic, bawdy, hedonistic, war veteran who lives next door.
+keywords	babysitter	friendship	neighbor	divorce	child of divorce

@@ -1,0 +1,8 @@
+title	Welcome to Marwen
+genre	Drama	Comedy	Fantasy
+original_language	en
+release_date	2018-12-21
+vote_average	6.5
+vote_count	184
+overview	When a devastating attack shatters Mark Hogancamp and wipes away all memories, no one expected recovery. Putting together pieces from his old and new life, Mark meticulously creates a wondrous town named Marwen where he can heal and be heroic. As he builds an astonishing art installation — a testament to the most powerful women he knows — through his fantasy world, he draws strength to triumph in the real one.
+keywords	coma	fictional place	rehabilitation	based on a true story	fictional war	mental illness	prototype	toy comes to life	fantasy life	toy soldier	toy designer	21st century	animatronic	delusions	semi-biographical	marwencol

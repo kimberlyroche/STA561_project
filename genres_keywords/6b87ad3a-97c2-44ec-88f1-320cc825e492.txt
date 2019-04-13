@@ -1,0 +1,8 @@
+title	StreetDance 3D
+genre	Drama	Music
+original_language	en
+release_date	2010-05-19
+vote_average	6.2
+vote_count	196
+overview	In order to win the Street Dance Championships, a dance crew is forced to work with ballet dancers from the Royal Dance School in exchange for rehearsal space.
+keywords	ballet dancer	street dance	woman director	dance group

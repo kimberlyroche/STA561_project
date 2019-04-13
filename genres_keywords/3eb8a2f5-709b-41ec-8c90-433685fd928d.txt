@@ -1,0 +1,8 @@
+title	Rocky V
+genre	Drama
+original_language	en
+release_date	1990-10-18
+vote_average	5.5
+vote_count	1374
+overview	A lifetime of taking shots has ended Rocky’s career, and a crooked accountant has left him broke. Inspired by the memory of his trainer, however, Rocky finds glory in training and takes on an up-and-coming boxer.
+keywords	philadelphia	transporter	cataclysm	parent child relationship	trainer	restart	bankrupt	boxer	career	boxing match	training	world champion	challenger	street riots	sponsorship	challenge	champion	tax consultant	boxing school	praise	friendship	sport	father figure

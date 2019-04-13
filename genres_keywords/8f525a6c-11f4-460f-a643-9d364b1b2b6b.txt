@@ -1,0 +1,8 @@
+title	Love Actually
+genre	Comedy	Romance	Drama
+original_language	en
+release_date	2003-09-07
+vote_average	7.1
+vote_count	3483
+overview	Follows seemingly unrelated people as their lives begin to intertwine while they fall in – and out – of love. Affections languish and develop as Christmas draws near.
+keywords	london	love at first sight	usa president	marseille	war on terror	office	christmas party	bars and restaurants	press conference	language barrier	prime minister	rock star	school performance	multiple storylines	christmas	christmas holiday

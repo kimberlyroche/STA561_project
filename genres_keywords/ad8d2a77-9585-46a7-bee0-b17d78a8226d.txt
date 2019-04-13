@@ -1,0 +1,8 @@
+title	Revenge
+genre	Action	Thriller	Horror
+original_language	fr
+release_date	2017-09-10
+vote_average	6.4
+vote_count	614
+overview	Jen is enjoying a romantic getaway with her wealthy boyfriend, which is disrupted when his friends suddenly arrive. Tension mounts at the house until the situation culminates in an unexpected way.
+keywords	rape	drowning	nightmare	vigilante	blood splatter	revenge	car crash	gore	man hunt	hallucinogenic drug	bullet wound	exploding head	desert	hunting	eye gouging	isolated house	cauterizing a wound	peyote	headshot	final battle	hunters	stabbed in the back

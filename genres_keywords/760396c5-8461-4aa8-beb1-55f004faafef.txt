@@ -1,0 +1,8 @@
+title	The Conjuring
+genre	Horror	Thriller
+original_language	en
+release_date	2013-07-18
+vote_average	7.5
+vote_count	5703
+overview	Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.
+keywords	sibling relationship	exorcism	rhode island	based on a true story	farmhouse	paranormal investigation	super power	ghost	the conjuring universe

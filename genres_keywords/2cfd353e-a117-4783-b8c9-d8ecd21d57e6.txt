@@ -1,0 +1,8 @@
+title	Ice Age: A Mammoth Christmas
+genre	Animation	Family	TV Movie
+original_language	en
+release_date	2011-11-24
+vote_average	6.2
+vote_count	308
+overview	When Sid accidentally destroys Manny's heirloom Christmas rock and ends up on Santa's naughty list, he leads a hilarious quest to the North Pole to make things right and ends up making things much worse. Now it's up to Manny and his prehistoric posse to band together and save Christmas for the entire world!
+keywords

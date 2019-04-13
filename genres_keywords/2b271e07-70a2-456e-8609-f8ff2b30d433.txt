@@ -1,0 +1,8 @@
+title	The Godfather: Part II
+genre	Drama	Crime
+original_language	en
+release_date	1974-12-20
+vote_average	8.5
+vote_count	5677
+overview	In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.
+keywords	italy	italian american	cuba	melancholy	praise	revenge	mafia	lawyer	blood	suburb	corrupt politician	bloody body of child	man punches woman

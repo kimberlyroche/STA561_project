@@ -1,0 +1,8 @@
+title	Waterworld
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	1995-07-28
+vote_average	6.0
+vote_count	1775
+overview	In a futuristic world where the polar ice caps have melted and made Earth a liquid planet, a beautiful barmaid rescues a mutant seafarer from a floating island prison. They escape, along with her young charge, Enola, and sail off aboard his ship. But the trio soon becomes the target of a menacing pirate who covets the map to 'Dryland' – which is tattooed on Enola's back.
+keywords	diving	ocean	tattoo	sailboat	mutant	water	post-apocalyptic	pirate	oil tanker	environmental disaster	reluctant hero

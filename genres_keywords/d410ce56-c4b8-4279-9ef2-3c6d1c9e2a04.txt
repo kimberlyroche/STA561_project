@@ -1,0 +1,8 @@
+title	Holmes & Watson
+genre	Mystery	Adventure	Comedy	Crime
+original_language	en
+release_date	2018-12-25
+vote_average	4.2
+vote_count	126
+overview	Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.
+keywords	england	judge	titanic	albert einstein	sherlock holmes	clue	pipe smoking	queen victoria	victorian era

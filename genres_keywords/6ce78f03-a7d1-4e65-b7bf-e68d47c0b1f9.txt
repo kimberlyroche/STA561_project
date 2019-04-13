@@ -1,0 +1,8 @@
+title	Aquaman
+genre	Action	Adventure	Fantasy	Science Fiction
+original_language	en
+release_date	2018-12-07
+vote_average	6.8
+vote_count	5292
+overview	Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.
+keywords	dc comics	atlantis	half-brother	superhero	based on comic	royalty	shark	duringcreditsstinger	dc extended universe

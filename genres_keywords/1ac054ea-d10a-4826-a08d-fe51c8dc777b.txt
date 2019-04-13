@@ -1,0 +1,8 @@
+title	Cinderella
+genre	Romance	Fantasy	Family	Drama
+original_language	en
+release_date	2015-03-12
+vote_average	6.7
+vote_count	4373
+overview	When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.
+keywords	cinderella	magic	prince	fairy tale	kingdom	royalty	orphan	lost shoe	evil stepmother	retelling	live action remake

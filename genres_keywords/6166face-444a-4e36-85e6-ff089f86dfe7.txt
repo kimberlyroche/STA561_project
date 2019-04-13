@@ -1,0 +1,8 @@
+title	Once Upon a Time in the West
+genre	Western
+original_language	it
+release_date	1968-12-21
+vote_average	8.2
+vote_count	1962
+overview	A widow whose land and life are in danger as the railroad is getting closer and closer to taking them over. A mysterious harmonica player joins forces with a desperado to protect the woman and her land.
+keywords	loss of loved one	showdown	bounty	bounty hunter	sadness	blackmail	harmonica	anti hero	auction	dying and death	peasant	insanity	spaghetti western

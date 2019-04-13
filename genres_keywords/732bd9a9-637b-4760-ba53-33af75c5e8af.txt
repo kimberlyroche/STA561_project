@@ -1,0 +1,8 @@
+title	The Princess Switch
+genre	Romance
+original_language	en
+release_date	2018-11-16
+vote_average	7.2
+vote_count	997
+overview	When a down-to-earth Chicago baker and a soon-to-be princess discover they look like twins, they hatch a Christmastime plan to trade places.
+keywords	royalty	look-alike	identity swap

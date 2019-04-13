@@ -1,0 +1,8 @@
+title	A Walk Among the Tombstones
+genre	Crime	Drama	Mystery	Thriller
+original_language	en
+release_date	2014-09-18
+vote_average	6.3
+vote_count	1642
+overview	Private investigator Matthew Scudder is hired by a drug kingpin to find out who kidnapped and murdered his wife.
+keywords	based on novel or book	murder	mafia	private investigator	new york city	drugs	alcoholic	kingpin	wife murder	1990s

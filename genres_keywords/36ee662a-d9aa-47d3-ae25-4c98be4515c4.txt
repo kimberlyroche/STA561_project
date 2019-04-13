@@ -1,0 +1,8 @@
+title	Red Cliff
+genre	Action	Drama	History	War
+original_language	zh
+release_date	2009-01-07
+vote_average	7.3
+vote_count	179
+overview	The battle of Red Cliff continues and the alliance between Xu and East Wu is fracturing.  With Cao Cao's massive forces on their doorstep, will the kingdoms of Xu and East Wu survive?
+keywords	china	tea	sequel	chinese tradition	chinese painting	3rd century

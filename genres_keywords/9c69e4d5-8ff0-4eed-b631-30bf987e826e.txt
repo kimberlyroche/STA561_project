@@ -1,0 +1,8 @@
+title	Ghostbusters
+genre	Action	Fantasy	Comedy
+original_language	en
+release_date	2016-07-14
+vote_average	5.4
+vote_count	3687
+overview	Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.
+keywords	female friendship	ghost hunting	reboot	ghost

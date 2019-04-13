@@ -1,0 +1,8 @@
+title	The Breakfast Club
+genre	Comedy	Drama
+original_language	en
+release_date	1985-02-15
+vote_average	7.8
+vote_count	4182
+overview	Five disparate high school students meet in Saturday detention, and discover they have a lot more in common than they thought.
+keywords	high school	tardy hall	teenager	detention

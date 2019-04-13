@@ -1,0 +1,8 @@
+title	Dumb and Dumber To
+genre	Comedy
+original_language	en
+release_date	2014-11-12
+vote_average	5.5
+vote_count	1789
+overview	20 years after the dimwits set out on their first adventure, they head out in search of one of their long lost children in the hope of gaining a new kidney.
+keywords	friendship	sequel	road movie	buddy comedy

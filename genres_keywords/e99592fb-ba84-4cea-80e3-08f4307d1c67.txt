@@ -1,0 +1,8 @@
+title	The Lord of the Rings: The Fellowship of the Ring
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2001-12-18
+vote_average	8.3
+vote_count	14036
+overview	Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.
+keywords	elves	dwarf	orcs	middle-earth (tolkien)	hobbit	loss of loved one	based on novel or book	river	mountain	mine	fireworks	castle	volcano	power	birthday party	uncle	addiction	battle	blizzard	wizard	journey	ring	sword and sorcery

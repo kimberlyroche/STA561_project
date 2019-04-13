@@ -1,0 +1,8 @@
+title	The Purge: Election Year
+genre	Action	Horror	Thriller
+original_language	en
+release_date	2016-06-29
+vote_average	6.3
+vote_count	2810
+overview	Two years after choosing not to kill the man who killed his son, former police sergeant Leo Barnes has become head of security for Senator Charlene Roan, the front runner in the next Presidential election due to her vow to eliminate the Purge. On the night of what should be the final Purge, a betrayal from within the government forces Barnes and Roan out onto the street where they must fight to survive the night.
+keywords	dystopia	sequel	legalized murder

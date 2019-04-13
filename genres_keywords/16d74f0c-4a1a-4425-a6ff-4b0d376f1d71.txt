@@ -1,0 +1,8 @@
+title	Papá Youtuber
+genre	Comedy
+original_language	es
+release_date	2019-04-11
+vote_average	0.0
+vote_count	0
+overview	A family dad with no technology knowledge is fired by his new boss, a young millennial. In desperation to don't lose his home and after learning that his wife is pregnant, he decides to become a YouTuber, for what he will need the help of his two misunderstood kids.
+keywords

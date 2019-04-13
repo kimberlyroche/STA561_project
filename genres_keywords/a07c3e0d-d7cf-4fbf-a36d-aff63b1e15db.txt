@@ -1,0 +1,8 @@
+title	Left Behind
+genre	Thriller	Action	Science Fiction
+original_language	en
+release_date	2014-10-03
+vote_average	3.9
+vote_count	680
+overview	A small group of survivors are left behind after millions of people suddenly vanish during the rapture and the world is plunged into chaos and destruction.
+keywords	airplane	the rapture	remake	pilot hero

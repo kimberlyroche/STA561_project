@@ -1,0 +1,8 @@
+title	Mamma Mia! Here We Go Again
+genre	Comedy	Romance
+original_language	en
+release_date	2018-07-09
+vote_average	7.3
+vote_count	1549
+overview	Five years after meeting her three fathers, Sophie Sheridan prepares to open her mother’s hotel. In 1979, young Donna Sheridan meets the men who each could be Sophie’s biological father.
+keywords	musical	aftercreditsstinger

@@ -1,0 +1,8 @@
+title	Stargate
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	1994-10-27
+vote_average	6.9
+vote_count	1580
+overview	An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
+keywords	egypt	pyramid	space travel	teleportation	uprising	space	shot to death	androgyny	space western	timebomb	death of son	nuclear weapons	invented language	hieroglyph	egyptian mythology	egyptology

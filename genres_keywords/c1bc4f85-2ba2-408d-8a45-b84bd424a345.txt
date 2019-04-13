@@ -1,0 +1,8 @@
+title	28 Days Later
+genre	Horror	Thriller	Science Fiction
+original_language	en
+release_date	2002-10-31
+vote_average	7.2
+vote_count	3173
+overview	Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.
+keywords	london	taxi	manchester city	submachine gun	gas station	survivor	daughter	laboratory	hospital	zombie	brutality	church	violence	rage	epidemic	cult film	military	virus	waking from coma	animal research

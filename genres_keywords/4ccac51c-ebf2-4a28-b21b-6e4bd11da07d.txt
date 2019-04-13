@@ -1,0 +1,8 @@
+title	The Hangover Part III
+genre	Comedy
+original_language	en
+release_date	2013-05-23
+vote_average	6.1
+vote_count	4961
+overview	This time, there's no wedding. No bachelor party. What could go wrong, right? But when the Wolfpack hits the road, all bets are off.
+keywords	sequel	hangover

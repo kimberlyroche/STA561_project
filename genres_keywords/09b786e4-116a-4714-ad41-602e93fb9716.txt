@@ -1,0 +1,8 @@
+title	The Ash Lad: In the Hall of the Mountain King
+genre	Adventure	Fantasy
+original_language	no
+release_date	2017-09-29
+vote_average	6.0
+vote_count	68
+overview	Espen “Ash Lad”, a poor farmer’s son, embarks on a dangerous quest with his brothers to save the princess from a vile troll known as the Mountain King – in order to collect a reward and save his family’s farm from ruin.
+keywords

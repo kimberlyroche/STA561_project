@@ -1,0 +1,8 @@
+title	Licence to Kill
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1989-07-07
+vote_average	6.1
+vote_count	885
+overview	When drug lord Franz Sanchez exacts his brutal vengeance on Bond's friend Felix Leiter, 007 resigns from the British Secret Service and begins a fierce vendetta against the master criminal. Bond won't be satisfied until Sanchez is defeated, and to accomplish this aim he allies himself with a beautiful pilot and Sanchez's sexy girlfriend.
+keywords	corruption	florida	secret identity	liberation of prisoners	drug traffic	floatplane	transport of prisoners	tank car	florida keys	coast guard	airplane	british secret service	007

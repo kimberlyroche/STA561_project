@@ -1,0 +1,8 @@
+title	The Conjuring 2
+genre	Horror	Mystery	Thriller
+original_language	en
+release_date	2016-05-13
+vote_average	7.2
+vote_count	3978
+overview	Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.
+keywords	london	england	1970s	spirit	single mother	demon	paranormal investigation	demonic possession	ghost	valak	the conjuring universe

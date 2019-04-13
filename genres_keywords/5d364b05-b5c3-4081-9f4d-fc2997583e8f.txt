@@ -1,0 +1,8 @@
+title	First Blood
+genre	Action	Adventure	Thriller	War
+original_language	en
+release_date	1982-10-22
+vote_average	7.3
+vote_count	2691
+overview	When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, the Vietnam vet snaps, runs for the hills and rat-a-tat-tats his way into the action-movie hall of fame. Hounded by a relentless sheriff, Rambo employs heavy-handed guerilla tactics to shake the cops off his tail.
+keywords	prison	vietnam veteran	falsely accused	police brutality	sheriff	guerrilla	submachine gun	gun	destroy	self-defense	vietnam	vietnam war	prosecution	dying and death	police operation	attempt to escape	matter of life and death	survivor	tramp	national guard	weapon	firearm	police	escape	rural setting

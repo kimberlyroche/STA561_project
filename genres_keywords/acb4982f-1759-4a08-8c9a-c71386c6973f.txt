@@ -1,0 +1,8 @@
+title	Species
+genre	Science Fiction	Horror	Action
+original_language	en
+release_date	1995-07-07
+vote_average	5.7
+vote_count	690
+overview	In 1993, the Search for Extra Terrestrial Intelligence Project receives a transmission detailing an alien DNA structure, along with instructions on how to splice it with human DNA. The result is Sil, a sensual but deadly creature who can change from a beautiful woman to an armour-plated killing machine in the blink of an eye.
+keywords	telepathy	dna	paranoia	genetics	instinct	femme fatale	alien	on the run	decapitation	sexual attraction	los angeles	scientist	cocoon	genetic engineering	alien dna

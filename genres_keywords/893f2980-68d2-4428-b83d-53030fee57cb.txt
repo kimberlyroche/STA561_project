@@ -1,0 +1,8 @@
+title	Johnny English Strikes Again
+genre	Comedy
+original_language	en
+release_date	2018-09-13
+vote_average	6.2
+vote_count	925
+overview	Disaster strikes when a criminal mastermind reveals the identities of all active undercover agents in Britain. The secret service can now rely on only one man - Johnny English. Currently teaching at a minor prep school, Johnny springs back into action to find the mysterious hacker. For this mission to succeed, he’ll need all of his skills - what few he has - as the man with yesterday’s analogue methods faces off against tomorrow’s digital technology.
+keywords	spy	slapstick	sequel	parody

@@ -1,0 +1,8 @@
+title	The Terminator
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	1984-10-26
+vote_average	7.5
+vote_count	6609
+overview	In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the "Terminator" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?
+keywords	saving the world	artificial intelligence	rebel	cyborg	laser gun	shotgun	killer robot	dystopia	los angeles	car chase	urban setting	future war	griffith observatory

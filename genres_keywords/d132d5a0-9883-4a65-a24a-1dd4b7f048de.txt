@@ -1,0 +1,8 @@
+title	Transformers: Age of Extinction
+genre	Science Fiction	Action	Adventure
+original_language	en
+release_date	2014-06-25
+vote_average	5.8
+vote_count	4685
+overview	As humanity picks up the pieces, following the conclusion of "Transformers: Dark of the Moon," Autobots and Decepticons have all but vanished from the face of the planet. However, a group of powerful, ingenious businessman and scientists attempt to learn from past Transformer incursions and push the boundaries of technology beyond what they can control - all while an ancient, powerful Transformer menace sets Earth in his cross-hairs.
+keywords	sequel	alien	transformers	giant robot	robot	imax	transforming robot

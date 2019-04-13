@@ -1,0 +1,8 @@
+title	Mine 9
+genre	Drama	Thriller
+original_language	en
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	Two miles into the earth, nine Appalachian miners struggle to survive after a methane explosion leaves them with one hour of oxygen.
+keywords	mine	survival	disaster	gas explosion	rookie	struggle

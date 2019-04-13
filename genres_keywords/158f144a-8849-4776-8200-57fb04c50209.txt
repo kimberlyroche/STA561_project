@@ -1,0 +1,8 @@
+title	Close
+genre	Action	Thriller
+original_language	en
+release_date	2019-01-18
+vote_average	5.5
+vote_count	254
+overview	A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.
+keywords	casablanca	morocco	kidnapping	bodyguard	heiress	safe house	counter terrorism

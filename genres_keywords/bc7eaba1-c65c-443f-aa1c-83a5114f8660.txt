@@ -1,0 +1,8 @@
+title	Déjà Vu
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	2006-11-22
+vote_average	6.7
+vote_count	2436
+overview	Called in to recover evidence in the aftermath of a horrific explosion on a New Orleans ferry, Federal agent Doug Carlin gets pulled away from the scene and taken to a top-secret government lab that uses a time-shifting surveillance device to help prevent crime.
+keywords	usa	deja vu	technology	fbi	new orleans	time travel	terrorism	investigator

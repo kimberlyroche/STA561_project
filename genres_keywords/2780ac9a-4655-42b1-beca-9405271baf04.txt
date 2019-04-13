@@ -1,0 +1,8 @@
+title	Five Feet Apart
+genre	Romance	Drama
+original_language	en
+release_date	2019-03-15
+vote_average	8.2
+vote_count	337
+overview	Seventeen-year-old Stella spends most of her time in the hospital as a cystic fibrosis patient. Her life is full of routines, boundaries and self-control -- all of which get put to the test when she meets Will, an impossibly charming teen who has the same illness.
+keywords	hospital	falling in love	cystic fibrosis

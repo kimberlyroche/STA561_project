@@ -1,0 +1,8 @@
+title	Prince of Persia: The Sands of Time
+genre	Adventure	Fantasy	Action	Romance
+original_language	en
+release_date	2010-05-19
+vote_average	6.1
+vote_count	3923
+overview	A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time – gift from the gods that can reverse time and allow its possessor to rule the world.
+keywords	persia	sandstorm	brother against brother	armageddon	regent	based on video game

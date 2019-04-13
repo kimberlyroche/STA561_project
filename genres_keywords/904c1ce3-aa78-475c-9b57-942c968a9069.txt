@@ -1,0 +1,8 @@
+title	Police Academy 3: Back in Training
+genre	Comedy	Crime
+original_language	en
+release_date	1986-03-20
+vote_average	5.7
+vote_count	481
+overview	When police funding is cut, the Governor announces he must close one of the academies. To make it fair, the two police academies must compete against each other to stay in operation. Mauser persuades two officers in Lassard's academy to better his odds, but things don't quite turn out as expected...
+keywords	competition	governor

@@ -1,0 +1,8 @@
+title	Dead Poets Society
+genre	Drama
+original_language	en
+release_date	1989-06-02
+vote_average	8.3
+vote_count	5581
+overview	At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.
+keywords	individual	philosophy	poetry	shakespeare	professor	literature	friendship	teacher	school play	vermont	preparatory school	shakespeare's a midsummer night's dream

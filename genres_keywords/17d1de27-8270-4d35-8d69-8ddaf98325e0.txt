@@ -1,0 +1,8 @@
+title	Sweeney Todd: The Demon Barber of Fleet Street
+genre	Drama	Horror
+original_language	en
+release_date	2007-12-20
+vote_average	7.1
+vote_count	3159
+overview	The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.
+keywords	confession	asylum	razor	villain	widow	beggar	blood splatter	based on play or musical	child in peril	cane	lust	violence	person on fire	incest	infatuation	shaving	social injustice	oven	beadle	uxoricide	seaman	mother figure	folk tale

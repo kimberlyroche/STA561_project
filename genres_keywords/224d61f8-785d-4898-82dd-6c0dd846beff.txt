@@ -1,0 +1,8 @@
+title	Pokémon: Detective Pikachu
+genre	Mystery	Action	Family	Crime	Fantasy
+original_language	en
+release_date	2019-05-08
+vote_average	0.0
+vote_count	0
+overview	In a world where people collect pocket-size monsters (pokemon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.
+keywords	amnesia	pokémon	missing person	buddy comedy

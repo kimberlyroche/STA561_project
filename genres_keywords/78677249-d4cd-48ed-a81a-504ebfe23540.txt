@@ -1,0 +1,8 @@
+title	Joker
+genre	Crime	Thriller	Drama
+original_language	en
+release_date	2019-10-03
+vote_average	0.0
+vote_count	0
+overview	During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
+keywords	street gang	comedian	gotham city	joker	criminal mastermind	mental illness	1980s	mother son relationship	origin story

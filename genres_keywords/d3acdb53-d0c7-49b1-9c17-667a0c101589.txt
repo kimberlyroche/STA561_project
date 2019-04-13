@@ -1,0 +1,8 @@
+title	Chicken Run
+genre	Animation	Comedy	Family
+original_language	en
+release_date	2000-06-21
+vote_average	6.6
+vote_count	2465
+overview	Having been hopelessly repressed and facing eventual certain death at the British chicken farm where they are held, Ginger the chicken along with the help of Rocky the American rooster decide to rebel and lead their fellow chickens in a great escape from the murderous farmers Mr. and Mrs. Tweedy and their farm of doom.
+keywords	royal air force (raf)	chicken	northern england	freedom	yorkshire	escape	farmer	chicken farm	pie machine

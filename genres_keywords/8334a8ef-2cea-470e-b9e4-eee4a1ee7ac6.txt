@@ -1,0 +1,8 @@
+title	Discarnate
+genre	Horror	Thriller
+original_language	en
+release_date	2019-04-19
+vote_average	0.0
+vote_count	6
+overview	A neuroscientist's obsession with a drug that expands the human mind inadvertently unleashes a deadly supernatural force on his team.
+keywords	supernatural	neuroscientist	mind enhancement	drug

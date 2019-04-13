@@ -1,0 +1,8 @@
+title	The Equalizer 2
+genre	Thriller	Action	Crime
+original_language	en
+release_date	2018-07-19
+vote_average	6.4
+vote_count	1898
+overview	Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when a long-time girl friend is murdered.
+keywords	rape	cia	martial arts	hostage	kidnapping	hurricane	drug dealer	sequel	revenge	murder	gang	based on tv series	massacre	violence	elite forces

@@ -1,0 +1,8 @@
+title	Alien Warfare
+genre	Action	Science Fiction
+original_language	en
+release_date	2019-04-05
+vote_average	3.1
+vote_count	10
+overview	A team of Navy Seals investigates a mysterious science outpost only to have to combat a squad of powerful alien soldiers.
+keywords	outpost	aliens	navy seals	soldiers

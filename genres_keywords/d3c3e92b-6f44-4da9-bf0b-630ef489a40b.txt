@@ -1,0 +1,8 @@
+title	Kick-Ass
+genre	Action	Crime
+original_language	en
+release_date	2010-03-22
+vote_average	7.1
+vote_count	7344
+overview	Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.
+keywords	crime fighter	secret identity	comic book	superhero	murder	mafia	teenager	violence	realism	rookie	adaptation	young adult	kickass

@@ -1,0 +1,8 @@
+title	Siberia
+genre	Crime	Romance	Thriller
+original_language	en
+release_date	2018-07-13
+vote_average	4.2
+vote_count	144
+overview	Lucas, a diamond trader who travels to Saint Petersburg to arrange a sale, discovers that his Russian business partner has left his hotel and gone to a small Siberian village, so Lucas also heads there to try find him.
+keywords	russia	missing person	siberia	fsb	diamond trader	american in russia

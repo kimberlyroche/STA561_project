@@ -1,0 +1,8 @@
+title	There Will Be Blood
+genre	Drama
+original_language	en
+release_date	2007-12-28
+vote_average	8.1
+vote_count	2771
+overview	Ruthless silver miner, turned oil prospector, Daniel Plainview moves to oil-rich California. Using his adopted son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainviews motives and intentions, starting a slow-burning feud that threatens both their lives.
+keywords	sibling relationship	california	pastor	deaf-mute	american dream	fanatic	pipeline	petrol	father	step father	oil	money	los angeles	twins	killer	alcoholic	bowling alley	adopted son

@@ -1,0 +1,8 @@
+title	Wild Card
+genre	Thriller	Crime	Drama
+original_language	en
+release_date	2015-01-14
+vote_average	5.5
+vote_count	916
+overview	When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it's all or nothing.
+keywords	gambling	bodyguard	remake

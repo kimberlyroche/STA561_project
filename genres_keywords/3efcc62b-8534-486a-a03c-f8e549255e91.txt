@@ -1,0 +1,8 @@
+title	On the Basis of Sex
+genre	Drama	History
+original_language	en
+release_date	2018-12-25
+vote_average	7.3
+vote_count	143
+overview	Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of sex discrimination.
+keywords	biography	supreme court	based on a true story	woman director	supreme court justice

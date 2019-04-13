@@ -1,0 +1,8 @@
+title	Revolutionary Road
+genre	Drama	Romance
+original_language	en
+release_date	2008-12-19
+vote_average	6.9
+vote_count	1705
+overview	A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children. Based on a novel by Richard Yates.
+keywords	adultery	based on novel or book	jealousy	wife husband relationship	infidelity	american dream	housewife	career	marriage crisis	connecticut	suburbia	free spirit	unhappiness	getaway	aspiring actor	1950s	unhappy marriage	feeling trapped	bleak

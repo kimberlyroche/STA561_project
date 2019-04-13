@@ -1,0 +1,8 @@
+title	True Lies
+genre	Action	Thriller
+original_language	en
+release_date	1994-07-15
+vote_average	6.9
+vote_count	1893
+overview	Harry Tasker is a secret agent for the United States Government. For years, he has kept his job from his wife, but is forced to reveal his identity and try to stop nuclear terrorists when he and his wife are kidnapped by them.
+keywords	spy	terrorist	florida	gun	kidnapping	horseback riding	florida keys	secret agent	terrorist plot	top secret	truth serum	mushroom cloud	jackhammer	special agent	key west

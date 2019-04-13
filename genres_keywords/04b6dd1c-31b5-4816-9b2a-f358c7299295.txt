@@ -1,0 +1,8 @@
+title	The Kid Who Would Be King
+genre	Action	Adventure	Fantasy	Family
+original_language	en
+release_date	2019-01-16
+vote_average	5.9
+vote_count	101
+overview	Old-school magic meets the modern world when young Alex stumbles upon the mythical sword Excalibur. He soon unites his friends and enemies, and they become knights who join forces with the legendary wizard Merlin. Together, they must save mankind from the wicked enchantress Morgana and her army of supernatural warriors.
+keywords	sword	menace	magic	epic	merlin	knight	medieval	enchantress	evil woman	excalibur	quest	final battle	led zeppelin	sword in the stone

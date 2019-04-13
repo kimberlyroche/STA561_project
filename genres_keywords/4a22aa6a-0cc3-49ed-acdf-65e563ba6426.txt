@@ -1,0 +1,8 @@
+title	National Lampoon's Vacation
+genre	Comedy	Adventure
+original_language	en
+release_date	1983-07-28
+vote_average	7.1
+vote_count	659
+overview	Clark Griswold is on a quest to take his family on a quest to Walley World theme park for a vacation, but things don't go exactly as planned.
+keywords	usa	relatives	road trip	domestic life	family vacation	family holiday	theme park	duringcreditsstinger

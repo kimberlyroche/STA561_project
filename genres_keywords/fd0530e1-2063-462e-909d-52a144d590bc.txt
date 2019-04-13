@@ -1,0 +1,8 @@
+title	U.S. Marshals
+genre	Thriller	Crime	Action
+original_language	en
+release_date	1998-03-06
+vote_average	6.3
+vote_count	667
+overview	U.S. Marshal Sam Gerard is accompanying a plane load of convicts from Chicago to New York. The plane crashes spectacularly, and Mark Sheridan escapes. But when Diplomatic Security Agent John Royce is assigned to help Gerard recapture Sheridan, it becomes clear that Sheridan is more than just another murderer.
+keywords	cia	transport of prisoners	innocence	escape	agent

@@ -1,0 +1,8 @@
+title	The Lincoln Lawyer
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2011-03-17
+vote_average	7.1
+vote_count	1478
+overview	A lawyer conducts business from the back of his Lincoln town car while representing a high-profile client in Beverly Hills.
+keywords	upper class	prostitute	based on novel or book	judge	homicide	arrest	video surveillance	jury	lawyer	private investigator	crime scene	courtroom	beverly hills	bail hearing

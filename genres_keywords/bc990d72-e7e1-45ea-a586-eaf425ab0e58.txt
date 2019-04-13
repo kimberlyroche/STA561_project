@@ -1,0 +1,8 @@
+title	Irreversible
+genre	Drama	Thriller	Crime	Mystery
+original_language	fr
+release_date	2002-05-22
+vote_average	7.1
+vote_count	979
+overview	Events over the course of one traumatic night in Paris unfold in reverse-chronological order as the beautiful Alex is brutally raped and beaten by a stranger in the underpass. Her boyfriend and ex-lover take matters into their own hands by hiring two criminals to help them find the rapist so that they can exact revenge. A simultaneously beautiful and terrible examination of the destructive nature of cause and effect, and how time destroys everything.
+keywords	paris france	prostitute	rape	sex	trauma	knife	assault	police	love	revenge	cruelty	brutality	violence	drugs	evil	boyfriend	rape and revenge	new french extremism

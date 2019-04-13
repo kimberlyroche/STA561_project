@@ -1,0 +1,8 @@
+title	King Kong
+genre	Adventure	Drama	Action
+original_language	en
+release_date	2005-12-12
+vote_average	6.7
+vote_count	4131
+overview	In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.
+keywords	screenplay	show business	movie business	exotic island	monster	indigenous	ship	great depression	dinosaur	giant ape	actress	1930s

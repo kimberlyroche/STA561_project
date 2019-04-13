@@ -1,0 +1,8 @@
+title	Yojimbo
+genre	Drama	Thriller
+original_language	ja
+release_date	1961-04-25
+vote_average	8.1
+vote_count	536
+overview	A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.
+keywords	japan	gambling	swordplay	samurai	sword	bodyguard	fighting	family	intrigue	ronin	revolver	edo period	feudal japan	19th century

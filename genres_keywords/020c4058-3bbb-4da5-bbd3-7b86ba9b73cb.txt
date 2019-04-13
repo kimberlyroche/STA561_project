@@ -1,0 +1,8 @@
+title	Sherlock Gnomes
+genre	Romance	Animation	Comedy	Family	Fantasy	Mystery	Adventure
+original_language	en
+release_date	2018-03-15
+vote_average	5.4
+vote_count	308
+overview	Garden gnomes, Gnomeo & Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.
+keywords	shakespeare	sherlock holmes	sequel	missing	sir arthur conan doyle	romeo	juliet	animate statue

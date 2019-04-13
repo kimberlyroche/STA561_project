@@ -1,0 +1,8 @@
+title	Charlie and the Chocolate Factory
+genre	Adventure	Comedy	Family	Fantasy
+original_language	en
+release_date	2005-07-13
+vote_average	6.9
+vote_count	7930
+overview	A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.
+keywords	london	chocolate	factory worker	based on novel or book	parent child relationship	candy	overweight child	grandparent grandchild relationship	teacher

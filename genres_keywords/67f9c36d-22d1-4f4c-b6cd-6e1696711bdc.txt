@@ -1,0 +1,8 @@
+title	The Prince of Egypt
+genre	Adventure	Animation	Drama	Family	Music	Comedy
+original_language	en
+release_date	1998-12-15
+vote_average	7.1
+vote_count	1839
+overview	This is the extraordinary tale of two brothers named Moses and Ramses, one born of royal blood, and one an orphan with a secret past. Growing up the best of friends, they share a strong bond of free-spirited youth and good-natured rivalry. But the truth will ultimately set them at odds, as one becomes the ruler of the most powerful empire on earth, and the other the chosen leader of his people! Their final confrontation will forever change their lives and the world.
+keywords	moses	egypt	pyramid	exodus	kingdom	governance	ancient egypt	hebrew	pharaoh	woman director

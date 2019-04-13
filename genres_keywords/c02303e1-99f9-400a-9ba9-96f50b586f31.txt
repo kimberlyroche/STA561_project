@@ -1,0 +1,8 @@
+title	Aliens
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	1986-07-18
+vote_average	7.9
+vote_count	4982
+overview	When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story—all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.
+keywords	android	extraterrestrial technology	space marine	spaceman	cryogenics	vacuum	space colony	warrior woman	settler	space travel	colony	alien	xenomorph

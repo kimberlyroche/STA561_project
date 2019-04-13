@@ -1,0 +1,8 @@
+title	Wonder
+genre	Drama	Family
+original_language	en
+release_date	2017-11-13
+vote_average	8.2
+vote_count	3761
+overview	The story of August Pullman – a boy with facial differences – who enters fifth grade, attending a mainstream elementary school for the first time.
+keywords	exclusion	halloween	bullying	coney island	prejudice	school	middle school	based on children's book	family	physical disability	treacher collins syndrome

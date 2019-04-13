@@ -1,0 +1,8 @@
+title	The Hunchback of Notre Dame
+genre	Drama	Animation	Family
+original_language	en
+release_date	1996-06-21
+vote_average	7.0
+vote_count	2486
+overview	When Quasimodo defies the evil Frollo and ventures out to the Festival of Fools, the cruel crowd jeers him. Rescued by fellow outcast the gypsy Esmeralda, Quasi soon finds himself battling to save the people and the city he loves.
+keywords	paris france	based on novel or book	judge	obsession	dance	sword	mockery	ugliness	cathedral	musical	fool	bell	religion	orphan	army captain	festival	angry mob	notre dame cathedral	witch hunt	15th century

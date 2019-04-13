@@ -1,0 +1,8 @@
+title	Sausage Party
+genre	Adventure	Animation	Comedy	Fantasy
+original_language	en
+release_date	2016-07-11
+vote_average	5.6
+vote_count	4116
+overview	Sausage Party, the first R-rated CG animated movie, is about one sausage leading a group of supermarket products on a quest to discover the truth about their existence and what really happens when they become chosen to leave the grocery store.
+keywords	supermarket	party	sausage	food	anthropomorphism	adult animation	grocery store	gum

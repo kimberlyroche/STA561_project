@@ -1,0 +1,8 @@
+title	Awakenings
+genre	Drama
+original_language	en
+release_date	1990-12-04
+vote_average	7.8
+vote_count	1079
+overview	Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to "awaken" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.
+keywords	coma	based on novel or book	experiment	miracle	frustration	hope	based on a true story	hospital	illness	woman director	comatose

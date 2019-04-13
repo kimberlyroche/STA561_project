@@ -1,0 +1,8 @@
+title	Wonder Woman
+genre	Adventure	Fantasy	War
+original_language	en
+release_date	2017-05-30
+vote_average	7.3
+vote_count	12111
+overview	An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.
+keywords	dc comics	hero	greek mythology	island	feminism	empowerment	world war i	strong woman	superhero	based on comic	superheroine	female protagonist	woman power	period drama	super power	heroine	woman director	female empowerment	1910s	dc extended universe

@@ -1,0 +1,8 @@
+title	We Were Soldiers
+genre	Action	History	War
+original_language	en
+release_date	2002-03-01
+vote_average	6.9
+vote_count	835
+overview	The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.
+keywords	vietnam veteran	based on novel or book	missile	vietnam war	army	major	based on a true story	steel helmet	soldier	explosion	battle	bayonet	death	vietnamese	1960s

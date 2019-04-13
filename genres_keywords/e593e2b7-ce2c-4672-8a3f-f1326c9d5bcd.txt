@@ -1,0 +1,8 @@
+title	Batman & Robin
+genre	Science Fiction	Action	Fantasy	Comedy
+original_language	en
+release_date	1997-06-20
+vote_average	4.2
+vote_count	2579
+overview	Along with crime-fighting partner Robin and new recruit Batgirl, Batman battles the dual threat of frosty genius Mr. Freeze and homicidal horticulturalist Poison Ivy. Freeze plans to put Gotham City on ice, while Ivy tries to drive a wedge between the dynamic duo.
+keywords	double life	dc comics	dual identity	crime fighter	fictional place	gotham city	superhero	credit card	super power

@@ -1,0 +1,8 @@
+title	Toy Story 3
+genre	Animation	Family	Comedy
+original_language	en
+release_date	2010-06-16
+vote_average	7.7
+vote_count	8079
+overview	Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.
+keywords	hostage	college	toy	barbie	animation	escape	day care	teddy bear	duringcreditsstinger	toy comes to life	personification	inanimate objects coming to life	toy story

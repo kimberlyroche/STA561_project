@@ -1,0 +1,8 @@
+title	Unicorn Store
+genre	Fantasy	Drama	Comedy
+original_language	en
+release_date	2017-09-11
+vote_average	6.6
+vote_count	187
+overview	A woman named Kit moves back to her parent's house, where she receives a mysterious invitation that would fulfill her childhood dreams.
+keywords	allegory	misfit	unicorn	woman director	dreams

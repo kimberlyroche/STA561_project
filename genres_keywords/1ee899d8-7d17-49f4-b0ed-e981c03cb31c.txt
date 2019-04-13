@@ -1,0 +1,8 @@
+title	Despicable Me 2
+genre	Animation	Comedy	Family
+original_language	en
+release_date	2013-06-25
+vote_average	6.9
+vote_count	7125
+overview	Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.
+keywords	parent child relationship	secret agent	bakery	good vs evil	falling in love	family	duringcreditsstinger	first date	minions

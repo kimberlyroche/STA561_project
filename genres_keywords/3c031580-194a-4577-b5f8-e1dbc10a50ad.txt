@@ -1,0 +1,8 @@
+title	The Hard Way
+genre	Action
+original_language	en
+release_date	2019-03-20
+vote_average	5.8
+vote_count	31
+overview	After learning of his brother's death during a mission in Romania, a former soldier joins two allies to hunt down a mysterious enemy and take his revenge.
+keywords	ex-lover	drugs	romania	death of a brother

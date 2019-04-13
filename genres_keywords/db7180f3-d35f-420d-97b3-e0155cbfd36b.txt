@@ -1,0 +1,8 @@
+title	The Recruit
+genre	Action	Thriller
+original_language	en
+release_date	2003-01-31
+vote_average	6.3
+vote_count	855
+overview	A brilliant CIA trainee must prove his worth at the Farm, the agency's secret training grounds, where he learns to watch his back and trust no one.
+keywords	spy	cia	extramarital affair

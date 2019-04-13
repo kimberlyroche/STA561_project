@@ -1,0 +1,8 @@
+title	Sixteen Candles
+genre	Comedy	Romance
+original_language	en
+release_date	1984-05-04
+vote_average	6.8
+vote_count	935
+overview	A teenage girls deals with her parents forgetting her birthday and a crush on her high school's heartthrob.
+keywords	birthday	nerd	high school	crush	farce	teenage crush	convertible	teenager	exchange student	night vision goggles

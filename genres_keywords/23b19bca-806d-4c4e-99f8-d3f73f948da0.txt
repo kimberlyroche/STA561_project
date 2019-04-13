@@ -1,0 +1,8 @@
+title	Mary Poppins
+genre	Fantasy	Family	Comedy
+original_language	en
+release_date	2018-12-13
+vote_average	6.7
+vote_count	1185
+overview	In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.
+keywords	london	based on novel or book	nanny	magic	musical	sequel	family relationships	animated sequence	female protagonist	singing	housekeeper	discipline	depression era	charm	live action and animation	1930s

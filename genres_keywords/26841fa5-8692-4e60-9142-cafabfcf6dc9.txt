@@ -1,0 +1,8 @@
+title	SPL: Kill Zone
+genre	Action	Crime	Drama	Thriller
+original_language	zh
+release_date	2005-11-18
+vote_average	6.9
+vote_count	104
+overview	Chan, an articulate senior detective nearing the end of his career, is taking care of the daughter of a witness killed by ruthless crime lord Po. Martial arts expert Ma is set to take over as head of the crime unit, replacing Chan who wants an early retirement.
+keywords	martial arts	neo-noir

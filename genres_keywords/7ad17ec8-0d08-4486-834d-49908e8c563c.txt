@@ -1,0 +1,8 @@
+title	Book Club
+genre	Comedy	Romance	Drama
+original_language	en
+release_date	2018-05-18
+vote_average	6.1
+vote_count	262
+overview	Four lifelong friends have their lives forever changed after reading Fifty Shades of Grey in their monthly book club.
+keywords	book club

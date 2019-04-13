@@ -1,0 +1,8 @@
+title	Lion
+genre	Drama
+original_language	en
+release_date	2016-11-24
+vote_average	8.1
+vote_count	3698
+overview	A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
+keywords	based on novel or book	indian lead	adoption	biography	australia	based on a true story	india	missing child	long lost relative	tasmania	street child

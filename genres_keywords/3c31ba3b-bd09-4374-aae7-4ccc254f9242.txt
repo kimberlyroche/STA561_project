@@ -1,0 +1,8 @@
+title	Underworld: Awakening
+genre	Fantasy	Action	Horror
+original_language	en
+release_date	2012-01-19
+vote_average	6.2
+vote_count	2537
+overview	Having escaped years of imprisonment, vampire warrioress Selene finds herself in a changed world where humans have discovered the existence of both Vampire and Lycan clans and are conducting an all-out war to eradicate both immortal species. Now Selene must battle the humans and a frightening new breed of super Lycans to ensure the death dealers' survival.
+keywords	experiment	vampire	daughter	hybrid	child vampire	werewolf	imax	werewolf child

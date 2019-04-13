@@ -1,0 +1,8 @@
+title	The Magnificent Seven
+genre	Adventure	Action	Western
+original_language	en
+release_date	2016-09-14
+vote_average	6.2
+vote_count	3547
+overview	Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to bounty hunter Sam Chisolm for help. Chisolm recruits an eclectic group of gunslingers to take on Bogue and his ruthless henchmen. With a deadly showdown on the horizon, the seven mercenaries soon find themselves fighting for more than just money once the bullets start to fly.
+keywords	remake

@@ -1,0 +1,8 @@
+title	Extinction
+genre	Science Fiction	Thriller	Drama	Action
+original_language	en
+release_date	2018-07-15
+vote_average	5.9
+vote_count	785
+overview	A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.
+keywords

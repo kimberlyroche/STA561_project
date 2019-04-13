@@ -1,0 +1,8 @@
+title	The Grinch
+genre	Animation	Family	Comedy	Fantasy
+original_language	en
+release_date	2018-11-08
+vote_average	6.4
+vote_count	954
+overview	The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.
+keywords	surrealism	dr. seuss	cgi	based on children's book	christmas	3d

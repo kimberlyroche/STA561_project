@@ -1,0 +1,8 @@
+title	City of God
+genre	Drama	Crime
+original_language	pt
+release_date	2002-02-05
+vote_average	8.4
+vote_count	3211
+overview	Cidade de Deus is a shantytown that started during the 1960s and became one of Rio de Janeiro’s most dangerous places in the beginning of the 1980s. To tell the story of this place, the movie describes the life of various characters, all seen by the point of view of the narrator, Buscapé. Buscapé was raised in a very violent environment. Despite the feeling that all odds were against him, he finds out that life can be seen with other eyes...
+keywords	street gang	photographer	brazil	rio de janeiro	ghetto	gang war	coming of age	woman director

@@ -1,0 +1,8 @@
+title	Seven Samurai
+genre	Action	Drama
+original_language	ja
+release_date	1954-04-26
+vote_average	8.4
+vote_count	1433
+overview	A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food. A giant battle occurs when 40 bandits attack the village.
+keywords	japan	samurai	sword	peasant	looting	rice	fencing	village	epic	moral ambiguity	battle	bandit	practice	16th century

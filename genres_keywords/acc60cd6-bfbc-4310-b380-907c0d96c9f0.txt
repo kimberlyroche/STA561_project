@@ -1,0 +1,8 @@
+title	Early Man
+genre	Family	Comedy	Animation	Adventure
+original_language	en
+release_date	2018-01-26
+vote_average	5.9
+vote_count	311
+overview	Dug, along with his sidekick Hognob, unite a cavemen tribe to save their hidden valley from being spoiled and, all together as a team, to face the menace of a mysterious and mighty enemy, on the turf of an ancient and sacred sport.
+keywords	stone age	mining	sport	stop motion	prehistoric	cavemen	claymation	plasticine	football match	bronze age

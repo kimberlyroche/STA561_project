@@ -1,0 +1,8 @@
+title	xXx: State of the Union
+genre	Action	Adventure	Crime	Drama	Mystery	Thriller
+original_language	en
+release_date	2005-04-27
+vote_average	4.7
+vote_count	937
+overview	Ice Cube stars as Darius Stone, a thrill-seeking troublemaker whose criminal record and extreme sports obsession make him the perfect candidate to be the newest XXX agent. He must save the U.S. government from a deadly conspiracy led by five-star general and Secretary of Defense George Deckert (played by Willem Dafoe).
+keywords	washington d.c.	helicopter	usa president	general	coup d'etat	military prison	coup	agent	insurgent	secretary of defense	potus

@@ -1,0 +1,8 @@
+title	Green Book
+genre	Drama	Comedy	Music
+original_language	en
+release_date	2018-11-16
+vote_average	8.3
+vote_count	2806
+overview	Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.
+keywords	gay	southern usa	friendship	racism	pianist	driver	lgbt	music tour	1960s	america	roadtrip

@@ -1,0 +1,8 @@
+title	Spotlight
+genre	Drama	Thriller	History
+original_language	en
+release_date	2015-11-06
+vote_average	7.8
+vote_count	4782
+overview	In 2001, editor Marty Baron of The Boston Globe assigns a team of journalists to investigate allegations against John Geoghan, an unfrocked priest accused of molesting more than 80 boys. Led by editor Walter "Robby" Robinson, reporters Michael Rezendes, Matt Carroll and Sacha Pfeiffer interview victims and try to unseal sensitive documents. The reporters make it their mission to provide proof of a cover-up of sexual abuse within the Roman Catholic Church.
+keywords	gay	child abuse	journalism	newspaper	judge	florida	boston	pedophilia	sex scandal	victim	court	cover-up	based on a true story	priest	conspiracy	lawyer	catholic	catholic church	lgbt	catholicism	archdiocese	investigative journalism	cardinal

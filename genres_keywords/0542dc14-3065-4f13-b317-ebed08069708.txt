@@ -1,0 +1,8 @@
+title	Ran
+genre	Action	Drama	History
+original_language	ja
+release_date	1985-06-01
+vote_average	8.1
+vote_count	575
+overview	With Ran, legendary director Akira Kurosawa reimagines Shakespeare's King Lear as a singular historical epic set in sixteenth-century Japan. Majestic in scope, the film is Kurosawa's late-life masterpiece, a profound examination of the folly of war and the crumbling of one family under the weight of betrayal, greed, and the insatiable thirst for power.
+keywords	assassination	gun	castle	power	kingdom	greed	heir to the throne	epic	revenge	blood	descent into madness	seppuku	inheritance fight	ruins	king lear	feudal japan	black widow	hopelessness

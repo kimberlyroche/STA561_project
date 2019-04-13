@@ -1,0 +1,8 @@
+title	Polar
+genre	Action	Crime	Drama
+original_language	en
+release_date	2019-01-25
+vote_average	6.3
+vote_count	712
+overview	When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.
+keywords	assassin	hitman	based on comic	isolated house	dark horse comics	forced retirement	crime organization

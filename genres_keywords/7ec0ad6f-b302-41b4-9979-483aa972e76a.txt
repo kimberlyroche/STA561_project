@@ -1,0 +1,8 @@
+title	Die Hard 2
+genre	Action	Thriller
+original_language	en
+release_date	1990-07-02
+vote_average	6.8
+vote_count	2899
+overview	Off-duty cop John McClane is gripped with a feeling of déjà vu when, on a snowy Christmas Eve in the nation’s capital, terrorists seize a major international airport, holding thousands of holiday travelers hostage. Renegade military commandos led by a murderous rogue officer plot to rescue a drug lord from justice and are prepared for every contingency except one: McClane’s smart-mouthed heroics.
+keywords	ambush	helicopter	journalist	based on novel or book	airport	hand grenade	fistfight	cop	sequel	snow	dulles international airport	shootout	officer involved shooting	terrorism	explosion	church	violence	sabotage	walkie talkie	swat team	air traffic control	commando unit	snowmobile

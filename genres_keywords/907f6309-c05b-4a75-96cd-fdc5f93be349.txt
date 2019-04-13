@@ -1,0 +1,8 @@
+title	Journey 2: The Mysterious Island
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	2012-01-19
+vote_average	5.9
+vote_count	2065
+overview	Sean Anderson partners with his mom's boyfriend on a mission to find his grandfather, who is thought to be missing on a mythical island.
+keywords	giant lizard	mission	mysterious island	missing person	duringcreditsstinger	3d

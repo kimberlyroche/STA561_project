@@ -1,0 +1,8 @@
+title	Spectre
+genre	Action	Adventure	Crime
+original_language	en
+release_date	2015-10-26
+vote_average	6.4
+vote_count	6586
+overview	A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.
+keywords	spy	based on novel or book	secret agent	sequel	mi6	british secret service	united kingdom

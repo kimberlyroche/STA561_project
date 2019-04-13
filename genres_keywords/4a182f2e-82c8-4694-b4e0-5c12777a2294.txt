@@ -1,0 +1,8 @@
+title	Iron Man 2
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	2010-04-28
+vote_average	6.8
+vote_count	11730
+overview	With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.
+keywords	usa	technology	malibu	superhero	based on comic	revenge	aftercreditsstinger	marvel cinematic universe

@@ -1,0 +1,8 @@
+title	Source Code
+genre	Thriller	Science Fiction	Mystery
+original_language	en
+release_date	2011-03-30
+vote_average	7.2
+vote_count	4375
+overview	Decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, discovering he's involved in a mission to find the bomber of a Chicago commuter train. He learns he's part of a top-secret experimental program that enables him to experience the final 8 minutes of another person's life. Colter re-lives the train incident over and over again, gathering more clues each time.
+keywords	bomb	identity	fantasy	bomber	suspicion	time travel	investigation	surrealism	soldier	helicopter pilot

@@ -1,0 +1,8 @@
+title	Smallfoot
+genre	Animation	Family	Adventure	Fantasy
+original_language	en
+release_date	2018-09-20
+vote_average	6.5
+vote_count	536
+overview	A bright young yeti finds something he thought didn't exist—a human. News of this “smallfoot” throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.
+keywords	nepal	himalaya	ice	musical	yeti	snow	anthropomorphism	creature	based on children's book	3d	plane crash

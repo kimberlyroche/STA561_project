@@ -1,0 +1,8 @@
+title	A Star Is Born
+genre	Drama	Romance
+original_language	en
+release_date	2018-10-03
+vote_average	7.5
+vote_count	5008
+overview	Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.
+keywords	country music	waitress	self-destruction	talent	pop star	concert	addiction	alcoholism	remake	death of father	aspiring singer	singer	fame	tinnitus	falling in love	insecurity	alcoholic	death of mother	aspiration	death of parent	showbiz	emotional vulnerability	hearing impaired	brother brother relationship

@@ -1,0 +1,8 @@
+title	Inception
+genre	Action	Science Fiction	Adventure
+original_language	en
+release_date	2010-07-15
+vote_average	8.3
+vote_count	21580
+overview	Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: "inception", the implantation of another person's idea into a target's subconscious.
+keywords	paris france	spy	philosophy	hotel	allegory	dream	virtual reality	fistfight	car crash	rescue	mission	los angeles	danger	zero gravity	imagination	dream world	idea	subconscious

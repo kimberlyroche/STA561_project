@@ -1,0 +1,8 @@
+title	Creed II
+genre	Drama
+original_language	en
+release_date	2018-11-21
+vote_average	6.6
+vote_count	1961
+overview	Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.
+keywords	ukraine	sport	sequel	los angeles	boxing	kiev	box ring

@@ -1,0 +1,8 @@
+title	Wanted
+genre	Action	Thriller	Crime
+original_language	en
+release_date	2008-06-19
+vote_average	6.4
+vote_count	4037
+overview	Doormat Wesley Gibson discovers that his recently murdered father – who Wesley never knew – belonged to a secret guild of assassins. After a leather-clad sexpot drafts Wesley into the society, he hones his innate killing skills and turns avenger.
+keywords	loss of loved one	assassin	secret society	mission of murder	revenge

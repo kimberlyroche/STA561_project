@@ -1,0 +1,8 @@
+title	Tomorrow Never Dies
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1997-12-11
+vote_average	6.2
+vote_count	1512
+overview	A deranged media mogul is staging international incidents to pit the world’s superpowers against each other. Now 007 must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.
+keywords	london	england	spy	china	news broadcast	intelligence	television	missile	manipulation of the media	secret intelligence service	special car	tv station	media tycoon	navy	motorcycle	secret service	hamburg germany

@@ -1,0 +1,8 @@
+title	Percy Jackson & the Olympians: The Lightning Thief
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2010-02-01
+vote_average	6.1
+vote_count	4073
+overview	Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.
+keywords	based on novel or book	monster	greek mythology	god	poseidon  	lightning bolt	based on young adult novel

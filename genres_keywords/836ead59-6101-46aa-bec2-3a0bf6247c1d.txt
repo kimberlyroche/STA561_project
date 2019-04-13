@@ -1,0 +1,8 @@
+title	The Life of David Gale
+genre	Drama	Thriller	Crime
+original_language	en
+release_date	2003-02-21
+vote_average	7.4
+vote_count	879
+overview	A man against capital punishment is accused of murdering a fellow activist and is sent to death row.
+keywords	prison	journalist	texas	professor	death penalty	death row	interview	murder	reporter	intern	innocent	activist

@@ -1,0 +1,8 @@
+title	Babel
+genre	Drama
+original_language	en
+release_date	2006-09-08
+vote_average	7.1
+vote_count	1824
+overview	Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.
+keywords	terror	loss of loved one	gun	morocco	deaf-mute	san diego	ecstasy	illegal immigration	first time	nanny	daughter	drug use	bullet wound	ensemble cast	multiple storylines	incident

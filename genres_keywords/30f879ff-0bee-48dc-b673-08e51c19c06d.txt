@@ -1,0 +1,8 @@
+title	Life of Pi
+genre	Adventure	Drama	Action
+original_language	en
+release_date	2012-11-20
+vote_average	7.3
+vote_count	8531
+overview	The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.
+keywords	ocean	zoo	shipwreck	hindu	tiger	faith	zebra	zookeeper	india	teenage boy	hyena	meerkat	cargo ship	lifeboat	injured animal	storm at sea

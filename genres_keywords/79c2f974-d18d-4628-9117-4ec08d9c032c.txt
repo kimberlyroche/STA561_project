@@ -1,0 +1,8 @@
+title	RoboWoman
+genre	Science Fiction
+original_language	en
+release_date	2019-04-11
+vote_average	0.0
+vote_count	0
+overview	On her last day at a temp agency, Vivica Stevens is attacked, beaten and left for dead by a co-worker and his friends. Through the use of futuristic “cybernetic” upgrades, she tracks down her assailants to execute bloody revenge.
+keywords

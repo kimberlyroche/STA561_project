@@ -1,0 +1,8 @@
+title	Jupiter Ascending
+genre	Science Fiction	Fantasy	Action	Adventure
+original_language	en
+release_date	2015-02-04
+vote_average	5.3
+vote_count	4301
+overview	In a universe where human genetic material is the most precious commodity, an impoverished young Earth woman becomes the key to strategic maneuvers and internal strife within a powerful dynasty…
+keywords	jupiter	space	woman director	3d	interspecies romance	trans director

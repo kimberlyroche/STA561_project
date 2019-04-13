@@ -1,0 +1,8 @@
+title	Fear and Loathing in Las Vegas
+genre	Adventure	Drama	Comedy
+original_language	en
+release_date	1998-05-22
+vote_average	7.2
+vote_count	2242
+overview	Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.
+keywords	casino	based on novel or book	1970s	hallucination	lsd	road trip	surrealism	dark comedy	lawyer	hitchhiker	las vegas	drugs	desert	cult film	gonzo journalist	fake identity	cadillac convertible	police convention

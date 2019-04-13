@@ -1,0 +1,8 @@
+title	George of the Jungle
+genre	Adventure	Comedy	Family	Romance
+original_language	en
+release_date	1997-07-15
+vote_average	5.4
+vote_count	974
+overview	After Baby George survives a plane crash in the jungle, he is rescued and then adopted by a wise ape. Years later, grown-up George saves a US noble woman, Ursula Stanhope while she is on a safari—and takes her to the jungle to live with him. While Ursula's lover continues his search for Ursula and the one who took her, George slowly learns the rules of human relationships.
+keywords	africa	san francisco	gorilla	lion	feral child	jungle

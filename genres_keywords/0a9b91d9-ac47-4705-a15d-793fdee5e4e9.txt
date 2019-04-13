@@ -1,0 +1,8 @@
+title	Jaws
+genre	Horror	Thriller	Adventure
+original_language	en
+release_date	1975-06-18
+vote_average	7.6
+vote_count	4802
+overview	An insatiable great white shark terrorizes the townspeople of Amity Island, The police chief, an oceanographer and a grizzled shark hunter seek to destroy the bloodthirsty beast.
+keywords	based on novel or book	beach	fishing	atlantic ocean	bathing	shipwreck	shark attack	police chief	ferry boat	dying and death	long island	dead child	skinny dipping	shark	great white shark	dead dog	child killed by animal	severed leg	fishing boat	animal horror

@@ -1,0 +1,8 @@
+title	Robin Hood: Prince of Thieves
+genre	Adventure	Action	Drama	Romance
+original_language	en
+release_date	1991-06-14
+vote_average	6.8
+vote_count	1610
+overview	When the dastardly Sheriff of Nottingham murders Robin's father, the legendary archer vows vengeance. To accomplish his mission, Robin joins forces with a band of exiled villagers (and comely Maid Marian), and together they battle to end the evil sheriff's reign of terror.
+keywords	england	crusade	mercifulness	robin hood	folk hero

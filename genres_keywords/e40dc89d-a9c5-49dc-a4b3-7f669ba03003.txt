@@ -1,0 +1,8 @@
+title	Harry Potter and the Half-Blood Prince
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2009-07-07
+vote_average	7.6
+vote_count	10165
+overview	As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.
+keywords	witch	magic	broom	school of witchcraft	apparition	teenage crush	werewolf	wizard	based on young adult novel	wizarding world

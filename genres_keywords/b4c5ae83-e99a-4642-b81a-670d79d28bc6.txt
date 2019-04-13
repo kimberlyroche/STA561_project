@@ -1,0 +1,8 @@
+title	Master and Commander: The Far Side of the World
+genre	Adventure	Drama	War
+original_language	en
+release_date	2003-11-14
+vote_average	7.1
+vote_count	1434
+overview	After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship's thoughtful surgeon, his best friend.
+keywords	based on novel or book	surgeon	navy	napoleonic wars	naturalist	frigate	self surgery	sea battle	weevil	high seas	19th century	galapagos islands	english navy

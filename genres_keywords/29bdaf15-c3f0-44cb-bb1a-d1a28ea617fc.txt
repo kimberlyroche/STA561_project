@@ -1,0 +1,8 @@
+title	The Purity of Vengeance
+genre	Crime	Thriller	Mystery
+original_language	da
+release_date	2018-10-04
+vote_average	7.5
+vote_count	47
+overview	In an older apartment in Copenhagen, some craftsmen make a scary discovery: behind a fake wall they find three mummified bodies sitting around a dining table with a free space ready. Carl Mørck and Assad from Department Q now have to find out who the mummies are and for whom the fourth place is intended. They soon discover that the previous inhabitants of the apartment trace back to an infamous women's hospital at Sprogø island, where attempts at forced sterilization were a regular part of the daily lives of the women who were brought to the hospital. The horror at the hospital is an overdue chapter in the history of Denmark, but there are people who say that the experiments are still up in our time. Carl and Assad start a race with time to prevent new murders and assaults.
+keywords	afdeling q

@@ -1,0 +1,8 @@
+title	A Dog's Way Home
+genre	Drama	Family	Adventure
+original_language	en
+release_date	2019-01-10
+vote_average	6.3
+vote_count	162
+overview	A Dog’s Way Home chronicles the heartwarming adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.
+keywords	based on novel or book	new mexico	colorado	homelessness	based on a true story	cgi	pitbull	dog	lgbt	veteran	avalanche	gay couple	pet owner	animal control

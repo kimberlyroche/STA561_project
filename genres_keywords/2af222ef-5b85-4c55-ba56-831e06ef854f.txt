@@ -1,0 +1,8 @@
+title	Peter Rabbit
+genre	Animation	Adventure	Family
+original_language	en
+release_date	2018-02-07
+vote_average	6.5
+vote_count	596
+overview	Peter Rabbit's feud with Mr. McGregor escalates to greater heights than ever before as they rival for the affections of the warm-hearted animal lover who lives next door.
+keywords	human animal relationship	based on children's book	rabbit	duringcreditsstinger

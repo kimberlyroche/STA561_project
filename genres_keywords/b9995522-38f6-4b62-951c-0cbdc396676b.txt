@@ -1,0 +1,8 @@
+title	Don't Be Afraid of the Dark
+genre	Fantasy	Horror	Thriller
+original_language	en
+release_date	2010-11-06
+vote_average	5.5
+vote_count	535
+overview	A young girl sent to live with her father and his new girlfriend discovers creatures in her new home who want to claim her as one of their own.
+keywords	monster	remake	creature	bathtub	teeth	old house	scary little people

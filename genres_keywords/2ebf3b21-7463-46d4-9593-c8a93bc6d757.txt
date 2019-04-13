@@ -1,0 +1,8 @@
+title	Logan
+genre	Action	Drama	Science Fiction
+original_language	en
+release_date	2017-02-28
+vote_average	7.8
+vote_count	11925
+overview	In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.
+keywords	cyborg	experiment	self-destruction	mutant	future	dystopia	immortality	sequel	superhero	based on comic	super power	neo-western	troubled past	life on the margin	stan lee

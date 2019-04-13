@@ -1,0 +1,8 @@
+title	The Man from U.N.C.L.E.
+genre	Comedy	Action	Adventure
+original_language	en
+release_date	2015-08-13
+vote_average	7.1
+vote_count	3460
+overview	At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo's only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.
+keywords	spy	cold war	remake	based on tv series	buddy cop	russian spy	american spy

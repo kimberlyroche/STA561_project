@@ -1,0 +1,8 @@
+title	A Million Ways to Die in the West
+genre	Comedy	Western
+original_language	en
+release_date	2014-05-22
+vote_average	5.8
+vote_count	2157
+overview	As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.
+keywords	gunslinger	farmer	wild west	laxative

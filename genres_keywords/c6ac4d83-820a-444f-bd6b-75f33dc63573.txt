@@ -1,0 +1,8 @@
+title	De Pernas Pro Ar 3
+genre	Comedy
+original_language	pt
+release_date	2019-04-11
+vote_average	8.8
+vote_count	3
+overview	
+keywords

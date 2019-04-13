@@ -1,0 +1,8 @@
+title	Real Steel
+genre	Action	Science Fiction	Drama
+original_language	en
+release_date	2011-09-28
+vote_average	6.8
+vote_count	4459
+overview	Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.
+keywords	parent child relationship	fight	future	sport	robot	prizefighting	father son reunion	robot fighting

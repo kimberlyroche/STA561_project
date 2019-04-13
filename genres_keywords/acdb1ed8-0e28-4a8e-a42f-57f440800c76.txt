@@ -1,0 +1,8 @@
+title	Holiday
+genre	Drama
+original_language	en
+release_date	2018-10-11
+vote_average	5.6
+vote_count	19
+overview	A love triangle featuring the trophy girlfriend of a petty drug lord, caught up in a web of luxury and violence in a modern dark gangster tale set in the beautiful port city of Bodrum on the Turkish Riviera.
+keywords	love triangle	violence	drug lord	woman director

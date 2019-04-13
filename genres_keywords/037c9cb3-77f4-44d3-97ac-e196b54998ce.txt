@@ -1,0 +1,8 @@
+title	At Eternity's Gate
+genre	Drama
+original_language	en
+release_date	2018-11-15
+vote_average	6.8
+vote_count	408
+overview	Famed but tormented artist Vincent van Gogh spends his final years in Arles, France, painting masterworks of the natural world that surrounds him.
+keywords	france	painter	insanity	loneliness	priest	hospital	art gallery	nature	art dealer	brother brother relationship

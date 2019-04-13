@@ -1,0 +1,8 @@
+title	Alita: Battle Angel
+genre	Action	Science Fiction	Thriller	Adventure
+original_language	en
+release_date	2019-01-31
+vote_average	6.6
+vote_count	1835
+overview	When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.
+keywords	cyborg	martial arts	bounty hunter	mars	cgi	cyberpunk	based on manga	space station	dystopian future	adaptation	3d	female cyborg	live action remake

@@ -1,0 +1,8 @@
+title	Invasion of the Body Snatchers
+genre	Horror	Science Fiction
+original_language	en
+release_date	1956-02-05
+vote_average	7.5
+vote_count	402
+overview	A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.
+keywords	based on novel or book	small town	alien	doctor	patient	alien invasion	psychiatrist	alien infection	angry mob	doppelgänger	mystery writer	emotionless	paranoid	abandoned mine	personality change

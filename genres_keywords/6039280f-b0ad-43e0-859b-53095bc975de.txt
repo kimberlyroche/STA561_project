@@ -1,0 +1,8 @@
+title	Casablanca
+genre	Drama	Romance
+original_language	en
+release_date	1942-11-26
+vote_average	8.1
+vote_count	2444
+overview	In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.
+keywords	love triangle	corruption	spy	resistance	casablanca	emigration	visa	patriotism	nationalism	concentration camp	nazi	war	film noir

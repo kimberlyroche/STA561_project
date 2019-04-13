@@ -1,0 +1,8 @@
+title	Border
+genre	Action	History
+original_language	hi
+release_date	1997-07-13
+vote_average	6.6
+vote_count	27
+overview	It's 1971, and 2000 members of the Pakistani Army—armed with tanks—are at war with just 150 men in a battalion of Indian soldiers based in the Longewala region of Punjab.
+keywords

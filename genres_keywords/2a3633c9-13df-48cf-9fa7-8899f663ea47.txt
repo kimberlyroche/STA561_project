@@ -1,0 +1,8 @@
+title	A Few Good Men
+genre	Drama
+original_language	en
+release_date	1992-12-11
+vote_average	7.3
+vote_count	1544
+overview	When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.
+keywords	suicide	underdog	suspicion of murder	court case	navy	law	dying and death	guantanamo bay	marine corps	military court	code red	command	military base	u.s. navy	sexism	right and justice	flashback	based on play or musical	court martial	platoon leader	military law

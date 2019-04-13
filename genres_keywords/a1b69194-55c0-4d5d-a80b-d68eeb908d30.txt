@@ -1,0 +1,8 @@
+title	Mission: Impossible III
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	2006-05-03
+vote_average	6.6
+vote_count	3463
+overview	Retired from active duty to train new IMF agents, Ethan Hunt is called back into action to confront sadistic arms dealer, Owen Davian. Hunt must try to protect his girlfriend while working with his new team to complete the mission.
+keywords	berlin germany	cia	vatican	white house	secret identity	secret	explosive	mobile phone	map	traitor	mask	honeymoon	shanghai	pretended murder	secret mission	letter	funeral	covered investigation	to shoot dead	secret agent	video	stamp	hard drive	e-mail	decipherment	suitcase	computer	revenge	murder	mission	hospital	duel	disguise	celebration	good and bad	research laboratory	blast

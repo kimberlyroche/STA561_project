@@ -1,0 +1,8 @@
+title	The Possession of Hannah Grace
+genre	Horror
+original_language	en
+release_date	2018-11-29
+vote_average	5.1
+vote_count	308
+overview	When a cop who is just out of rehab takes the graveyard shift in a city hospital morgue, she faces a series of bizarre, violent events caused by an evil entity in one of the corpses.
+keywords	rehabilitation	cop	morgue	drug rehabilitation	hospital	corpse	violence	police officer	entity	graveyard shift

@@ -1,0 +1,8 @@
+title	Miss Congeniality 2: Armed and Fabulous
+genre	Action	Comedy	Romance	Mystery
+original_language	en
+release_date	2005-03-11
+vote_average	5.6
+vote_count	917
+overview	After her triumph at the Miss United States pageant, FBI agent Gracie Hart becomes an overnight sensation -- and the new "face of the FBI." But it's time to spring into action again when the pageant's winner, Cheryl, and emcee, Stan, are abducted.
+keywords	drag queen	ransom	fbi	press conference	ship	undercover agent	miss america	sequel	office politics	buddy cop	representation	abandonment

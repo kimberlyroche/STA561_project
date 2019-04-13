@@ -1,0 +1,8 @@
+title	Shrek 2
+genre	Adventure	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2004-05-19
+vote_average	6.9
+vote_count	5973
+overview	Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona's mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there's tension in the marriage. The fairy godmother discovers that Shrek has married Fiona instead of her Son Prince Charming and sets about destroying their marriage.
+keywords	prison	magic	liberation	honeymoon	prince	fairy tale	parents-in-law	donkey	kingdom	enchantment	transformation	princess	sequel	anthropomorphism	dragon	ogre

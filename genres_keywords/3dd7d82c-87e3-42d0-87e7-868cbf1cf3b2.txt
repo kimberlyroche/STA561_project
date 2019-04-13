@@ -1,0 +1,8 @@
+title	Solo: A Star Wars Story
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2018-05-15
+vote_average	6.6
+vote_count	3554
+overview	Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
+keywords	spacecraft	prequel	spin off	smuggler	space opera

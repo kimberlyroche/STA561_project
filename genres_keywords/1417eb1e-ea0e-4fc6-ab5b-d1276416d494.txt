@@ -1,0 +1,8 @@
+title	Ferdinand
+genre	Animation	Family	Adventure	Comedy
+original_language	en
+release_date	2017-12-09
+vote_average	7.1
+vote_count	1359
+overview	Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the "biggest, fastest, roughest bull" for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children's book by Munro Leaf.
+keywords	spain	madrid	europe	friendship	remake	anthropomorphism	bull	based on children's book	capture	adaptation

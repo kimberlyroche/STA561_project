@@ -1,0 +1,8 @@
+title	The Sisters Brothers
+genre	Comedy	Drama	Western
+original_language	en
+release_date	2018-09-19
+vote_average	7.1
+vote_count	441
+overview	Oregon, 1851. Hermann Kermit Warm, a chemist and aspiring gold prospector, keeps a profitable secret that the Commodore wants to know, so he sends the Sisters brothers, two notorious assassins, to capture him on his way to California.
+keywords	based on novel or book	gold	oregon	hitman	male friendship	gold rush	scout	19th century	gold claim	brother brother relationship	san francisco california

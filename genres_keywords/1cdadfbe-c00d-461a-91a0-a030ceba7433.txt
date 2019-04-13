@@ -1,0 +1,8 @@
+title	Kill Bill: Vol. 2
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2004-04-16
+vote_average	7.8
+vote_count	7179
+overview	The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.
+keywords	sibling relationship	swordplay	katana	mother role	rage and hate	daughter	right and justice	single	aftercreditsstinger	duringcreditsstinger

@@ -1,0 +1,8 @@
+title	Schindler's List
+genre	Drama	History	War
+original_language	en
+release_date	1993-12-15
+vote_average	8.5
+vote_count	7728
+overview	The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.
+keywords	based on novel or book	factory	concentration camp	hero	holocaust	world war ii	ghetto	jew persecution	krakow	auschwitz	industrialist	nudity	jew	nazi	defense industry	biography	based on a true story	train	poland	ss	weapons manufacturer

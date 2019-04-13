@@ -1,0 +1,8 @@
+title	Maze Runner: The Death Cure
+genre	Action	Science Fiction
+original_language	en
+release_date	2018-01-10
+vote_average	7.1
+vote_count	3696
+overview	Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.
+keywords	based on novel or book	fight	maze	imprisonment	post-apocalyptic	terminal illness	shooting	sequel	murder	suspense	mad scientist	survival	trial	zombie	doctor	battle	vaccine	scientist	city	killer	desert	labyrinth	combat	trilogy	illness	cure	zombie apocalypse	runner	universal cure	based on young adult novel

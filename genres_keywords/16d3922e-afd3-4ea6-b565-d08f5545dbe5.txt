@@ -1,0 +1,8 @@
+title	Air Force One
+genre	Action	Thriller
+original_language	en
+release_date	1997-07-25
+vote_average	6.3
+vote_count	1354
+overview	Russian terrorists conspire to hijack the aircraft with the president and his family on board. The commander in chief finds himself facing an impossible predicament: give in to the terrorists and sacrifice his family, or risk everything to uphold his principles - and the integrity of the nation.
+keywords	prison	corruption	journalist	white house	usa president	hostage	ultimatum	hostage-taking	air force one	airplane hijacking	aerial combat	conspiracy	gunfight	fighter airplane	secret service	hand to hand combat	negotiation	political prisoner

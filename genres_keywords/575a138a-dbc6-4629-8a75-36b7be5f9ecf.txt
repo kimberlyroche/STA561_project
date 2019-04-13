@@ -1,0 +1,8 @@
+title	Pitch Perfect 3
+genre	Comedy	Music
+original_language	en
+release_date	2017-12-20
+vote_average	6.5
+vote_count	1780
+overview	After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren't job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
+keywords	sequel	singer	acapella	uso

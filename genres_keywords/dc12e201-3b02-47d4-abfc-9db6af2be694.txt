@@ -1,0 +1,8 @@
+title	Operation Red Sea
+genre	Action	Thriller	War	Drama
+original_language	zh
+release_date	2018-02-16
+vote_average	6.6
+vote_count	49
+overview	A squad of the Jiaolong Commando Unit - Sea Dragon, a spec ops team of the Chinese Navy, carries out a hostage rescue operation in the nation of Yewaire, on the Arabian Peninsula, and fiercely fights against local rebel groups and Zaka, a terrorist organization.
+keywords	red sea	historical fiction	desert	hostage situation	tank battle	uranium	peoples army	naval battleship

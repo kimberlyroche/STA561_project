@@ -1,0 +1,8 @@
+title	National Treasure: Book of Secrets
+genre	Action	Adventure	Mystery	Thriller
+original_language	en
+release_date	2007-12-13
+vote_average	6.2
+vote_count	2888
+overview	Benjamin Franklin Gates and Dr. Abigail Chase re-team with Riley Poole and, now armed with a stack of long-lost pages from John Wilkes Booth’s diary, Ben must follow a clue left there to prove his ancestor’s innocence in the assassination of Abraham Lincoln.
+keywords	paris france	london	assassination	mount rushmore national memorial	riddle	assassin	usa president	parent child relationship	wife husband relationship	gold	secret	treasure	family history	buckingham palace	treasure hunt	history	archaeologist	american civil war	archeology 	secret formula

@@ -1,0 +1,8 @@
+title	DreadOut
+genre	Horror	Thriller
+original_language	id
+release_date	2019-01-03
+vote_average	0.0
+vote_count	0
+overview	Based on a terrifying local survival horror video game, a group of students enter an abandoned building for popularity but end up discovering a mystic portal to the land of the dead.
+keywords	dreadout

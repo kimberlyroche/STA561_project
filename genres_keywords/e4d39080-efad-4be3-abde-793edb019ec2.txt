@@ -1,0 +1,8 @@
+title	The World Is Not Enough
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1999-11-17
+vote_average	6.2
+vote_count	1405
+overview	Greed, revenge, world dominance and high-tech terrorism – it's all in a day's work for Bond, who's on a mission to protect a beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.
+keywords	british	mission	oil	heiress	bilbao spain	british secret service

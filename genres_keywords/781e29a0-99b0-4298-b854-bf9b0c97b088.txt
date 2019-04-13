@@ -1,0 +1,8 @@
+title	The Virgin Suicides
+genre	Drama	Romance
+original_language	en
+release_date	2000-04-21
+vote_average	7.1
+vote_count	1482
+overview	A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.
+keywords	michigan	1970s	youth	family	woman director

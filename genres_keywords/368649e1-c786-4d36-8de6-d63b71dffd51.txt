@@ -1,0 +1,8 @@
+title	Ghost in the Shell
+genre	Action	Science Fiction	Thriller	Drama
+original_language	en
+release_date	2017-03-29
+vote_average	6.0
+vote_count	4976
+overview	In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.
+keywords	philosophy	cyborg	hacker	strong woman	investigation	suspense	female protagonist	cyberpunk	terrorism	evolution	dystopian future	network	3d	based on anime	inner journey	prosthesis

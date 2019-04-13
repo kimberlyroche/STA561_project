@@ -1,0 +1,8 @@
+title	Suicide Squad
+genre	Action	Adventure	Crime	Fantasy	Science Fiction
+original_language	en
+release_date	2016-08-03
+vote_average	5.9
+vote_count	13179
+overview	From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.
+keywords	dc comics	shared universe	anti hero	secret mission	villain	superhero	supervillain	dc extended universe

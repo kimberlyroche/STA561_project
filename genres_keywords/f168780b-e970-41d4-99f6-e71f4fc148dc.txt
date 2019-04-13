@@ -1,0 +1,8 @@
+title	The Highwaymen
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2019-03-15
+vote_average	6.8
+vote_count	317
+overview	In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.
+keywords	fbi	bank robber	texas ranger	tracker	cops and robbers 	forensic science	criminal gang	1930s	bonnie and clyde	manhunt	legendary hero	based on real events	retired lawman

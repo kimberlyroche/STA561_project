@@ -1,0 +1,8 @@
+title	Jumanji: Welcome to the Jungle
+genre	Action	Adventure	Comedy	Fantasy
+original_language	en
+release_date	2017-12-09
+vote_average	6.7
+vote_count	6953
+overview	The tables are turned as four teenagers are sucked into Jumanji's world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they'll play as characters from the game.
+keywords	video game	sequel	jungle	game	explorer	zoologist	based on young adult novel

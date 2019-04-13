@@ -1,0 +1,8 @@
+title	Hacksaw Ridge
+genre	Drama	History	War
+original_language	en
+release_date	2016-10-07
+vote_average	8.1
+vote_count	6393
+overview	WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.
+keywords	japan	world war ii	violent father	pacifism	bible	biography	war	conscientious objector	based on a true story	gore	religion	soldier	religious	alcoholic	war hero	medic	us military

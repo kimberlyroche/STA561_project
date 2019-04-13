@@ -1,0 +1,8 @@
+title	47 Ronin
+genre	Drama	Action	Adventure	Fantasy
+original_language	en
+release_date	2013-12-06
+vote_average	6.0
+vote_count	2018
+overview	Kai—an outcast—joins Oishi, the leader of 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.
+keywords	japan	suicide	samurai	based on a true story	revenge	samurai sword	ronin	shogun	half breed

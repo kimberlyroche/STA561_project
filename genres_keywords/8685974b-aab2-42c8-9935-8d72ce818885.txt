@@ -1,0 +1,8 @@
+title	The Judge
+genre	Drama
+original_language	en
+release_date	2014-10-08
+vote_average	7.3
+vote_count	2259
+overview	A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.
+keywords	judge	parent child relationship	small town	indiana	lawyer

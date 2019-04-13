@@ -1,0 +1,8 @@
+title	Escape Plan 2: Hades
+genre	Crime	Action	Thriller
+original_language	en
+release_date	2018-06-05
+vote_average	4.6
+vote_count	464
+overview	Ray Breslin manages an elite team of security specialists trained in the art of breaking people out of the world's most impenetrable prisons. When his most trusted operative, Shu Ren, is kidnapped and disappears inside the most elaborate prison ever built, Ray must track him down with the help of some of his former friends.
+keywords	artificial intelligence	prison	martial arts	teamwork	sequel	hacking	robot	escape artist	go	rubik's cube	prison break	guns

@@ -1,0 +1,8 @@
+title	Shazam!
+genre	Action	Comedy	Adventure	Fantasy
+original_language	en
+release_date	2019-03-23
+vote_average	7.4
+vote_count	785
+overview	A boy is given the ability to become an adult superhero in times of need with a single magic word.
+keywords	philadelphia	dc comics	secret identity	magic	superhero	based on comic	wizard	superhuman strength	aftercreditsstinger	duringcreditsstinger	dc extended universe

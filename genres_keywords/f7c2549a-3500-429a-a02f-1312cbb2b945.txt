@@ -1,0 +1,8 @@
+title	What Men Want
+genre	Comedy	Fantasy	Romance
+original_language	en
+release_date	2019-02-08
+vote_average	5.5
+vote_count	136
+overview	Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.
+keywords

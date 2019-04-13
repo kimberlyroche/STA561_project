@@ -1,0 +1,8 @@
+title	The Day the Earth Stood Still
+genre	Drama	Science Fiction	Thriller
+original_language	en
+release_date	1951-09-17
+vote_average	7.5
+vote_count	483
+overview	An alien and a robot land on earth after World War II and tell mankind to be peaceful or face destruction. A classic science fiction film from Robert Wise with an exceptional message.
+keywords	spacecraft	flying saucer	peace	remote control	ufo	giant robot	social commentary	black and white	military	physics professor	humanity	alien technology	mathematical equation

@@ -1,0 +1,8 @@
+title	The Princess Diaries 2: Royal Engagement
+genre	Comedy	Drama	Family	Romance
+original_language	en
+release_date	2004-08-06
+vote_average	6.4
+vote_count	1623
+overview	Mia Thermopolis is now a college graduate and on her way to Genovia to take up her duties as princess. Her best friend Lilly also joins her for the summer. Mia continues her 'princess lessons'- riding horses side-saddle, archery, and other royal. But her complicated life is turned upside down once again when she not only learns that she is to take the crown as queen earlier than expected...
+keywords	coronation	duty	marriage	falling in love

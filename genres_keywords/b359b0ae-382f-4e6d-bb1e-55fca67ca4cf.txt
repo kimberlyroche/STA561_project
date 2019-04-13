@@ -1,0 +1,8 @@
+title	The Age of Adaline
+genre	Fantasy	Drama	Romance
+original_language	en
+release_date	2015-04-16
+vote_average	7.4
+vote_count	3742
+overview	After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.
+keywords	san francisco	immortality	love	forever

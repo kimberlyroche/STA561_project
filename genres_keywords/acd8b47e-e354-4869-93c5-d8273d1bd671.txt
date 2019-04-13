@@ -1,0 +1,8 @@
+title	Sin City: A Dame to Kill For
+genre	Crime	Thriller
+original_language	en
+release_date	2014-08-20
+vote_average	6.3
+vote_count	2139
+overview	Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.
+keywords	detective	dystopia	dominatrix	murder	suspense	twins	based on graphic novel	dark horse comics	neo-noir	3d

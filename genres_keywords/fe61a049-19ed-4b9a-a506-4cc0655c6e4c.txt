@@ -1,0 +1,8 @@
+title	Summer of 84
+genre	Thriller	Mystery	Drama	Horror
+original_language	en
+release_date	2018-08-10
+vote_average	6.8
+vote_count	305
+overview	Summer is usually a time for fun and games, but some teens get much more danger than they bargained for after beginning to suspect their neighbor is a serial murderer.
+keywords	camera	friendship	paperboy	cop	murder	basement	suburbia	serial killer	teenage crush	teenager	walkie talkie	group of friends	news report	1980s	retro horror

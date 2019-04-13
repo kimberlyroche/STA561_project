@@ -1,0 +1,8 @@
+title	Arthur and the Revenge of Maltazard
+genre	Adventure	Fantasy	Animation	Family
+original_language	en
+release_date	2009-11-26
+vote_average	5.6
+vote_count	897
+overview	Arthur answers a distress call from Princess Selenia, who is menaced by the nefarious Maltazard.
+keywords

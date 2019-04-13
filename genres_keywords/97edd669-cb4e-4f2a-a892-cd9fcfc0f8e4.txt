@@ -1,0 +1,8 @@
+title	Life of the Party
+genre	Comedy
+original_language	en
+release_date	2018-05-10
+vote_average	6.2
+vote_count	409
+overview	Dumped by her husband, longtime housewife Deanna turns regret into reset by going back to college. Winding up at the same school as her daughter, Deanna plunges headlong into the campus experience – embracing fun, freedom and frat boys.
+keywords	housewife	college	daughter

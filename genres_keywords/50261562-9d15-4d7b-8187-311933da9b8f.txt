@@ -1,0 +1,8 @@
+title	Van Helsing
+genre	Horror	Adventure	Action
+original_language	en
+release_date	2004-05-05
+vote_average	6.1
+vote_count	2960
+overview	Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.
+keywords	transylvania	vatican	castle	vampire	dracula	bite	werewolf	multiple monsters	van helsing	notre dame cathedral	19th century	mr. hyde

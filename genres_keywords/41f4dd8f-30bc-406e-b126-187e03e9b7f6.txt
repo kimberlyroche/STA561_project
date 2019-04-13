@@ -1,0 +1,8 @@
+title	National Treasure
+genre	Adventure	Action	Thriller	Mystery
+original_language	en
+release_date	2004-11-19
+vote_average	6.5
+vote_count	3414
+overview	Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest's whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.
+keywords	riddle	treasure	treasure hunt	archaeologist	archeology 

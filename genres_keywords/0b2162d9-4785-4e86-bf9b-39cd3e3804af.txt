@@ -1,0 +1,8 @@
+title	Basic Instinct
+genre	Thriller	Mystery
+original_language	en
+release_date	1992-03-20
+vote_average	6.7
+vote_count	1513
+overview	A police detective is in charge of the investigation of a brutal murder, in which a beautiful and seductive woman could be involved.
+keywords	sexual obsession	san francisco	detective	jealousy	eroticism	suspicion of murder	bisexuality	dying and death	dangerous	lover	striptease	sadism	police	psychopath	femme fatale	sociopath	erotic thriller

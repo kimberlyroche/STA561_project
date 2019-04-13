@@ -1,0 +1,8 @@
+title	Mrs. Doubtfire
+genre	Comedy	Drama	Family
+original_language	en
+release_date	1993-11-24
+vote_average	7.1
+vote_count	3160
+overview	Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as an English nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.
+keywords	san francisco	parent child relationship	restaurant	nanny	social worker	mask	custody battle	responsibility	fake identity	voice acting	divorced couple

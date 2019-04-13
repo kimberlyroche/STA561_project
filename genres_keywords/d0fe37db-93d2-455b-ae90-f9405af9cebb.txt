@@ -1,0 +1,8 @@
+title	Mission: Impossible II
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	2000-05-24
+vote_average	6.0
+vote_count	3426
+overview	With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.
+keywords	terror	spain	cia	helicopter	secret identity	skyscraper	undercover	island	ex-lover	secret mission	dying and death	secret agent	computer	duel	lethal virus	violence	rescue team	agent	car	research laboratory

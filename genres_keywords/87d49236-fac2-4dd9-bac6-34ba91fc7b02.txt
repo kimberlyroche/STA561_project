@@ -1,0 +1,8 @@
+title	Stolen
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2012-09-06
+vote_average	5.3
+vote_count	546
+overview	Master thief Will Montgomery is just released from the State penitentiary after serving a 10 year sentence, is contacted by Vincent, his ex comrade in crime, who is holding Will’s teenage daughter ransom in a hijacked taxi cab. Vincent will only surrender her when Will reveals the whereabouts of the 20 million dollars he contrived to conceal from their last robbery.
+keywords	taxi driver	fbi	kidnapping	thief	ex-con	father daughter relationship

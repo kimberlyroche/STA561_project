@@ -1,0 +1,8 @@
+title	The Hitman's Bodyguard
+genre	Action	Comedy
+original_language	en
+release_date	2017-08-16
+vote_average	6.7
+vote_count	2907
+overview	The world's top bodyguard gets a new client, a hit man who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
+keywords	usa	assassin	hitman	bodyguard	court	travel	on the run	criminal	killer	courtroom	opposites attract	buddy comedy	testify

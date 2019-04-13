@@ -1,0 +1,8 @@
+title	Prometheus
+genre	Science Fiction	Adventure	Mystery
+original_language	en
+release_date	2012-05-30
+vote_average	6.4
+vote_count	7228
+overview	A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.
+keywords	android	dystopia	alien	spin off	creation	emergency surgery	aftercreditsstinger	stasis	archeological dig	god complex	cave drawing	prometheus	genetic mutation	origins of life	ted 2023	alienverse	alien expanded universe	the peter weyland files: ted 2023

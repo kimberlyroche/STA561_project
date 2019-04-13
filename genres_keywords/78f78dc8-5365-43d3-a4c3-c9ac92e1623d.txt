@@ -1,0 +1,8 @@
+title	Jurassic World: Fallen Kingdom
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2018-06-06
+vote_average	6.5
+vote_count	5648
+overview	Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.
+keywords	tyrannosaurus rex	volcano	sequel	rescue mission	wild animal	dinosaur	genetic engineering	prehistoric creature	aftercreditsstinger	monster island

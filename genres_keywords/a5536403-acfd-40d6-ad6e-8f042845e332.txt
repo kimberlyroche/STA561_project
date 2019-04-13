@@ -1,0 +1,8 @@
+title	The Upside
+genre	Comedy	Drama
+original_language	en
+release_date	2019-01-10
+vote_average	7.5
+vote_count	112
+overview	Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.
+keywords	remake	class differences	rich poor	caregiver	man in wheelchair	social differences	rich man	quadriplegia	male nurse	handicapped	disabled person	american remake	interracial	remake of french film

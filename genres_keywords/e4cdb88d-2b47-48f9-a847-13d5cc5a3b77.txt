@@ -1,0 +1,8 @@
+title	A History of Violence
+genre	Drama	Thriller	Crime
+original_language	en
+release_date	2005-09-23
+vote_average	7.1
+vote_count	1444
+overview	An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.
+keywords	robbery	double life	dual identity	small town	indiana	distrust	fight	self-defense	marriage	family relationships	mistaken identity	diner	lawyer	mobster	violence	attempted robbery

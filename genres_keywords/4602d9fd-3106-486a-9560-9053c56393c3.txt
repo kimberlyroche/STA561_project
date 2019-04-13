@@ -1,0 +1,8 @@
+title	Crouching Tiger, Hidden Dragon
+genre	Action	Adventure	Drama
+original_language	en
+release_date	2016-02-18
+vote_average	6.0
+vote_count	292
+overview	A story of lost love, young love, a legendary sword and one last opportunity at redemption.
+keywords	martial arts	based on novel or book	sword	warlord	sequel	18th century	wuxia	female warrior

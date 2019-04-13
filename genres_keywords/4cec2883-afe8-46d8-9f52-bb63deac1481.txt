@@ -1,0 +1,8 @@
+title	The Apartment
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	1960-06-15
+vote_average	8.2
+vote_count	878
+overview	Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.
+keywords	new york	new year's eve	lovesickness	age difference	suicide attempt	office	flat	spaghetti	christmas party	winter	clerk	tennis racket	romantic comedy	extramarital affair

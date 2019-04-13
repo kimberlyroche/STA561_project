@@ -1,0 +1,8 @@
+title	Master Z: Ip Man Legacy
+genre	Action
+original_language	cn
+release_date	2018-12-20
+vote_average	5.1
+vote_count	119
+overview	After being defeated by Ip Man, Cheung Tin Chi is attempting to keep a low profile. While going about his business, he gets into a fight with a foreigner by the name of Davidson, who is a big boss behind the bar district. Tin Chi fights hard with Wing Chun and earns respect.
+keywords	martial arts

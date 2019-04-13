@@ -1,0 +1,8 @@
+title	Outcast
+genre	Action
+original_language	en
+release_date	2014-09-26
+vote_average	4.7
+vote_count	218
+overview	A mysterious warrior teams up with the daughter and son of a deposed Chinese Emperor to defeat their cruel Uncle, who seeks their deaths.
+keywords	emperor	chinese emperor	warrior

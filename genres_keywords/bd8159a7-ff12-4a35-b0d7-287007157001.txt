@@ -1,0 +1,8 @@
+title	Assassination Nation
+genre	Thriller	Comedy	Action	Drama	Crime
+original_language	en
+release_date	2018-09-21
+vote_average	6.2
+vote_count	210
+overview	High school senior Lily and her group of friends live in a haze of texts, posts, selfies and chats just like the rest of the world. So, when an anonymous hacker starts posting details from the private lives of everyone in their small town, the result is absolute madness leaving Lily and her friends questioning whether they'll live through the night.
+keywords	feminism	social satire	american	salem	girls	hack

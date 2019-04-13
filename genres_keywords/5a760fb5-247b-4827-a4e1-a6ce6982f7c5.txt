@@ -1,0 +1,8 @@
+title	Zodiac
+genre	Crime	Drama	Mystery	Thriller
+original_language	en
+release_date	2007-03-02
+vote_average	7.4
+vote_count	4058
+overview	The true story of the investigation of the "Zodiac Killer", a serial killer who terrified the San Francisco Bay Area, taunting police with his ciphers and letters.  The case becomes an obsession for three men as their lives and careers are built and destroyed by the endless trail of clues.
+keywords	california	san francisco	killing	journalist	newspaper	1970s	mass murder	planned murder	embassy	victim	threat to death	victim of murder	code	police	murder	serial killer	reporter	1960s

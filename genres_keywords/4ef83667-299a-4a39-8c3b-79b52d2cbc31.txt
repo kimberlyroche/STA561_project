@@ -1,0 +1,8 @@
+title	Taken 3
+genre	Thriller	Action
+original_language	en
+release_date	2014-12-16
+vote_average	6.1
+vote_count	3328
+overview	Ex-government operative Bryan Mills finds his life is shattered when he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.
+keywords	parent child relationship	revenge	murder	on the run	fugitive	framed	framed for murder

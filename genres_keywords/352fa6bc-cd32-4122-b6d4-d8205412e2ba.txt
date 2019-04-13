@@ -1,0 +1,8 @@
+title	Cars
+genre	Animation	Adventure	Comedy	Family
+original_language	en
+release_date	2006-06-08
+vote_average	6.7
+vote_count	7218
+overview	Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.
+keywords	car race	route 66	retirement	friendship	animation	rural setting	anthropomorphism	los angeles	car	road movie	aftercreditsstinger	duringcreditsstinger	disney

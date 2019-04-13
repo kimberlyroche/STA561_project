@@ -1,0 +1,8 @@
+title	Still Alice
+genre	Drama
+original_language	en
+release_date	2014-12-05
+vote_average	7.5
+vote_count	1899
+overview	Alice Howland, happily married with three grown children, is a renowned linguistics professor who starts to forget words. When she receives a devastating diagnosis, Alice and her family find their bonds tested.
+keywords	mother	based on novel or book	professor	alzheimer's disease	illness	columbia university

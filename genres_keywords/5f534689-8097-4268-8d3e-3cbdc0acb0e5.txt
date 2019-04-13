@@ -1,0 +1,8 @@
+title	Independence Day
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	1996-06-25
+vote_average	6.8
+vote_count	5309
+overview	On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.
+keywords	spacecraft	patriotism	countdown	independence	invasion	war	ufo	extraterrestrial	alien	battle

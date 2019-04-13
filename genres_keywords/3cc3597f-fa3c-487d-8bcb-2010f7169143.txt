@@ -1,0 +1,8 @@
+title	Neighbors
+genre	Comedy
+original_language	en
+release_date	2014-05-08
+vote_average	6.2
+vote_count	4407
+overview	A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.
+keywords	alcohol	baby	party	family	fraternity	fraternity house	neighbor neighbor relationship	bathroom humor

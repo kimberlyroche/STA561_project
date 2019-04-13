@@ -1,0 +1,8 @@
+title	Crazy Rich Asians
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2018-08-15
+vote_average	7.1
+vote_count	1335
+overview	An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.
+keywords	based on novel or book	professor	singapore	wedding	east asian lead	wealthy family

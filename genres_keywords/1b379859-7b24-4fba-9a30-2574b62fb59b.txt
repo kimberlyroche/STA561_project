@@ -1,0 +1,8 @@
+title	American Made
+genre	Thriller	Action
+original_language	en
+release_date	2017-08-17
+vote_average	6.7
+vote_count	2096
+overview	The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.
+keywords	cia	pilot	illegal drugs	dea agent	latin america	1980s

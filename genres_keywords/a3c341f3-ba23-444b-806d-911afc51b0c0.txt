@@ -1,0 +1,8 @@
+title	I Kill Giants
+genre	Drama	Fantasy
+original_language	en
+release_date	2018-01-21
+vote_average	6.1
+vote_count	589
+overview	Sophia, a new high school student, tries to make friends with Barbara, who tells her that “she kills giants,” protecting this way her hometown and its inhabitants, who do not understand her strange behavior.
+keywords	monster	based on comic	teenage girl	based on graphic novel	psychological	imagination

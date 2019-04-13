@@ -1,0 +1,8 @@
+title	Hook
+genre	Adventure	Fantasy	Comedy	Family
+original_language	en
+release_date	1991-12-11
+vote_average	6.8
+vote_count	2846
+overview	The boy who wasn't supposed to grow up—Peter Pan—did just that, becoming a soulless corporate lawyer whose workaholism could cost him his wife and kids. But a trip to see Granny Wendy in London, where the vengeful Capt. Hook kidnaps Peter's kids and forces Peter to return to Neverland, could lead to a chance at redemption, in this family-oriented fantasy from director Steven Spielberg.
+keywords	flying	swordplay	sword	fantasy	fairy tale	peter pan	daughter	rescue	memory loss	duel

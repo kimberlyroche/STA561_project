@@ -1,0 +1,8 @@
+title	Castle in the Sky
+genre	Adventure	Fantasy	Animation	Action	Family	Romance
+original_language	ja
+release_date	1986-08-02
+vote_average	8.0
+vote_count	1612
+overview	A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.
+keywords	flying	mine	magic	castle	lost civilisation	army	pirate	girl	government agent	floating	pendant	blue sky	air pirate	crystal	anime

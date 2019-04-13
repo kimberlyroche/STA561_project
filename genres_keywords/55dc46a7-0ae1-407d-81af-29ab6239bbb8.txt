@@ -1,0 +1,8 @@
+title	The Final Cut
+genre	Drama	Mystery	Science Fiction	Thriller
+original_language	en
+release_date	2004-10-15
+vote_average	6.1
+vote_count	310
+overview	Set in a world with memory implants, Alan Hakman is a 'cutter'—someone with the power of final edit over people's recorded histories—but his latest assignment puts him in great danger.
+keywords	star	microchip	dying and death	boss	filmteam

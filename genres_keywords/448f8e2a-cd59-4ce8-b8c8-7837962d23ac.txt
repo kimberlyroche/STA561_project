@@ -1,0 +1,8 @@
+title	The Crow
+genre	Fantasy	Action	Thriller
+original_language	en
+release_date	1994-05-11
+vote_average	7.4
+vote_count	1752
+overview	Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven -- watched over by a hypnotic crow -- returns from the grave to exact revenge.
+keywords	halloween	based on comic	arson	detroit	cult film	first part

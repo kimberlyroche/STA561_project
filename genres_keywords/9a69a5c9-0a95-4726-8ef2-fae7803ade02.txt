@@ -1,0 +1,8 @@
+title	Kuppathu Raja
+genre	Action	Comedy	Drama
+original_language	ta
+release_date	2019-04-05
+vote_average	0.0
+vote_count	0
+overview	Kuppathu Raja is an upcoming Tamil comedy drama film directed by Baba Bhaskar. The film features G. V. Prakash Kumar and Parthiban in the lead roles.
+keywords

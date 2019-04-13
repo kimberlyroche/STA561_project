@@ -1,0 +1,8 @@
+title	Deadpool 2
+genre	Action	Comedy	Adventure
+original_language	en
+release_date	2018-05-15
+vote_average	7.5
+vote_count	8164
+overview	Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.
+keywords	mutant	mercenary	time travel	sequel	superhero	based on comic	revenge	breaking the fourth wall	duringcreditsstinger	salvation

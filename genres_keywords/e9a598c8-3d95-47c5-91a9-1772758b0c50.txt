@@ -1,0 +1,8 @@
+title	The Prestige
+genre	Drama	Mystery	Thriller
+original_language	en
+release_date	2006-10-19
+vote_average	8.1
+vote_count	7889
+overview	A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.
+keywords	competition	secret	obsession	magic	diary	dying and death	class society	illusion	tricks	hostility	class	partner	rivalry	nikola tesla	tesla coil

@@ -1,0 +1,8 @@
+title	Arrival
+genre	Drama	Science Fiction	Mystery
+original_language	en
+release_date	2016-11-10
+vote_average	7.4
+vote_count	10088
+overview	Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
+keywords	spacecraft	language	loss	alien	female protagonist	scientist	heartbreak	based on short story	military	alien language	linguist	first contact	communication	linguistics

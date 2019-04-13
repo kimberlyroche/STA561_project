@@ -1,0 +1,8 @@
+title	Seventh Son
+genre	Adventure	Fantasy
+original_language	en
+release_date	2014-12-12
+vote_average	5.3
+vote_count	1518
+overview	John Gregory, who is a seventh son of a seventh son and also the local spook, has protected the country from witches, boggarts, ghouls and all manner of things that go bump in the night. However John is not young anymore, and has been seeking an apprentice to carry on his trade. Most have failed to survive. The last hope is a young farmer's son named Thomas Ward. Will he survive the training to become the spook that so many others couldn't?
+keywords	based on novel or book	magic	chosen one	dark fantasy	witch hunter	evil witch	sword and sorcery	based on young adult novel

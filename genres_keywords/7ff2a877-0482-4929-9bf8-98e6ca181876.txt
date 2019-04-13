@@ -1,0 +1,8 @@
+title	Rocky III
+genre	Drama
+original_language	en
+release_date	1982-05-28
+vote_average	6.7
+vote_count	1774
+overview	Now the world champion, Rocky Balboa is living in luxury and only fighting opponents who pose no threat to him in the ring, until Clubber Lang challenges him to a bout. After taking a pounding from Lang, the humbled champ turns to former bitter rival Apollo Creed for a rematch with Lang.
+keywords	transporter	trainer	boxer	dying and death	boxing match	comeback	training	world champion	challenger	rematch	defeat	victory	sport	revenge	fame	wealth

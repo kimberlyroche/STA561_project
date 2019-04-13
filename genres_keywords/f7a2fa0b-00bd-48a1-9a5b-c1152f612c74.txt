@@ -1,0 +1,8 @@
+title	The Kissing Booth
+genre	Romance	Comedy
+original_language	en
+release_date	2018-05-11
+vote_average	7.3
+vote_count	3133
+overview	When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend.
+keywords	based on novel or book	secret	crush	high school student	based on young adult novel

@@ -1,0 +1,8 @@
+title	The Accordionist's Son
+genre	Drama
+original_language	es
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	Two men are forced to face their dark past as part of the Basque separatist movement of the 1960s.
+keywords	terrorism	drame

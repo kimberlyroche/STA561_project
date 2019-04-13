@@ -1,0 +1,8 @@
+title	Cast Away
+genre	Adventure	Drama
+original_language	en
+release_date	2000-12-22
+vote_average	7.6
+vote_count	5807
+overview	Chuck, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia ditches at sea during a terrible storm. He's the only survivor, and he washes up on a tiny island with nothing but some flotsam and jetsam from the aircraft's cargo.
+keywords	exotic island	suicide attempt	volleyball	loneliness	survival	airplane crash	deserted island	tropical island

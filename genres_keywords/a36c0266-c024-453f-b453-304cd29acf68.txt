@@ -1,0 +1,8 @@
+title	Ocean's Eleven
+genre	Thriller	Crime
+original_language	en
+release_date	2001-12-07
+vote_average	7.3
+vote_count	6413
+overview	Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.
+keywords	usa	prison	pickpocket	strip club	thief	con artist	atlantic city	las vegas	card dealer	explosives expert	salt lake city utah

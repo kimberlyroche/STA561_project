@@ -1,0 +1,8 @@
+title	Goosebumps
+genre	Adventure	Horror	Comedy
+original_language	en
+release_date	2015-08-05
+vote_average	6.2
+vote_count	2050
+overview	After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.
+keywords	based on novel or book	magic	fantasy	werewolf	family	ventriloquist dummy	book comes to life	3d	first part

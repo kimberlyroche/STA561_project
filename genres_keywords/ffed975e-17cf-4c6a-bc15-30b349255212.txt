@@ -1,0 +1,8 @@
+title	Eighth Grade
+genre	Comedy	Drama
+original_language	en
+release_date	2018-01-19
+vote_average	7.5
+vote_count	437
+overview	Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.
+keywords	adolescence	teenage girl	middle school	new york state	youtube	social media

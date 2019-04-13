@@ -1,0 +1,8 @@
+title	The Darkest Minds
+genre	Science Fiction	Thriller
+original_language	en
+release_date	2018-08-02
+vote_average	6.9
+vote_count	1070
+overview	After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.
+keywords	based on novel or book	dystopia	super power	children on the run	based on young adult novel

@@ -1,0 +1,8 @@
+title	Death Race: Inferno
+genre	Action	Science Fiction	Thriller
+original_language	en
+release_date	2013-01-04
+vote_average	5.4
+vote_count	358
+overview	Carl Lucas / Frankenstein has won four of his races and needs to win one more to win his freedom. Before his final race, Lucas and his team, car and all, are transferred to another prison where they will compete in a Death Race in the desert. Also, at the same time, Ceaser runs into a marketer who wants to franchise the Death Race program.
+keywords	sequel	street race	car

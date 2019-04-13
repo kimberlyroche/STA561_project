@@ -1,0 +1,8 @@
+title	Hero
+genre	Drama	Comedy	Thriller	Mystery
+original_language	en
+release_date	1992-10-02
+vote_average	6.3
+vote_count	182
+overview	Bernie Laplante is having a rough time. He's divorced, his ex-wife hates him and has custody of their son, the cops are setting a trap for him, then to top it all, he loses a shoe whilst rescuing passengers of a crashed jet. Being a thief who is down on his luck, Bernie takes advantage of the crash, but then someone else claims credit for the rescue.
+keywords	identity	custody battle	jinx	reporter	ex-wife	lost shoe

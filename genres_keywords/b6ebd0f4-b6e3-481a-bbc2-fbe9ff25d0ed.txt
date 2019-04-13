@@ -1,0 +1,8 @@
+title	Marauders
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2016-07-01
+vote_average	5.7
+vote_count	264
+overview	An untraceable group of elite bank robbers is chased by a suicidal FBI agent who uncovers a deeper purpose behind the robbery-homicides.
+keywords	usa	bank	fbi	bank manager	traitor	investigation	police	cincinnati	thief	heist	violence	police station	bank robbery	out of control	killers

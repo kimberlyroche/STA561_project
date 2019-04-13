@@ -1,0 +1,8 @@
+title	The Wizard of Oz
+genre	Adventure	Family	Fantasy
+original_language	en
+release_date	1939-08-15
+vote_average	7.5
+vote_count	2867
+overview	Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.
+keywords	witch	adolescence	based on novel or book	secret identity	clock	dream	lion	tornado	scarecrow	musical	crow	music	kansas	classic	imaginary land	cowardliness	wizard	sepia color	wizard of oz	red shoes	l. frank baum	based on young adult novel

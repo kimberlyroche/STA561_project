@@ -1,0 +1,8 @@
+title	Blade Runner
+genre	Science Fiction	Drama	Thriller
+original_language	en
+release_date	1982-06-25
+vote_average	7.9
+vote_count	7269
+overview	In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.
+keywords	artificial intelligence	bounty hunter	based on novel or book	dystopia	genetics	futuristic	fugitive	cyberpunk	los angeles	cult film	tech noir	neo-noir

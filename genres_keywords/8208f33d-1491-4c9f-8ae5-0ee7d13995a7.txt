@@ -1,0 +1,8 @@
+title	A Most Violent Year
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2014-12-30
+vote_average	6.6
+vote_count	774
+overview	A thriller set in New York City during the winter of 1981, statistically one of the most violent years in the city's history, and centered on a the lives of an immigrant and his family trying to expand their business and capitalize on opportunities as the rampant violence, decay, and corruption of the day drag them in and threaten to destroy all they have built.
+keywords	corruption	capitalism	wife husband relationship	winter	american dream	immigrant	business ethics	truck	oil	lawyer	new york city	loan shark	coat	tunnel	1980s	truck hijacking	bank loan

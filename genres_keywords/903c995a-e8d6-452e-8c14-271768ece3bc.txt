@@ -1,0 +1,8 @@
+title	Rain Man
+genre	Drama
+original_language	en
+release_date	1988-12-11
+vote_average	7.7
+vote_count	3057
+overview	Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.
+keywords	individual	loss of loved one	mentally disabled	autism	yuppie	car dealer	egocentrism	travel	convertible	psychiatrist	duringcreditsstinger	savant

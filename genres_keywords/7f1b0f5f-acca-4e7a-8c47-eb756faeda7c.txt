@@ -1,0 +1,8 @@
+title	The Accountant
+genre	Crime	Thriller	Drama
+original_language	en
+release_date	2016-10-13
+vote_average	6.9
+vote_count	3323
+overview	As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
+keywords	autism	criminal	accountant

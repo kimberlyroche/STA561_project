@@ -1,0 +1,8 @@
+title	Mr. & Mrs. Smith
+genre	Action	Comedy	Drama	Thriller
+original_language	en
+release_date	2005-06-07
+vote_average	6.6
+vote_count	5488
+overview	After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they're each other's next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.
+keywords	bomb	assassin	secret identity	secret	assault rifle	gun	married couple	hitman	decoy	marriage crisis	marriage	job	dysfunctional marriage	gunfight	bullet wound

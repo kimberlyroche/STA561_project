@@ -1,0 +1,8 @@
+title	Forrest Gump
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	1994-07-06
+vote_average	8.4
+vote_count	14286
+overview	A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.
+keywords	vietnam veteran	hippie	washington d.c.	mentally disabled	based on novel or book	parent child relationship	vietnam war	friendship	love	family relationships	military	wounded soldier	low iq	false history

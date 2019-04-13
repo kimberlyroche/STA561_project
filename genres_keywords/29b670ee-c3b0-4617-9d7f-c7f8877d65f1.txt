@@ -1,0 +1,8 @@
+title	All the President's Men
+genre	Drama	History	Mystery	Thriller
+original_language	en
+release_date	1976-04-04
+vote_average	7.7
+vote_count	728
+overview	In the run-up to the 1972 elections, Washington Post reporter Bob Woodward covers what seems to be a minor break-in at the Democratic Party National Headquarters. He is surprised to find top lawyers already on the defense case, and the discovery of names and addresses of Republican fund organizers on the accused further arouses his suspicions. After the editor of the Post runs with the story and assigns Woodward and Carl Bernstein to it, they find the trail leading higher and higher in the Republican Party—and eventually into the White House itself.
+keywords	usa	journalist	newspaper	burglar	fbi	wiretap	watergate scandal	plan	shadowing	politics	based on a true story	newspaper man

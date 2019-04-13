@@ -1,0 +1,8 @@
+title	Speed
+genre	Action	Adventure	Crime
+original_language	en
+release_date	1994-06-09
+vote_average	6.9
+vote_count	2976
+overview	Los Angeles SWAT cop Jack Traven is up against bomb expert Howard Payne, who's after major ransom money. First it's a rigged elevator in a very tall building. Then it's a rigged bus--if it slows, it will blow, bad enough any day, but a nightmare in LA traffic. And that's still not the end.
+keywords	bomb	airport	bus	bus ride	highway	bomb planting

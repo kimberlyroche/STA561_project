@@ -1,0 +1,8 @@
+title	Black Swan
+genre	Drama	Thriller
+original_language	en
+release_date	2010-12-03
+vote_average	7.5
+vote_count	8146
+overview	A journey through the psyche of a young ballerina whose starring role as the duplicitous swan queen turns out to be a part for which she becomes frighteningly perfect.
+keywords	dancing	competition	sex	dancer	obsession	paranoia	insanity	suspense	ballet	new york city	heartbreak	mental illness	madness	psychological horror	swan lake	ballerina

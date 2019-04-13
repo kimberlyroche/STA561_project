@@ -1,0 +1,6 @@
+title	Falaknuma Das
+genre	Action	Romance	Thriller
+original_language	te
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0

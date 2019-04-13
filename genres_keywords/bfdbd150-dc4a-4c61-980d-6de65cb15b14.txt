@@ -1,0 +1,8 @@
+title	The Lion King
+genre	Family	Animation	Drama
+original_language	en
+release_date	1994-05-07
+vote_average	8.2
+vote_count	9809
+overview	A young lion cub named Simba can't wait to be king. But his uncle craves the title for himself and will stop at nothing to get it.
+keywords	loss of loved one	lion	musical	wild boar	uncle	shaman	redemption	king	scar	hyena	meerkat	mandrill

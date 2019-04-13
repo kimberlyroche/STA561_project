@@ -1,0 +1,8 @@
+title	The Hunchback of Notre Dame II
+genre	Adventure	Animation	Family	Romance
+original_language	en
+release_date	2002-02-05
+vote_average	5.2
+vote_count	377
+overview	Now that Frollo is gone, Quasimodo rings the bell with the help of his new friend and Esmeralda's and Phoebus' little son, Zephyr. But when Quasi stops by a traveling circus owned by evil magician Sarousch, he falls for Madellaine, Sarouch's assistant.
+keywords	clock tower	robbery	wretch	sequel	travelling circus	bell ringing

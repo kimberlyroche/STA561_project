@@ -1,0 +1,8 @@
+title	Dumb and Dumberer: When Harry Met Lloyd
+genre	Comedy
+original_language	en
+release_date	2003-04-14
+vote_average	4.1
+vote_count	381
+overview	This wacky prequel to the 1994 blockbuster goes back to the lame-brained Harry and Lloyd's days as classmates at a Rhode Island high school, where the unprincipled principal puts the pair in remedial courses as part of a scheme to fleece the school.
+keywords	skateboarding	adoption	friendship	fate

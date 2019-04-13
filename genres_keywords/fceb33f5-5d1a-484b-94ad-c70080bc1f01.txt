@@ -1,0 +1,8 @@
+title	28 Weeks Later
+genre	Horror	Thriller	Science Fiction
+original_language	en
+release_date	2007-04-26
+vote_average	6.5
+vote_count	2099
+overview	In this chilling sequel to 28 Days Later, the inhabitants of the British Isles appear to have lost their battle against the onslaught of disease, as the deadly rage virus has killed every citizen there. Six months later, a group of Americans dare to set foot on the isles, convinced the danger has come and gone. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.
+keywords	london	sibling relationship	loss of loved one	mutant	pest	dying and death	chaos	survivor	supernatural	survival	on the run	zombie	danger	escapade	virus	plague	female corpse	deadly	chases and races	chaos and mayham

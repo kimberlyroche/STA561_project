@@ -1,0 +1,8 @@
+title	Love, Rosie
+genre	Comedy	Romance
+original_language	en
+release_date	2014-10-16
+vote_average	7.8
+vote_count	3454
+overview	Since the moment they met at age 5, Rosie and Alex have been best friends, facing the highs and lows of growing up side by side. A fleeting shared moment, one missed opportunity, and the decisions that follow send their lives in completely different directions. As each navigates the complexities of life, love, and everything in between, they always find their way back to each other - but is it just friendship, or something more?  Based on Cecelia Ahern's bestselling novel, LOVE, ROSIE is a heart-warming, modern comedy-of-errors posing the ultimate question: do we really only get one shot at true love?
+keywords	based on novel or book	teenage pregnancy	best friends in love	missed opportunity

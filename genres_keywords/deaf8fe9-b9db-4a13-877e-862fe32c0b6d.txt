@@ -1,0 +1,8 @@
+title	Captain Phillips
+genre	Action	Drama	Thriller
+original_language	en
+release_date	2013-10-10
+vote_average	7.6
+vote_count	3815
+overview	The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.
+keywords	ship	hijacking	somalia	fisherman	blood	poverty	pirate	terrorism	commando	hijack	cargo ship	ship captain	ship hijacking	somali	commando unit

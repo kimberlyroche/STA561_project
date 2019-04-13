@@ -1,0 +1,8 @@
+title	Treasure Planet
+genre	Adventure	Animation	Family	Fantasy	Science Fiction
+original_language	en
+release_date	2002-11-26
+vote_average	7.4
+vote_count	1835
+overview	When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic "loot of a thousand worlds," a cyborg cook named John Silver teaches him to battle supernovas and space storms. But, soon, Jim realizes Silver is a pirate intent on mutiny!
+keywords	cyborg	loss of loved one	based on novel or book	space marine	mutiny	map	pirate gang	treasure hunt	little boy	space	alien	animation	money	treasure map	planet	troubled teen	space pirate

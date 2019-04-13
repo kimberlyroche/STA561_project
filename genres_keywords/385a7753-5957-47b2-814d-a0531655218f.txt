@@ -1,0 +1,8 @@
+title	The Meg
+genre	Action	Science Fiction	Thriller	Horror
+original_language	en
+release_date	2018-08-09
+vote_average	5.9
+vote_count	2682
+overview	A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.
+keywords	ocean	based on novel or book	beach	shark	oceanic expedition	submersible	under water	megalodon	extinct	underwater facility

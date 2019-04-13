@@ -1,0 +1,8 @@
+title	Hotel Transylvania 2
+genre	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2015-09-21
+vote_average	6.7
+vote_count	3059
+overview	When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.
+keywords	transylvania	hotel	witch	technology	magic	mummy	dracula	skeleton	only child	backpacker	marriage	wolfman	zombie	moving out	invisible man	new life

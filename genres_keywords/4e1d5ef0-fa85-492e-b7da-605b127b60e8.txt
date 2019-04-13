@@ -1,0 +1,8 @@
+title	Get Smart
+genre	Action	Comedy	Thriller
+original_language	en
+release_date	2008-06-19
+vote_average	6.1
+vote_count	1788
+overview	When the identities of secret agents from Control are compromised, the Chief promotes hapless but eager analyst Maxwell Smart and teams him with stylish, capable Agent 99, the only spy whose cover remains intact. Can they work together to thwart the evil plans of KAOS and its crafty operative?
+keywords	dancing	spy	terrorist	traitor	airplane	violin	based on tv series	legs

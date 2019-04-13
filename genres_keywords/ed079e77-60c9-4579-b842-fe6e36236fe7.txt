@@ -1,0 +1,8 @@
+title	The Matrix Revolutions
+genre	Adventure	Action	Thriller	Science Fiction
+original_language	en
+release_date	2003-11-05
+vote_average	6.6
+vote_count	4965
+overview	The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
+keywords	saving the world	artificial intelligence	man vs machine	flying	philosophy	fortune teller	martial arts	kung fu	underground world	killer robot	temple	subway	dream	sun	hero	fight	sunlight	computer virus	key	future	precognition	super computer	machine town	ying yang	dying and death	virtual reality	dystopia	computer	faith	world religion	truth	rescue	mission	cyberpunk	woman director	yin yang	gnosticism	trans director

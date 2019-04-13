@@ -1,0 +1,8 @@
+title	A Vigilante
+genre	Thriller	Drama
+original_language	en
+release_date	2019-03-29
+vote_average	4.9
+vote_count	38
+overview	A vigilante helps victims escape their domestic abusers.
+keywords	domestic abuse	escape	domestic violence	woman director

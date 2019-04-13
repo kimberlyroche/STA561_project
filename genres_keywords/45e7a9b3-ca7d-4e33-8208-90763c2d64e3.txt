@@ -1,0 +1,8 @@
+title	Pacific Rim: Uprising
+genre	Action	Fantasy	Science Fiction	Adventure
+original_language	en
+release_date	2018-03-21
+vote_average	5.9
+vote_count	2097
+overview	It has been ten years since The Battle of the Breach and the oceans are still, but restless. Vindicated by the victory at the Breach, the Jaeger program has evolved into the most powerful global defense force in human history. The PPDC now calls upon the best and brightest to rise up and become the next generation of heroes when the Kaiju threat returns.
+keywords	damage	army	sequel	giant robot	giant monster	robot	kaiju	alien monster	teenage hero	3d	robot suits	aliens	giant creature

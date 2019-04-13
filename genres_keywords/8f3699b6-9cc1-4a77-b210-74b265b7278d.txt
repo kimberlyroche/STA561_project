@@ -1,0 +1,8 @@
+title	Inside Man
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2006-03-23
+vote_average	7.4
+vote_count	2811
+overview	When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.
+keywords	bank manager	kidnapping	ultimatum	nazi	court case	heist	financial transactions

@@ -1,0 +1,8 @@
+title	Spider-Man: Homecoming
+genre	Action	Adventure	Science Fiction	Drama
+original_language	en
+release_date	2017-07-05
+vote_average	7.4
+vote_count	10903
+overview	Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
+keywords	new york	high school	superhero	based on comic	teenager	reboot	marvel cinematic universe

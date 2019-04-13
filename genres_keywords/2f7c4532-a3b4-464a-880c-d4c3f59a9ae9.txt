@@ -1,0 +1,8 @@
+title	Halloween
+genre	Thriller	Horror
+original_language	en
+release_date	2018-10-18
+vote_average	6.4
+vote_count	1841
+overview	Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.
+keywords	halloween	knife	sequel	boogeyman	masked killer	warren county	haddonfield

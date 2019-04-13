@@ -1,0 +1,8 @@
+title	Sleepers
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	1996-10-18
+vote_average	7.5
+vote_count	1367
+overview	Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.
+keywords	child abuse	sadistic	sexual abuse	pastor	repayment	juvenile prison	court case	pub	court	juvenile delinquent	child

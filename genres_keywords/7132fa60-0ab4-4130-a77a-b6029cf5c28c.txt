@@ -1,0 +1,8 @@
+title	Hidden Figures
+genre	Drama	History
+original_language	en
+release_date	2016-12-10
+vote_average	8.0
+vote_count	4541
+overview	The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.
+keywords	nasa	sexism	biography	mathematics	racial segregation	racism	scientist	space race	discrimination	1960s	space program	african american history

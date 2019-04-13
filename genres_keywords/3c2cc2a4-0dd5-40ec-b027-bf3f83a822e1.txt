@@ -1,0 +1,8 @@
+title	Cloverfield
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	2008-01-15
+vote_average	6.5
+vote_count	3972
+overview	Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.
+keywords	usa	helicopter	monster	skyscraper	fight	camcorder	panic	chaos	supernatural	quarantine	friends	alien	rescue	disaster	escape	giant monster	survival horror	kaiju	military	found footage	aftercreditsstinger

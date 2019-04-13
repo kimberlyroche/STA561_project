@@ -1,0 +1,8 @@
+title	Johnny English
+genre	Adventure	Action	Comedy
+original_language	en
+release_date	2003-03-14
+vote_average	6.2
+vote_count	1687
+overview	Rowan plays the eponymous lead character in a spoof spy thriller. During the course of the story we follow our hero as he attempts to single-handedly save the country from falling into the hands of a despot.
+keywords	spy	hero	queen	intelligence	coronation	funeral	secret agent	weapon	slapstick	farce	spoof	explosion	agent	pen	duringcreditsstinger	queen elizabeth ii

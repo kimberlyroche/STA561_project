@@ -1,0 +1,8 @@
+title	Ben-Hur
+genre	Adventure	History
+original_language	en
+release_date	1959-12-26
+vote_average	7.7
+vote_count	1137
+overview	Judah Ben-Hur, a Palestinian Jew, is battling the Roman empire at the time of Christ. His actions send him and his family into slavery, but an inspirational encounter with Jesus changes everything. He finally meets his rival in a justly famous chariot race and rescues his suffering family.
+keywords	roman	prince	chariot race	jerusalem	governor	politics	epic	friends	remake	revenge	jewish	galley	sea battle	galley slave	1st century

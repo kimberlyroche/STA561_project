@@ -1,0 +1,8 @@
+title	American Pie Presents: Beta House
+genre	Comedy
+original_language	en
+release_date	2007-12-10
+vote_average	5.4
+vote_count	917
+overview	Erik, Ryan, and Cooze start college and pledge the Beta House fraternity, presided over by none other than legendary Dwight Stifler. But chaos ensues when a fraternity of geeks threatens to stop the debauchery and the Betas have to make a stand for their right to party.
+keywords	sex	college	fraternity	young adult

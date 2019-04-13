@@ -1,0 +1,8 @@
+title	Trading Paint
+genre	Action
+original_language	en
+release_date	2019-02-22
+vote_average	5.1
+vote_count	15
+overview	A stock car racing legend is drawn back to the dirt track when his son, an aspiring driver, joins a rival racing team.
+keywords	sport	racing	nemesis	race cars

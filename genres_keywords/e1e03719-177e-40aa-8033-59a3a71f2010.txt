@@ -1,0 +1,8 @@
+title	The Master
+genre	Drama
+original_language	en
+release_date	2012-09-07
+vote_average	7.1
+vote_count	1279
+overview	Freddie, a volatile, heavy-drinking veteran who suffers from post-traumatic stress disorder, finds some semblance of a family when he stumbles onto the ship of Lancaster Dodd, the charismatic leader of a new "religion" he forms after World War II.
+keywords	post traumatic stress  disorder	sexual obsession	book	drifter	alcoholic	post war	cult leader	scientology	religious cult	charismatic leader	right hand man	1940s	past life regression

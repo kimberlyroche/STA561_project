@@ -1,0 +1,8 @@
+title	The Sorcerer's Apprentice
+genre	Fantasy	Adventure	Action	Comedy	Drama
+original_language	en
+release_date	2010-07-13
+vote_average	5.9
+vote_count	2778
+overview	Balthazar Blake is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis, Maxim Horvath. Balthazar can't do it alone, so he recruits Dave Stutler, a seemingly average guy who demonstrates hidden potential, as his reluctant protégé. The sorcerer gives his unwilling accomplice a crash course in the art and science of magic, and together, these unlikely partners work to stop the forces of darkness.
+keywords	witch	fire	wolf	fountain	magic	book	castle	water	apprentice	training	merlin	love	mission	sorcerer	dragon	aftercreditsstinger	apprendista	morgana

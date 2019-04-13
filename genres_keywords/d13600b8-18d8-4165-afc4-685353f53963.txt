@@ -1,0 +1,8 @@
+title	Sherlock Holmes
+genre	Action	Adventure	Crime	Mystery
+original_language	en
+release_date	2009-12-23
+vote_average	7.1
+vote_count	8794
+overview	Eccentric consulting detective, Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.
+keywords	detective	scotland yard	coffin	black magic	arrest	partner	sherlock holmes	murder	steampunk	pentagram	clue

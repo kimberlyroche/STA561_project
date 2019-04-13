@@ -1,0 +1,8 @@
+title	A Conspiracy of Faith
+genre	Crime	Drama	Mystery	Thriller
+original_language	da
+release_date	2016-03-03
+vote_average	7.0
+vote_count	223
+overview	An old note is found in a bottle in Jutland which has travelled across the ocean for a long time. The note is hard to decipher, but when the Danish investigators from Section Q receive it, the odd personalities within the section find a new angle on it and try to unveil yet another old and diabolic case even though the lead is cold.
+keywords	police	cold case	message in a bottle

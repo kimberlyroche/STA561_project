@@ -1,0 +1,8 @@
+title	The First Purge
+genre	Action	Science Fiction	Thriller	Horror
+original_language	en
+release_date	2018-07-04
+vote_average	5.8
+vote_count	1702
+overview	To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America test a sociological theory that vents aggression for one night in one isolated community. But when the violence of oppressors meets the rage of the others, the contagion will explode from the trial-city borders and spread across the nation.
+keywords	new york	usa	sequel	prequel	murder	violence	purge	abuse of power

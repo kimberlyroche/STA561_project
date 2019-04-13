@@ -1,0 +1,8 @@
+title	The Mummy
+genre	Adventure	Action	Fantasy
+original_language	en
+release_date	1999-04-16
+vote_average	6.7
+vote_count	4786
+overview	Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.
+keywords	library	secret passage	cairo	egypt	pastor	pyramid	sandstorm	solar eclipse	mummy	foreign legion	nile	secret society	treasure hunt	remake	tomb	ancient egypt	opposites attract	1920s

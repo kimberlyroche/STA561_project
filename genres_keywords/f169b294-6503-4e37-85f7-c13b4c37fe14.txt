@@ -1,0 +1,8 @@
+title	Insidious: Chapter 2
+genre	Horror	Thriller
+original_language	en
+release_date	2013-09-12
+vote_average	6.6
+vote_count	2210
+overview	The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.
+keywords	haunted house	possession	demon	family	ghost	bride in black

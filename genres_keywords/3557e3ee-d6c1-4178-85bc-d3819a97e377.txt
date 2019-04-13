@@ -1,0 +1,8 @@
+title	Cars 2
+genre	Animation	Family	Adventure	Comedy
+original_language	en
+release_date	2011-06-11
+vote_average	5.9
+vote_count	3909
+overview	Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.
+keywords	car race	sequel	anthropomorphism	best friend	duringcreditsstinger

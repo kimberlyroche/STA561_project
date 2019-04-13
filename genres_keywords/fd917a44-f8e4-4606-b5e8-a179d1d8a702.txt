@@ -1,0 +1,8 @@
+title	Ex Machina
+genre	Drama	Science Fiction
+original_language	en
+release_date	2015-01-21
+vote_average	7.6
+vote_count	7812
+overview	Caleb, a 26 year old coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.
+keywords	dancing	artificial intelligence	distrust	isolation	technology	manipulation	friendship	deception	laboratory	robot	power outage	surveillance camera	consciousness	existentialism	lockdown	philosophical	turing test	cybernetics	human android relationship

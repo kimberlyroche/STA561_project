@@ -1,0 +1,8 @@
+title	Fyre
+genre	Documentary	TV Movie
+original_language	en
+release_date	2019-01-18
+vote_average	7.0
+vote_count	296
+overview	He promised supermodels and yachts, but delivered tents and cheese sandwiches. How one man engineered a music festival disaster.
+keywords	fraud	music festival	lawsuit

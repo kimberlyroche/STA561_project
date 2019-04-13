@@ -1,0 +1,8 @@
+title	The Great Wall
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2016-12-16
+vote_average	5.8
+vote_count	2684
+overview	European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures.
+keywords	china	monster	archer	female soldier	explosion	period drama	british soldier	great wall of china	3d	15th century	female general

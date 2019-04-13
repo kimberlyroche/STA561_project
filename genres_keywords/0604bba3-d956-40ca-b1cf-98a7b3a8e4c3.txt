@@ -1,0 +1,8 @@
+title	Thor: The Dark World
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2013-10-29
+vote_average	6.7
+vote_count	9629
+overview	Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.
+keywords	superhero	based on comic	hostile takeover	norse mythology	aftercreditsstinger	duringcreditsstinger	marvel cinematic universe	mythological place

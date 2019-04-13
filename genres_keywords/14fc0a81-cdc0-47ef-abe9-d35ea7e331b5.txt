@@ -1,0 +1,8 @@
+title	The Fox and the Hound
+genre	Adventure	Animation	Drama	Family
+original_language	en
+release_date	1981-07-10
+vote_average	7.1
+vote_count	1645
+overview	When a feisty little fox named Tod is adopted into a farm family, he quickly becomes friends with a fun and adorable hound puppy named Copper. Life is full of hilarious adventures until Copper is expected to take on his role as a hunting dog -- and the object of his search is his best friend!
+keywords	based on novel or book	fox	friendship	dog	animal	hunting	unlikely friendship

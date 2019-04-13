@@ -1,0 +1,8 @@
+title	Short Waves
+genre	Drama	Comedy
+original_language	ru
+release_date	2019-04-11
+vote_average	0.0
+vote_count	1
+overview	Five novels about a radio network in our life. Someone use it as a tool for influence, someone for an expression of feelings and someone just for cynical calculation.
+keywords	radio

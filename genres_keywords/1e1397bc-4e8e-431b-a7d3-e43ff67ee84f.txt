@@ -1,0 +1,8 @@
+title	Jurassic World
+genre	Action	Adventure	Science Fiction	Thriller
+original_language	en
+release_date	2015-06-06
+vote_average	6.6
+vote_count	13724
+overview	Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
+keywords	monster	dna	tyrannosaurus rex	velociraptor	island	animal attack	sequel	suspense	disaster	escape	dinosaur	amusement park	theme park	jurassic park	3d	animal horror

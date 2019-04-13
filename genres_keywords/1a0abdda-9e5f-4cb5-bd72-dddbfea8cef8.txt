@@ -1,0 +1,8 @@
+title	Guardians of the Galaxy Vol. 2
+genre	Action	Adventure	Comedy	Science Fiction
+original_language	en
+release_date	2017-04-19
+vote_average	7.7
+vote_count	11836
+overview	The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.
+keywords	sequel	superhero	based on comic	misfit	space	aftercreditsstinger	duringcreditsstinger	marvel cinematic universe

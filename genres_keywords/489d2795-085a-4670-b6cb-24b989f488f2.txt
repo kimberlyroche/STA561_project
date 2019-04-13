@@ -1,0 +1,8 @@
+title	Mile 22
+genre	Action
+original_language	en
+release_date	2018-08-16
+vote_average	6.0
+vote_count	831
+overview	An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.
+keywords	cia	martial arts	handheld camera	car chase	top secret	black ops	political corruption	intelligence officer	elite forces	tactical command unit

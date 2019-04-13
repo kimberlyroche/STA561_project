@@ -1,0 +1,8 @@
+title	The Big Lebowski
+genre	Comedy	Crime
+original_language	en
+release_date	1998-03-06
+vote_average	7.9
+vote_count	5421
+overview	Jeffrey "The Dude" Lebowski, a Los Angeles slacker who only wants to bowl and drink white Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.
+keywords	white russian	dude	bowling	vietnam veteran	carpet	nihilism	heart attack	kidnapping	lsd	marijuana	los angeles	millionaire	cult film	cowboy	ashes	impregnation	bowling team	unemployed	bowling ball	weeds

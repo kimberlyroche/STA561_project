@@ -1,0 +1,8 @@
+title	12 Angry Men
+genre	Drama
+original_language	en
+release_date	1957-03-25
+vote_average	8.4
+vote_count	3605
+overview	The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.
+keywords	judge	jurors	sultriness	death penalty	father murder	puerto rican	anonymity	court case	heat	group	class	innocence	court	courtroom

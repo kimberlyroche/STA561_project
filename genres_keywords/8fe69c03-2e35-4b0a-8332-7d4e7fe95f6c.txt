@@ -1,0 +1,8 @@
+title	A Simple Favor
+genre	Thriller	Crime	Mystery	Comedy	Drama
+original_language	en
+release_date	2018-08-29
+vote_average	6.6
+vote_count	1589
+overview	Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.
+keywords	based on novel or book	secret	small town	widow	female friendship	life insurance	best friend	missing person	vlogger

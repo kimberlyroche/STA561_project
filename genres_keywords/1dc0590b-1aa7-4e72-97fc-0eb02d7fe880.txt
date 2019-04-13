@@ -1,0 +1,8 @@
+title	Baby Mama
+genre	Comedy
+original_language	en
+release_date	2008-04-25
+vote_average	5.8
+vote_count	345
+overview	A successful, single businesswoman who dreams of having a baby discovers she is infertile and hires a working class woman to be her unlikely surrogate.
+keywords	pregnancy	surrogate mother

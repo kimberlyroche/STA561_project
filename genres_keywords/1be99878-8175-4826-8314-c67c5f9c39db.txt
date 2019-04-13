@@ -1,0 +1,8 @@
+title	Doctor Strange
+genre	Action	Adventure	Fantasy	Science Fiction
+original_language	en
+release_date	2016-10-25
+vote_average	7.3
+vote_count	11940
+overview	After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.
+keywords	magic	time	training	superhero	based on comic	sorcerer	doctor	neurosurgeon	wizard	aftercreditsstinger	duringcreditsstinger	marvel cinematic universe

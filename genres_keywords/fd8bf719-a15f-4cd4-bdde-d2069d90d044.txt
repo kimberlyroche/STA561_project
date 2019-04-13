@@ -1,0 +1,8 @@
+title	The Thing
+genre	Horror	Mystery	Science Fiction
+original_language	en
+release_date	1982-06-25
+vote_average	8.0
+vote_count	2957
+overview	Scientists in the Antarctic are confronted by a shape-shifting alien that assumes the appearance of the people it kills.
+keywords	based on novel or book	ice	spacecraft	space marine	paranoia	mutation	snow storm	research station	alien life-form	remake	alien	antarctica	shape shifting alien	alien infection	cult film	sled dogs	alien monster	body horror	alien parasites	isolated place	second part

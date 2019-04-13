@@ -1,0 +1,8 @@
+title	Frankenstein
+genre	Drama	Horror	Science Fiction
+original_language	en
+release_date	1931-11-21
+vote_average	7.5
+vote_count	577
+overview	Henry Frankenstein is a doctor who is trying to discover a way to make the dead walk. He succeeds and creates a monster that has to deal with living again.
+keywords	fire	based on novel or book	monster	experiment	reanimation	laboratory	mad doctor	girl	pre-code	body part	angry mob	villager

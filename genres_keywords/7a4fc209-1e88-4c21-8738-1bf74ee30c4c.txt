@@ -1,0 +1,8 @@
+title	The Curious Case of Benjamin Button
+genre	Fantasy	Drama	Thriller	Mystery	Romance
+original_language	en
+release_date	2008-12-25
+vote_average	7.5
+vote_count	6332
+overview	Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.
+keywords	diary	navy	funeral	tea	travel	hospital	based on short story	reverse aging

@@ -1,0 +1,8 @@
+title	Dark Shadows
+genre	Comedy	Fantasy
+original_language	en
+release_date	2012-05-08
+vote_average	5.9
+vote_count	4065
+overview	Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.
+keywords	witch	imprisonment	vampire	curse	fish out of water	chains	gothic	madness	old house	lost love	angry mob	18th century	ghost	hidden room	old mansion

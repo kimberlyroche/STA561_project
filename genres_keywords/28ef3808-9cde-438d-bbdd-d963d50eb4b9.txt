@@ -1,0 +1,8 @@
+title	Percy Jackson: Sea of Monsters
+genre	Adventure	Family	Fantasy
+original_language	en
+release_date	2013-08-07
+vote_average	5.9
+vote_count	3004
+overview	In their quest to confront the ultimate evil, Percy and his friends battle swarms of mythical creatures to find the mythical Golden Fleece and to stop an ancient evil from rising.
+keywords	poison	sea	based on novel or book	monster	hermes	adventure	tale	poseidon	fantasy world	demigod	golden fleece	olympus	quest	kronos	overthrow olympus	based on young adult novel

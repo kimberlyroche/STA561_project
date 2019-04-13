@@ -1,0 +1,8 @@
+title	Another Child
+genre	Drama
+original_language	ko
+release_date	2019-04-11
+vote_average	0.0
+vote_count	0
+overview	An ordinary 17-year-old girl Joo-ri finds out that her father is having an affair with the mother of her classmate Yoon-ah. Joo-ri and Yoon-ah try to stop them from seeing each other but it only makes things worse. And to top it off, they discover that Yoon-ah’s mother, a single mom, is pregnant. Soon, everyone involved are confronted by this circle of conflict and they must each struggle through their own growing pains.
+keywords	family

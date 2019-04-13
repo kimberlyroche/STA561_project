@@ -1,0 +1,8 @@
+title	Aliens vs Predator: Requiem
+genre	Fantasy	Action	Science Fiction	Thriller	Horror
+original_language	en
+release_date	2007-12-25
+vote_average	4.9
+vote_count	1247
+overview	The iconic creatures from two of the scariest film franchises in movie history wage their most brutal battle ever—in our own backyard. The small town of Gunnison, Colorado becomes a war zone between two of the deadliest extra-terrestrial life forms—the Alien and the Predator. When a Predator scout ship crash-lands in the hills outside the town, Alien Facehuggers and a hybrid Alien/Predator are released and begin to terrorize the town.
+keywords	predator	colorado	national guard	hybrid	alien	morgue	alien possession	triangle	infestation	xenomorph

@@ -1,0 +1,8 @@
+title	Triple 9
+genre	Action	Thriller	Mystery
+original_language	en
+release_date	2016-02-19
+vote_average	5.8
+vote_count	1230
+overview	A gang of criminals and corrupt cops plan the murder of a police officer in order to pull off their biggest heist yet across town.
+keywords	bomb	detective	assault rifle	cocaine	ghetto	strip club	russian mafia	murder	heist	betrayal	bag of money	dirty cop	violence	bank robbery	death of brother	atlanta, georgia

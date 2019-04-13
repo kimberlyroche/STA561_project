@@ -1,0 +1,8 @@
+title	Joy
+genre	Drama	Comedy
+original_language	en
+release_date	2015-12-24
+vote_average	6.5
+vote_count	2647
+overview	A story based on the life of a struggling Long Island single mom who became one of the country's most successful entrepreneurs.
+keywords	factory	inventor	strong woman	biography	based on a true story	stolen patent

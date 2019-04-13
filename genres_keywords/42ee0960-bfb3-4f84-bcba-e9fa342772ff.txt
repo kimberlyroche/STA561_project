@@ -1,0 +1,8 @@
+title	A Mero Hajur 3
+genre	Romance	Drama
+original_language	en
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	Third installment in A Mero Hajur film series.
+keywords	sequel	romance

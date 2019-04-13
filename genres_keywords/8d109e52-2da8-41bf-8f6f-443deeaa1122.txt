@@ -1,0 +1,8 @@
+title	Get Out
+genre	Mystery	Thriller	Horror
+original_language	en
+release_date	2017-02-24
+vote_average	7.5
+vote_count	8334
+overview	Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.
+keywords	externally controlled action	parents-in-law	satire	dark comedy	interracial relationship	disappearance	african american	racism	stereotype	missing	race-conscious

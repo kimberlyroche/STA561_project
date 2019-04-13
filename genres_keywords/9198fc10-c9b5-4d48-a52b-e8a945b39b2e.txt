@@ -1,0 +1,8 @@
+title	Juanita
+genre	Drama
+original_language	en
+release_date	2019-03-08
+vote_average	4.7
+vote_count	30
+overview	Fed up with her deadbeat grown kids and marginal urban existence, Juanita takes a Greyhound bus to Paper Moon, Montana where she reinvents herself and finds her mojo.
+keywords

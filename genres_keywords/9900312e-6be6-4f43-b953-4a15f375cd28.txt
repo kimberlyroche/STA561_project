@@ -1,0 +1,8 @@
+title	Pulp Fiction
+genre	Thriller	Crime
+original_language	en
+release_date	1994-09-10
+vote_average	8.4
+vote_count	14739
+overview	A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+keywords	transporter	drug dealer	boxer	massage	stolen money	crime boss	dance competition	junkyard	kamikaze	briefcase	redemption	heirloom	los angeles	theft	violence	nonlinear timeline

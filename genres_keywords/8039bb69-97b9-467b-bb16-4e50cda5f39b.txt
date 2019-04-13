@@ -1,0 +1,8 @@
+title	Ice Age: The Meltdown
+genre	Animation	Family	Comedy	Adventure
+original_language	en
+release_date	2006-03-29
+vote_average	6.6
+vote_count	5595
+overview	Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.
+keywords	mammoth	sloth	ice age	barrier ice	ice melting	iceberg	flooding	adventure	lovers	deluge	saber-toothed tiger

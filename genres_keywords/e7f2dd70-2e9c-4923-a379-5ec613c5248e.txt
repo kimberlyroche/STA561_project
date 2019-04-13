@@ -1,0 +1,8 @@
+title	The Dark Tower
+genre	Action	Fantasy	Science Fiction	Western	Horror
+original_language	en
+release_date	2017-08-03
+vote_average	5.6
+vote_count	2744
+overview	The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.
+keywords	gunslinger	based on novel or book	portal	mind control	another world	parallel dimensions

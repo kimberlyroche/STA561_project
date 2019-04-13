@@ -1,0 +1,8 @@
+title	Bridge to Terabithia
+genre	Adventure	Drama	Family
+original_language	en
+release_date	2007-02-16
+vote_average	7.2
+vote_count	2319
+overview	Jesse Aarons trained all summer to become the fastest runner in school, so he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences, including that she's rich, he's poor, and she's a city girl, he's a country boy, the two become fast friends. Together, they create Terabithia, a land of monsters, trolls, ogres, and giants and rule as king and queen.
+keywords	sibling relationship	friendship	bullying	neighbor	school	drawing	based on children's book	school bus	imagination	creek	clubhouse	reality vs fantasy	outsider	fantasy world	overflowing with imagination

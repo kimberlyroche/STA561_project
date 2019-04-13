@@ -1,0 +1,8 @@
+title	Alien: Covenant
+genre	Horror	Science Fiction	Thriller
+original_language	en
+release_date	2017-05-09
+vote_average	5.9
+vote_count	4843
+overview	Bound for a remote planet on the far side of the galaxy, the crew of the colony ship 'Covenant' discovers what is thought to be an uncharted paradise, but is actually a dark, dangerous world—which has a sole inhabitant: the 'synthetic', David, survivor of the doomed Prometheus expedition.
+keywords	android	spacecraft	experiment	space travel	alien life-form	infection	egg	engineer	sequel	space	alien	gore	robot	scientist	genocide	creation	acid	xenomorph	alien technology	genetic mutation

@@ -1,0 +1,8 @@
+title	Bolt
+genre	Animation	Family	Adventure	Comedy
+original_language	en
+release_date	2008-01-29
+vote_average	6.3
+vote_count	3258
+overview	Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it's real. After he's accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his "super powers" to find a way home.
+keywords	hamster	human animal relationship	kids and family	animal	cat vs dog	duringcreditsstinger	dog cat friendship	animal lead

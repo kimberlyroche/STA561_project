@@ -1,0 +1,8 @@
+title	The Silence
+genre	Horror	Drama
+original_language	en
+release_date	2019-05-16
+vote_average	0.0
+vote_count	145
+overview	With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.
+keywords	based on novel or book	deafness	sign language	plague

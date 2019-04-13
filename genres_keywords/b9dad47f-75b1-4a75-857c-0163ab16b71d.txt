@@ -1,0 +1,8 @@
+title	The Hitchhiker's Guide to the Galaxy
+genre	Adventure	Comedy	Family	Science Fiction
+original_language	en
+release_date	2005-04-28
+vote_average	6.7
+vote_count	2261
+overview	Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of "The Hitchhiker's Guide to the Galaxy."
+keywords	bureaucracy	android	based on novel or book	chase	space travel	galaxy	alien	survival	part stop motion	hitchhiker	robot	alien invasion	hyperspace	meaning of life	destruction of earth	intergalactic travel	islington england

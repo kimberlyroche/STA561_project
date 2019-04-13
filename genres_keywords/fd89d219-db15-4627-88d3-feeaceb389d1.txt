@@ -1,0 +1,8 @@
+title	The Prince & Me
+genre	Comedy	Romance
+original_language	en
+release_date	2004-03-28
+vote_average	6.0
+vote_count	505
+overview	A fairy tale love-story about pre-med student Paige who falls in love with a Danish Prince "Eddie" who refused to follow the traditions of his parents and has come to the US to quench his thirst for rebellion. Paige and Edward come from two different worlds, but there is an undeniable attraction between them.
+keywords	secret identity	wisconsin	prince	college	modesty	romantic comedy	student	falling in love	woman director	young adult

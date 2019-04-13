@@ -1,0 +1,8 @@
+title	Lethal Weapon 2
+genre	Action	Adventure	Comedy	Crime	Thriller
+original_language	en
+release_date	1989-07-07
+vote_average	6.9
+vote_count	1692
+overview	In the opening chase, Martin Riggs and Roger Murtaugh stumble across a trunk full of Krugerrands. They follow the trail to a South African diplomat who's using his immunity to conceal a smuggling operation. When he plants a bomb under Murtaugh's toilet, the action explodes!
+keywords	loss of loved one	gang	police detective	buddy cop	diplomatic immunity	lapd

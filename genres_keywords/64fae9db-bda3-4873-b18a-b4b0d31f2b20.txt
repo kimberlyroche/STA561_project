@@ -1,0 +1,8 @@
+title	The Mask
+genre	Romance	Comedy	Crime	Fantasy
+original_language	en
+release_date	1994-07-29
+vote_average	6.8
+vote_count	5042
+overview	When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.
+keywords	dual identity	bank	mockery	green	balloon	jail cell	norse mythology

@@ -1,0 +1,8 @@
+title	The Curse of La Llorona
+genre	Thriller	Horror	Mystery
+original_language	en
+release_date	2019-04-17
+vote_average	6.0
+vote_count	8
+overview	A social worker dealing with the disappearance of two children fears for her own family after beginning the investigation.
+keywords	the conjuring universe

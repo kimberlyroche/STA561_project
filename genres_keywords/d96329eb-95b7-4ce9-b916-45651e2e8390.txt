@@ -1,0 +1,8 @@
+title	RED
+genre	Action	Adventure	Comedy	Crime	Thriller
+original_language	en
+release_date	2010-10-13
+vote_average	6.6
+vote_count	4065
+overview	When his peaceful life is threatened by a high-tech assassin, former black-ops agent, Frank Moses reassembles his old team in a last ditch effort to survive and uncover his assailants.
+keywords	cia	retirement	shot to death	sniper rifle	retired	female spy	alarm

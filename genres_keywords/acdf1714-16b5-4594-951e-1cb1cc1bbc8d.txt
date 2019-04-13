@@ -1,0 +1,8 @@
+title	M*A*S*H
+genre	Comedy	Drama	War
+original_language	en
+release_date	1970-01-24
+vote_average	7.1
+vote_count	400
+overview	The staff of a Korean War field hospital use humor and high jinks to keep their sanity in the face of the horror of war.
+keywords	daily life	american  way of life	korean war	military spoof	doctor

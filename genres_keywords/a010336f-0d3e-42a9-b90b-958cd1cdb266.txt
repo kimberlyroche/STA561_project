@@ -1,0 +1,8 @@
+title	Widows
+genre	Crime	Thriller
+original_language	en
+release_date	2018-11-06
+vote_average	6.5
+vote_count	813
+overview	A police shootout leaves four thieves dead during an explosive armed robbery attempt in Chicago. Their widows have nothing in common except a debt left behind by their spouses' criminal activities. Hoping to forge a future on their own terms, they join forces to pull off a heist.
+keywords	women	chicago	politics	politician	remake	flashback	heist	betrayal	money	based on tv series	violence	car chase	mob boss

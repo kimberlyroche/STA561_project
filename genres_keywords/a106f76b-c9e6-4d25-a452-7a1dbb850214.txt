@@ -1,0 +1,8 @@
+title	Knowing
+genre	Action	Adventure	Drama	Mystery	Science Fiction	Thriller
+original_language	en
+release_date	2009-03-19
+vote_average	6.0
+vote_count	2648
+overview	A teacher opens a time capsule that has been dug up at his son's elementary school; in it are some chilling predictions -- some that have already occurred and others that are about to -- that lead him to believe his family plays a role in the events that are about to unfold.
+keywords	cataclysm	code	suspense	end of the world	time capsule	astrophysicist	grieving widower	lexington massachusetts	westford massachusetts	prediction	researcher	numbers	news

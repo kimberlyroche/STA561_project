@@ -1,0 +1,8 @@
+title	This Is the End
+genre	Action	Comedy
+original_language	en
+release_date	2013-06-12
+vote_average	6.2
+vote_count	3680
+overview	While attending a party at James Franco's house, Seth Rogen, Jay Baruchel and many other celebrities are faced with the apocalypse.
+keywords	rape	monster	panic	friendship	celebrity	satire	party	possession	dark comedy	end of the world	apocalypse	drugs	demon	self-referential	actor

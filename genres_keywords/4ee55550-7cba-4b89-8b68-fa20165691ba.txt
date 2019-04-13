@@ -1,0 +1,8 @@
+title	Byomkesh Gotro
+genre	Mystery	Thriller
+original_language	bn
+release_date	2018-10-12
+vote_average	0.0
+vote_count	0
+overview	Convinced that his life is in jeopardy, Satyakam, the son of a business magnate hailing from Mussoorie, approaches Byomkesh with a plea for help. The legendary detective soon heads to Mussoorie, where he finds out that the youngsters worst fears have come true. Can Byomkesh unravel the mystery shrouding Satyakam's murder before it is too late?
+keywords	byomkesh

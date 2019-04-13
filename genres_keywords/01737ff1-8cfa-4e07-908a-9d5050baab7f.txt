@@ -1,0 +1,8 @@
+title	Boy Erased
+genre	Drama
+original_language	en
+release_date	2018-09-24
+vote_average	7.2
+vote_count	328
+overview	Jared, the son of a Baptist pastor in a small American town, is outed to his parents at age 19. Jared is faced with an ultimatum: attend a gay conversion therapy program – or be permanently exiled and shunned by his family, friends, and faith.
+keywords	gay	homophobia	based on a true story	coming of age	religion	based on memoir or autobiography	lgbt	lgbt teen	college student	dread	conversion therapy

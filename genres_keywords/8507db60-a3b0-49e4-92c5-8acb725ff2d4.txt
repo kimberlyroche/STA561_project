@@ -1,0 +1,8 @@
+title	Pet Sematary
+genre	Horror	Thriller
+original_language	en
+release_date	2019-04-04
+vote_average	5.9
+vote_count	177
+overview	Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie 'Pet Sematary' located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.
+keywords	based on novel or book	cat	remake	indian burial ground

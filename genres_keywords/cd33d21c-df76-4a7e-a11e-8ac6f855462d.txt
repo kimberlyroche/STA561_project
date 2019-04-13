@@ -1,0 +1,8 @@
+title	American Pie
+genre	Comedy	Romance
+original_language	en
+release_date	1999-07-09
+vote_average	6.4
+vote_count	4177
+overview	At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all "score." by their senior prom.
+keywords	graduation	innocence	coming of age	teenager	high school student	pie	teen comedy	teenage sexuality	exchange student	voyeurism	virginity	laxative	prom night

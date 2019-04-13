@@ -1,0 +1,8 @@
+title	Second Act
+genre	Romance	Comedy	Drama
+original_language	en
+release_date	2018-11-22
+vote_average	6.2
+vote_count	256
+overview	Maya, a 40-year-old woman struggling with frustrations from unfulfilled dreams. Until that is, she gets the chance to prove to Madison Avenue that street smarts are as valuable as book smarts, and that it is never too late for a second act.
+keywords	mother	career woman	forty something	second chance	job hunting	facebook	career resurrection	finance

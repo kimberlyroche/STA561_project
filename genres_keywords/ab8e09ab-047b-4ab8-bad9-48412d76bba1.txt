@@ -1,0 +1,8 @@
+title	25th Hour
+genre	Crime	Drama
+original_language	en
+release_date	2002-12-16
+vote_average	7.4
+vote_count	1131
+overview	In New York City in the days following the events of 9/11, Monty Brogan is a convicted drug dealer about to start a seven-year prison sentence, and his final hours of freedom are devoted to hanging out with his closest buddies and trying to prepare his girlfriend for his extended absence.
+keywords	prison	based on novel or book	distrust	prisoner	dream	sadness	drug dealer	nightclub	paranoia	american dream	male friendship	melancholy	girlfriend	friendship	russian mafia	surrealism	betrayal	homosexuality	new york city	widower	statue of liberty	aftercreditsstinger

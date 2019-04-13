@@ -1,0 +1,8 @@
+title	The Hateful Eight
+genre	Crime	Drama	Mystery	Western
+original_language	en
+release_date	2015-12-25
+vote_average	7.7
+vote_count	7744
+overview	Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.
+keywords	bounty hunter	wyoming	mountain	narration	hangman	stagecoach	blizzard	post civil war

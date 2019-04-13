@@ -1,0 +1,8 @@
+title	Look Away
+genre	Horror	Thriller
+original_language	en
+release_date	2018-10-12
+vote_average	5.9
+vote_count	110
+overview	A timid and reclusive 18-year-old high school student is alienated by her parents and ruthlessly rejected by her peers. Desperate and isolated, she confides in her own reflection — and in the mirror she finds her imagined evil twin, someone who supports her, encourages her and knows all her secret desires. When the “girls” trade places, repressed sexuality and a ferocious violence erupt with a dangerous sense of freedom.
+keywords

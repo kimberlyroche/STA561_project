@@ -1,0 +1,8 @@
+title	Christopher Robin
+genre	Adventure	Comedy	Family	Fantasy
+original_language	en
+release_date	2018-08-02
+vote_average	7.4
+vote_count	1106
+overview	Christopher Robin, the boy who had countless adventures in the Hundred Acre Wood, has grown up and lost his way. Now it’s up to his spirited and loveable stuffed animals, Winnie The Pooh, Tigger, Piglet, and the rest of the gang, to rekindle their friendship and remind him of endless days of childlike wonder and make-believe, when doing nothing was the very best something.
+keywords	childhood memory	owl	donkey	suitcase	tiger	pig	forest	children	bear	train	kangaroo	live action and animation	magical realism	adulthood

@@ -1,0 +1,8 @@
+title	*batteries not included
+genre	Comedy	Family	Fantasy	Science Fiction
+original_language	en
+release_date	1987-12-18
+vote_average	6.5
+vote_count	322
+overview	In a soon to be demolished block of apartments, the residents resist the criminal methods used to force them to leave so a greedy tycoon can build his new skyscraper. When tiny mechanical aliens land for a recharge, they decide to stay and help out.
+keywords	extraterrestrial technology	spacecraft	alien life-form	alien phenomenons	new york city	apartment building	elderly couple	property development

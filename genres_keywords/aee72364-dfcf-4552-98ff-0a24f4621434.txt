@@ -1,0 +1,8 @@
+title	Big Trouble in Little China
+genre	Action	Adventure	Comedy	Fantasy
+original_language	en
+release_date	1986-05-30
+vote_average	7.2
+vote_count	1285
+overview	When trucker Jack Burton agreed to take his friend, Wang Chi, to pick up his fiancee at the airport, he never expected to get involved in a supernatural battle between good and evil. Wang's fiancee has emerald green eyes, which make her a perfect target for immortal sorcerer Lo Pan and his three invincible cronies. Lo Pan must marry a girl with green eyes so he can regain his physical form.
+keywords	san francisco	kung fu	chinatown	kidnapping	magic	mystery	cult film	truck driver

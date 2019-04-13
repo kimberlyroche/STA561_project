@@ -1,0 +1,8 @@
+title	Bad Boys II
+genre	Adventure	Action	Comedy	Thriller	Crime
+original_language	en
+release_date	2003-07-18
+vote_average	6.4
+vote_count	2562
+overview	Out-of-control, trash-talking buddy cops Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force reunite, and bullets fly, cars crash and laughs explode as they pursue a whacked-out drug lord from the streets of Miami to the barrios of Cuba. But the real fireworks result when Marcus discovers that playboy Mike is secretly romancing Marcus’ sexy sister.
+keywords	miami	ku klux klan	cuba	undercover	mexican standoff	ecstasy	gangster	guantánamo	slaughter	shootout	gunfight	bromance	violence	foot chase	criminal underworld	interrogation	car chase	drug lord	exploding house	narcotics cop	illegal drugs	dea agent	buddy cop	action hero	haitian gang	minefield

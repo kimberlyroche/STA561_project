@@ -1,0 +1,8 @@
+title	Furious 7
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2015-04-01
+vote_average	7.3
+vote_count	6352
+overview	Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
+keywords	car race	speed	street race	revenge	suspense	car	race	muscle car

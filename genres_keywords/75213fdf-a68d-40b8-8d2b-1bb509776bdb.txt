@@ -1,0 +1,8 @@
+title	A Wrinkle in Time
+genre	Adventure	Science Fiction	Family	Fantasy
+original_language	en
+release_date	2018-03-08
+vote_average	5.0
+vote_count	1011
+overview	After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.
+keywords	based on novel or book	child prodigy	remake	teenager	science	woman director	mixed race

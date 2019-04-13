@@ -1,0 +1,8 @@
+title	The Green Mile
+genre	Fantasy	Drama	Crime
+original_language	en
+release_date	1999-12-10
+vote_average	8.4
+vote_count	7974
+overview	A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.
+keywords	southern usa	mentally disabled	based on novel or book	death row	jail guard	great depression	supernatural	prison guard	jail	electric chair	magic realism	healing	1930s

@@ -1,0 +1,8 @@
+title	Close Encounters of the Third Kind
+genre	Science Fiction	Drama
+original_language	en
+release_date	1977-11-16
+vote_average	7.3
+vote_count	1932
+overview	After an encounter with UFOs, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.
+keywords	wyoming	indiana	obsession	extraterrestrial technology	evacuation	blackout	flying saucer	secret base	light	contact	beguilement	exchange	ufo	alien	toys	vision	missing person	mother ship	escapade	obsessive quest	life turned upside down	lightshow	potatoes

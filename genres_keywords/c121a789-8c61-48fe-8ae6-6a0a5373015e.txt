@@ -1,0 +1,8 @@
+title	Corpse Bride
+genre	Romance	Fantasy	Animation
+original_language	en
+release_date	2005-09-12
+vote_average	7.4
+vote_count	4144
+overview	Set in a 19th-century european village, this stop-motion animation feature follows the story of Victor, a young man whisked away to the underworld and wed to a mysterious corpse bride, while his real bride Victoria waits bereft in the land of the living.
+keywords	shyness	england	cheating	old town	grave	skeleton	musical	marriage	wedding ring	stop motion	animation	money	wedding	corpse	wedding ceremony	parents	dark fantasy	european	ring	piano

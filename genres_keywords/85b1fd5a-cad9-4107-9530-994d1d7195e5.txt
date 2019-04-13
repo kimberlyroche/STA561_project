@@ -1,0 +1,8 @@
+title	The House That Jack Built
+genre	Drama	Horror	Crime	Thriller
+original_language	en
+release_date	2018-10-08
+vote_average	7.4
+vote_count	644
+overview	Failed architect, engineer and vicious murderer Jack narrates the details of some of his most elaborately orchestrated crimes, each of them a towering piece of art that defines his life's work as a serial killer for twelve years.
+keywords	1970s	artist	psychopath	taxidermy	flashback	serial killer	visions of hell	1980s	animal mutilation	graphic violence

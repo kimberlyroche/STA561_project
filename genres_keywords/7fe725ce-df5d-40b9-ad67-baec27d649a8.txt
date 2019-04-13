@@ -1,0 +1,8 @@
+title	The Favourite
+genre	Drama	History	Comedy
+original_language	en
+release_date	2018-11-23
+vote_average	7.7
+vote_count	1794
+overview	England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.
+keywords	great britain	queen	rivalry	lesbian	rabbit	lgbt	18th century	duchess	aristocracy	british monarchy	war of the spanish succession	drop disease

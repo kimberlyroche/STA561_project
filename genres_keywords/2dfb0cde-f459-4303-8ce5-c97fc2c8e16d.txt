@@ -1,0 +1,8 @@
+title	My Hero Academia: Two Heroes
+genre	Animation	Action	Comedy	Fantasy	Adventure
+original_language	ja
+release_date	2018-08-03
+vote_average	8.4
+vote_count	103
+overview	All Might and Deku accept an invitation to go abroad to a floating and mobile manmade city, called 'I Island', where they research quirks as well as hero supplemental items at the special 'I Expo' convention that is currently being held on the island. During that time, suddenly, despite an iron wall of security surrounding the island, the system is breached by a villain, and the only ones able to stop him are the students of Class 1-A.
+keywords	japan	superhero	school	super power	shounen	anime

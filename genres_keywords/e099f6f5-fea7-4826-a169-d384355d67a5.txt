@@ -1,0 +1,8 @@
+title	Ville Neuve
+genre	Animation	Drama
+original_language	fr
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	Determined to stop drinking, Joseph moves into a friend's house and convinces his ex-wife Emma to join him. In the troubled times of Quebec independence referendum, this is the account of their stormy reunion.
+keywords	quebec	sovereignty	1990s

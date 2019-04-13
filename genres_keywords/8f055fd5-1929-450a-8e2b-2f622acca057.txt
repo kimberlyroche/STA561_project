@@ -1,0 +1,8 @@
+title	Sicario: Day of the Soldado
+genre	Action	Crime	Drama	Thriller
+original_language	en
+release_date	2018-06-27
+vote_average	6.7
+vote_count	1198
+overview	Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.
+keywords	corruption	cia	sequel	rescue	shootout	explosion	brutality	violence	drugs	sign language	cartel	neo-noir	mexican cartel

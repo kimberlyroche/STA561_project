@@ -1,0 +1,8 @@
+title	The Final Wish
+genre	Horror
+original_language	en
+release_date	2019-01-24
+vote_average	4.5
+vote_count	22
+overview	Following the passing of his father, Aaron Hammond returns to his hometown to help his devastated mother and to confront his past demons. Sifting through his father’s belongings, Aaron comes upon a mysterious item that is far more than it seems.
+keywords	mother	death of father	jinn	wishes come true	mysterious object

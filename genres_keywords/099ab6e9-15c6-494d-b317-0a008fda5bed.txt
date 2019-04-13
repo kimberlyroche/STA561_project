@@ -1,0 +1,8 @@
+title	Changeling
+genre	Crime	Drama	Mystery
+original_language	en
+release_date	2008-01-30
+vote_average	7.5
+vote_count	2044
+overview	Christine Collins is overjoyed when her kidnapped son is brought back home. But when Christine suspects that the boy returned to her isn't her child, the police captain has her committed to an asylum.
+keywords	corruption	mother	minister	power	public	government	police	reunion	murder	conspiracy	los angeles	missing	mother love	criticism	1920s	1930s	kidnapped child

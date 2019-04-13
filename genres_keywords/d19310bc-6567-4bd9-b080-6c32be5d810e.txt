@@ -1,0 +1,8 @@
+title	If Beale Street Could Talk
+genre	Drama	Romance	Crime
+original_language	en
+release_date	2018-11-30
+vote_average	7.1
+vote_count	312
+overview	After her fiance is falsely imprisoned, a pregnant African-American woman sets out to clear his name and prove his innocence.
+keywords	1970s	flashback	lawyer	harlem	devoted family man	young adult	false imprisonment	love story

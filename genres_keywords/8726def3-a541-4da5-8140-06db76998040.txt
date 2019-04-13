@@ -1,0 +1,8 @@
+title	Bad Times at the El Royale
+genre	Thriller	Crime	Mystery	Drama
+original_language	en
+release_date	2018-10-04
+vote_average	6.8
+vote_count	1179
+overview	Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.
+keywords	post traumatic stress  disorder	hippie	casino	audio tape	motel	vietnam war	jukebox	richard nixon	concierge	payphone	storm	vacuum cleaner	slot machine	ruse	motel room	neo-noir	1960s	lake tahoe	j edgar hoover

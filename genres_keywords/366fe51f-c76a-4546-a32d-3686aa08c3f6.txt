@@ -1,0 +1,8 @@
+title	Hot Fuzz
+genre	Crime	Action	Comedy
+original_language	en
+release_date	2007-02-14
+vote_average	7.5
+vote_count	3822
+overview	As a former London constable, Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.
+keywords	village	arrest	police	partner	parody	murder	conspiracy	serial killer	rural setting	gunfight	english countryside	cult film	police force	cowboy costume	accident	edgar wright

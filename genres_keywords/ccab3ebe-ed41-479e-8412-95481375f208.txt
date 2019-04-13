@@ -1,0 +1,8 @@
+title	Lady and the Tramp
+genre	Animation	Family
+original_language	en
+release_date	1955-06-16
+vote_average	7.0
+vote_count	2611
+overview	Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.
+keywords	cat	spaghetti	lover (female)	love of one's life	kiss	animation	dog

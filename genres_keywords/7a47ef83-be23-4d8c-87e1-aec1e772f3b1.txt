@@ -1,0 +1,8 @@
+title	Star Wars: The Last Jedi
+genre	Fantasy	Adventure	Science Fiction	Action
+original_language	en
+release_date	2017-12-13
+vote_average	7.0
+vote_count	8213
+overview	Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
+keywords	bunker	space battle	failure	defeat	sequel	good vs evil	imax	space opera	stormtrooper	military operation	part of trilogy

@@ -1,0 +1,8 @@
+title	Wolf Warrior 3
+genre	Action	War
+original_language	zh
+release_date	
+vote_average	0.0
+vote_count	0
+overview	The third movie about a Chinese special force soldier with extraordinary marksmanship.
+keywords

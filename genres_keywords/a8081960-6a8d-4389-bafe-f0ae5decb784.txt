@@ -1,0 +1,8 @@
+title	The Lost City of Z
+genre	Adventure	Drama	History
+original_language	en
+release_date	2017-03-15
+vote_average	6.2
+vote_count	1349
+overview	A true-life drama in the 1920s, centering on British explorer Col. Percy Fawcett, who discovered evidence of a previously unknown, advanced civilazation in the Amazon and disappeared whilst searching for it.
+keywords	based on novel or book	river	snake	expedition	world war i	lost civilisation	biography	amazon	tribe	colonel	jungle	south america	explorer	journey	1920s	mysterious lands

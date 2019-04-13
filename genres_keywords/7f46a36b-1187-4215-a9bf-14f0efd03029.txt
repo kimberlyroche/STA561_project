@@ -1,0 +1,8 @@
+title	Overboard
+genre	Romance	Comedy
+original_language	en
+release_date	2018-05-03
+vote_average	6.2
+vote_count	478
+overview	A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee. A remake of the 1987 comedy.
+keywords	amnesia	remake	revenge	wealthy	rich	asshole

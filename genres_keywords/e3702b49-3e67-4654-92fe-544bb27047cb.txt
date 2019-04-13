@@ -1,0 +1,8 @@
+title	Pirates of the Caribbean: Dead Men Tell No Tales
+genre	Adventure	Action	Fantasy	Comedy
+original_language	en
+release_date	2017-05-23
+vote_average	6.5
+vote_count	6695
+overview	Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.
+keywords	sea	ship	sequel	artifact	treasure map	pirate	period drama	monkey	swashbuckler	ghost	caribbean	trident

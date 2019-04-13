@@ -1,0 +1,8 @@
+title	Mia and the White Lion
+genre	Adventure
+original_language	fr
+release_date	2018-12-26
+vote_average	7.6
+vote_count	108
+overview	A young girl from London moves to Africa with her parents where she befriends a lion cub.
+keywords

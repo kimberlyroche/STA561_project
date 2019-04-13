@@ -1,0 +1,8 @@
+title	Beowulf
+genre	Adventure	Action	Animation
+original_language	en
+release_date	2007-11-05
+vote_average	5.7
+vote_count	1447
+overview	6th-century Scandinavian warrior, Beowulf embarks on a mission to slay the a man-like ogre, Grendel.
+keywords	denmark	nordic mythology	lie	pride and vanity	folk hero	human weakness	viking	alienation	festival hall	sin	royalty	curse	battle	ancient world	adult animation	motion capture	6th century

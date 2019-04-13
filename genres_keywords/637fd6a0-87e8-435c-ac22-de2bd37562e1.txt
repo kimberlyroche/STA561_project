@@ -1,0 +1,8 @@
+title	Room
+genre	Thriller
+original_language	en
+release_date	2019-01-03
+vote_average	6.3
+vote_count	725
+overview	Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
+keywords

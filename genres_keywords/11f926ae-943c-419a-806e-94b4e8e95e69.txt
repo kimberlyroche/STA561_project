@@ -1,0 +1,8 @@
+title	The Dirt
+genre	Drama	Music	Comedy
+original_language	en
+release_date	2019-03-22
+vote_average	7.3
+vote_count	192
+overview	The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.
+keywords

@@ -1,0 +1,8 @@
+title	Detective Conan: The Fist of Blue Sapphire
+genre	Animation	Action	Drama	Mystery	Comedy
+original_language	ja
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	23rd Detective Conan Movie.
+keywords

@@ -1,0 +1,8 @@
+title	The Karate Kid
+genre	Drama
+original_language	en
+release_date	1984-06-22
+vote_average	7.0
+vote_count	1645
+overview	Hassled by the school bullies, Daniel LaRusso has his share of adolescent woes. Luckily, his apartment building houses a resident martial arts master: Kesuke Miyagi, who agrees to train Daniel ... and ends up teaching him much more than self-defense. Armed with newfound confidence, skill and wisdom, Daniel ultimately faces off against his tormentors in this hugely popular classic underdog tale.
+keywords	flat	taskmaster	cheerleader	karate	egg	kids and family	los angeles	motorcycle	mentor protégé relationship

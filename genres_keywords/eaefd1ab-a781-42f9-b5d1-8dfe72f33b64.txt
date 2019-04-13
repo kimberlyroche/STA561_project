@@ -1,0 +1,8 @@
+title	Kill Bill: Vol. 1
+genre	Action	Crime
+original_language	en
+release_date	2003-10-10
+vote_average	7.9
+vote_count	9052
+overview	An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.
+keywords	japan	coma	martial arts	kung fu	underworld	yakuza	sword	bride	revenge	female yakuza	animated sequence	wedding	samurai sword

@@ -1,0 +1,8 @@
+title	Blitz
+genre	Crime	Action	Thriller
+original_language	en
+release_date	2011-05-20
+vote_average	6.0
+vote_count	751
+overview	A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers.
+keywords	london	gay	based on novel or book	homophobia	psychopath	revenge	murder	serial killer	lawyer	arson	police detective	swat team	lgbt	hare krishna

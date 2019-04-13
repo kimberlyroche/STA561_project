@@ -1,0 +1,8 @@
+title	Steel Country
+genre	Thriller	Mystery
+original_language	en
+release_date	2019-04-12
+vote_average	0.0
+vote_count	0
+overview	When a young boy turns up dead in a sleepy Pennsylvania town, a local sanitation truck driver, Donald, plays detective, embarking on a precarious and obsessive investigation to prove the boy was murdered.
+keywords	investigation	murder	thriller	mystery	obsessive

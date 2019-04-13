@@ -1,0 +1,8 @@
+title	Gnomeo & Juliet
+genre	Animation	Family
+original_language	en
+release_date	2011-01-13
+vote_average	5.8
+vote_count	1046
+overview	A version of Shakespeare's play, set in the world of warring indoor and outdoor gnomes. Garden gnomes Gnomeo and Juliet have as many obstacles to overcome as their quasi namesakes when they are caught up in a feud between neighbors. But with plastic pink flamingos and lawnmower races in the mix, can this young couple find lasting happiness?
+keywords	shakespeare	garden	forbidden love	kiss	garden gnome	orchid	love	based on play or musical	red	first part	animate statue

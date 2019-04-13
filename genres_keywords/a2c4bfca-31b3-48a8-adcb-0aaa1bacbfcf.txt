@@ -1,0 +1,8 @@
+title	Superman II
+genre	Action	Adventure	Fantasy	Science Fiction
+original_language	en
+release_date	1980-12-04
+vote_average	6.6
+vote_count	1076
+overview	Three escaped criminals from the planet Krypton test the Man of Steel's mettle. Led by Gen. Zod, the Kryptonians take control of the White House and partner with Lex Luthor to destroy Superman and rule the world. But Superman, who attempts to make himself human in order to get closer to Lois, realizes he has a responsibility to save the planet.
+keywords	saving the world	dc comics	niagara falls	sequel	superhero	based on comic	loss of virginity	criminal	super power	phantom zone	rocket fired grenade	crystal machine	superhuman strength	duringcreditsstinger

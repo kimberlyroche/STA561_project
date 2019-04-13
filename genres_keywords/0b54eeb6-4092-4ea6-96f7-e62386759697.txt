@@ -1,0 +1,8 @@
+title	The Ballad of Buster Scruggs
+genre	Comedy	Drama	Western
+original_language	en
+release_date	2018-11-09
+vote_average	7.2
+vote_count	1427
+overview	Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.
+keywords	prostitute	musical	anthology	parody	bank robbery	stagecoach	cowboy	wagon train	singing cowboy	american west	the old west	american indian

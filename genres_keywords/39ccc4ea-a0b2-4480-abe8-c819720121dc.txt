@@ -1,0 +1,8 @@
+title	Lo dejo cuando quiera
+genre	Comedy
+original_language	es
+release_date	2019-04-12
+vote_average	5.0
+vote_count	1
+overview	
+keywords	drugs	comedy

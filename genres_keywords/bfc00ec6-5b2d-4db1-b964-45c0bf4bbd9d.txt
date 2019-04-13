@@ -1,0 +1,8 @@
+title	The Pursuit of Happyness
+genre	Drama
+original_language	en
+release_date	2006-12-14
+vote_average	7.9
+vote_count	4945
+overview	A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.
+keywords	san francisco	single parent	homeless person	bus	worker	homelessness	work	church service	bad luck	biography	salesman	stockbroker

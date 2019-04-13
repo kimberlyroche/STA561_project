@@ -1,0 +1,8 @@
+title	Central Intelligence
+genre	Action	Comedy	Mystery
+original_language	en
+release_date	2016-06-15
+vote_average	6.3
+vote_count	3027
+overview	After he reunites with an old pal through Facebook, a mild-mannered accountant is lured into the world of international espionage.
+keywords	spy	cia	office	school	espionage	high school reunion	accountant

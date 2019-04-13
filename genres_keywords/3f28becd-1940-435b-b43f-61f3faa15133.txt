@@ -1,0 +1,8 @@
+title	Trainspotting
+genre	Drama	Crime
+original_language	en
+release_date	1996-02-23
+vote_average	7.9
+vote_count	5136
+overview	Mark Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+keywords	london	scotland	based on novel or book	drug addiction	drug dealer	nightclub	junkie	heroin	cold turkey	edinburgh	modern society	hallucination	friendship	surrealism	dark comedy	stealing	drug rehabilitation	monologue	drug dealing	drugs	cult film	recovering drug addict	illegal drugs	drug culture	antihero

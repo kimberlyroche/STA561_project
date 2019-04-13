@@ -1,0 +1,8 @@
+title	Con Air
+genre	Action	Thriller	Crime
+original_language	en
+release_date	1997-06-01
+vote_average	6.6
+vote_count	2048
+overview	When the government puts all its rotten criminal eggs in one airborne basket, it's asking for trouble. Before you can say, "Pass the barf bag," the crooks control the plane, led by creepy Cyrus "The Virus" Grissom. Watching his every move is the just-released Cameron Poe, who'd rather reunite with his family.
+keywords	prison	ambush	helicopter	airport	gas station	undercover	mexican standoff	bravery	hijacking	escape	shootout	u.s. marshal	las vegas	explosion	brutality	violence	convict	desert	war hero	dea agent	motorcycle chase

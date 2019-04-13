@@ -1,0 +1,8 @@
+title	Around the World in 80 Days
+genre	Action	Adventure	Comedy
+original_language	en
+release_date	2004-06-16
+vote_average	5.8
+vote_count	1254
+overview	A bet pits a British inventor, a Chinese thief and a French artist on a worldwide adventure that they can circle the globe in 80 days.
+keywords	paris france	london	new york	jules verne	san francisco	istanbul	hot air balloon	journey round the world	queen victoria

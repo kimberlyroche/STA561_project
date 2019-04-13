@@ -1,0 +1,8 @@
+title	The Man with the Golden Gun
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1974-12-01
+vote_average	6.4
+vote_count	869
+overview	A golden bullet has 007 engraved on it as it smashes into the secret service headquarters. The bullet came from the professional killer Scaramanga who has yet to miss a target and James Bond begins a mission to try and stop him.
+keywords	london	england	martial arts	assassin	based on novel or book	exotic island	gold	hitman	secret mission	villain	bangkok	thailand	floatplane	karate	hong kong	duel	pistol	secret service	aftercreditsstinger

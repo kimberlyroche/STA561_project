@@ -1,0 +1,8 @@
+title	Fist of Fury
+genre	Action	Comedy
+original_language	cn
+release_date	1991-03-23
+vote_average	5.8
+vote_count	13
+overview	Amusing homage to Bruce Lee's martial arts classic featuring a young Stephen Chow. The story is about Sing (Stephen Chow), a Mainlander who came to Hong Kong (doesn’t it sound familiar?) to find his cousin. He meets up with Siu (Kenny Bee) and hook up with various kung fu schools, in the hope of winning a $10 million dollar prize from a fighting competition.
+keywords	martial arts

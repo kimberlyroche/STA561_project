@@ -1,0 +1,8 @@
+title	Crayon Shin-chan: The Legend Called: Dance! Amigo!
+genre	Comedy	Animation
+original_language	ja
+release_date	2006-04-15
+vote_average	7.2
+vote_count	3
+overview	Something sinister's afoot in Kasukabe. Shin-chan doesn't know what it is, but he's pretty sure it involves samba-dancing doppelgängers.
+keywords

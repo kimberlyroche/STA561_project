@@ -1,0 +1,8 @@
+title	The Secret Life of Walter Mitty
+genre	Adventure	Comedy	Drama	Fantasy
+original_language	en
+release_date	2013-12-18
+vote_average	7.1
+vote_count	4747
+overview	A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.
+keywords	himalaya	photographer	magazine	iceland	daydream	photograph	shark	fired from the job	skateboard	dreamer	online dating	daydreaming

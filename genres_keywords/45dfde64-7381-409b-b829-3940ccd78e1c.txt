@@ -1,0 +1,8 @@
+title	G.I. Joe: The Rise of Cobra
+genre	Adventure	Action	Thriller	Science Fiction
+original_language	en
+release_date	2009-08-04
+vote_average	5.7
+vote_count	2796
+overview	From the Egyptian desert to deep below the polar ice caps, the elite G.I. JOE team uses the latest in next-generation spy and military equipment to fight the corrupt arms dealer Destro and the growing threat of the mysterious Cobra organization to prevent them from plunging the world into chaos.
+keywords	terrorist	secret	hostage	technology	laser	warhead	government	president	revenge	murder	attack	explosion	scientist	evil	cobra	21st century

@@ -1,0 +1,8 @@
+title	Skyscraper
+genre	Action
+original_language	en
+release_date	2018-07-11
+vote_average	6.1
+vote_count	2001
+overview	Framed and on the run, a former FBI agent must save his family from a blazing fire in the world's tallest building.
+keywords	china	fire	skyscraper	hong kong	security system	pearl	penthouse	world's tallest building

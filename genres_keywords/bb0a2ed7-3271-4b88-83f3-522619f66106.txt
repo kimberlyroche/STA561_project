@@ -1,0 +1,8 @@
+title	Monsters University
+genre	Animation	Family
+original_language	en
+release_date	2013-06-20
+vote_average	7.0
+vote_count	6155
+overview	A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.
+keywords	competition	monster	training camp	teamwork	dormitory	friendship	games	prequel	feud	animation	bully	best friend	university	fraternity	scary	aftercreditsstinger	college student	personification

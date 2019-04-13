@@ -1,0 +1,8 @@
+title	Evil Dead II
+genre	Horror	Comedy	Fantasy
+original_language	en
+release_date	1987-03-13
+vote_average	7.6
+vote_count	1290
+overview	Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from "The Book of the Dead." As they play the recording an evil power is unleashed taking over Linda's body.
+keywords	deer	blood splatter	tape recorder	chainsaw	spirit	violence	over the top	cult film	book of the dead	evil dead	eyeball	necronomicon	tarmac	meat cleaver

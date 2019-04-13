@@ -1,0 +1,8 @@
+title	The Interview
+genre	Action	Comedy
+original_language	en
+release_date	2014-12-25
+vote_average	6.2
+vote_count	3491
+overview	Dave Skylark and his producer Aaron Rapaport run the celebrity tabloid show "Skylark Tonight". When they land an interview with a surprise fan, North Korean dictator Kim Jong-un, they are recruited by the CIA to turn their trip to Pyongyang into an assassination mission.
+keywords	cia	socialism	coup d'etat	north korea	assassination attempt	evil dictator

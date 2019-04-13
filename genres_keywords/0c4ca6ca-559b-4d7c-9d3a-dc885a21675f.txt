@@ -1,0 +1,8 @@
+title	Predator 2
+genre	Science Fiction	Action	Thriller
+original_language	en
+release_date	1990-11-20
+vote_average	6.0
+vote_count	1287
+overview	Ten years after a band of mercenaries first battled a vicious alien, the invisible creature from another world has returned to Earth—and this time, it’s drawn to the gang-ruled and ravaged city of Los Angeles. When it starts murdering drug dealers, detective-lieutenant Mike Harrigan and his police force set out to capture the creature, ignoring warnings from a mysterious government agent to stay away.
+keywords	predator	war on drugs	extraterrestrial technology	los angeles	invisible

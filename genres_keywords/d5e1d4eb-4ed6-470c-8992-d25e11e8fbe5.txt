@@ -1,0 +1,8 @@
+title	Gladiator
+genre	Action	Drama	Adventure
+original_language	en
+release_date	2000-05-01
+vote_average	8.1
+vote_count	9386
+overview	In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.
+keywords	rome italy	parent child relationship	gladiator	arena	senate	roman empire	emperor	slavery	battlefield	slave auction	ancient world	combat	chariot	philosopher	fictionalized history	barbarian horde	2nd century	successor	maximus

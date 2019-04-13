@@ -1,0 +1,8 @@
+title	Into the Blue
+genre	Action	Thriller	Adventure	Crime
+original_language	en
+release_date	2005-09-30
+vote_average	5.8
+vote_count	776
+overview	When they take some friends on an extreme sport adventure, the last thing Jared and Sam expect to see below the shark-infested waters is a legendary pirate ship rumored to contain millions of dollars in gold. But their good fortune is short-lived, as a ruthless gang of criminals gets word of what they have uncovered.
+keywords	diving	treasure	cocaine	shipwreck	sailing	airplane	wrack	shark	scuba

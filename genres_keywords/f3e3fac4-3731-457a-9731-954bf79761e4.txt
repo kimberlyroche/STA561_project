@@ -1,0 +1,8 @@
+title	Wild Rose
+genre	Music	Comedy	Drama
+original_language	en
+release_date	2019-04-12
+vote_average	7.0
+vote_count	4
+overview	A young Scottish singer, Rose-Lynn Harlan, dreams of making it as a country artist in Nashville after being released from prison.
+keywords	country music	glasgow	nashville tennessee

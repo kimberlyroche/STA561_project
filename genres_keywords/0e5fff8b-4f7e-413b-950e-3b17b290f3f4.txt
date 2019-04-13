@@ -1,0 +1,8 @@
+title	John Wick
+genre	Action	Thriller
+original_language	en
+release_date	2014-10-22
+vote_average	7.1
+vote_count	9438
+overview	Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.
+keywords	usa	hitman	gangster	shooting	russian mafia	revenge	murder	killer	dog	retired	widower

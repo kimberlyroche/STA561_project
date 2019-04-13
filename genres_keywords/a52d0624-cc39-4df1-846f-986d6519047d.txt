@@ -1,0 +1,8 @@
+title	Herbie Fully Loaded
+genre	Comedy	Family	Adventure	Fantasy	Romance
+original_language	en
+release_date	2005-06-22
+vote_average	5.3
+vote_count	1123
+overview	Maggie Peyton, the new owner of Number 53 - the free-wheelin' Volkswagen bug with a mind of its own - puts the car through its paces on the road to becoming a NASCAR competitor.
+keywords	car race	victory	car	nascar	woman director

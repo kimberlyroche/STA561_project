@@ -1,0 +1,8 @@
+title	Taken 2
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2012-09-27
+vote_average	6.2
+vote_count	3941
+overview	In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
+keywords	fbi	kidnapping	turkey	police chase	bag over head	violence	teenage daughter	stealing a car	ex-husband ex-wife relationship	albanian	u.s. embassy	security guard killed

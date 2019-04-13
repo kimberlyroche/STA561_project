@@ -1,0 +1,8 @@
+title	River of No Return
+genre	Adventure	Western
+original_language	en
+release_date	1954-04-30
+vote_average	6.6
+vote_count	106
+overview	The itinerant farmer and his young son help a heart-of-gold saloon singer search for her estranged husband
+keywords	gambling	river	small town	saloon	lover	gold rush	farm	puma	singer	19th century	rapids

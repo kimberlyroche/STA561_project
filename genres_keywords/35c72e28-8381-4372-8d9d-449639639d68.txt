@@ -1,0 +1,8 @@
+title	Lucy
+genre	Action	Science Fiction
+original_language	en
+release_date	2014-07-25
+vote_average	6.3
+vote_count	9760
+overview	A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
+keywords	artificial intelligence	telepathy	intelligence	drug mule	telekinesis	futuristic	drugs	super power	tough girl	imax	surgery	brain capacity	synthetic drug	human brain

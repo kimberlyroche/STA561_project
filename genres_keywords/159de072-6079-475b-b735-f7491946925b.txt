@@ -1,0 +1,8 @@
+title	Edward Scissorhands
+genre	Fantasy	Drama	Romance
+original_language	en
+release_date	1990-12-05
+vote_average	7.6
+vote_count	7129
+overview	A small suburban town receives a visit from a castaway unfinished science experiment named Edward.
+keywords	underdog	love at first sight	hairdresser	small town	scissors	inventor	burglar	unsociability

@@ -1,0 +1,8 @@
+title	Warcraft
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2016-05-25
+vote_average	6.3
+vote_count	3946
+overview	The peaceful realm of Azeroth stands on the brink of war as its civilization faces a fearsome race of invaders: orc warriors fleeing their dying home to colonize another. As a portal opens to connect the two worlds, one army faces destruction and the other faces extinction. From opposing sides, two heroes are set on a collision course that will decide the fate of their family, their people, and their home.
+keywords	video game	elves	orcs	magic	chase	based on comic	world of warcraft	sorcerer	fictional war	based on video game	wizard	fictional language	muscles	orc	sword and sorcery

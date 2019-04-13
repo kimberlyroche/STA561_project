@@ -1,0 +1,8 @@
+title	Tad, the Lost Explorer
+genre	Animation	Comedy	Adventure	Family
+original_language	es
+release_date	2012-08-10
+vote_average	5.8
+vote_count	252
+overview	Tad is a celebrity archaeologist and adventurer just like his hero Max Mordon... in his dreams! In reality, Tad is a Chicago construction worker. One day, however, he is mistaken for a real professor and takes his place on a flight to Peru in search of the lost city of Paititi.
+keywords	helicopter	treasure	pyramid	museum	parrot	hot air balloon	peru	jungle	train	dog	desert	explorer	construction worker

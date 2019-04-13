@@ -1,0 +1,8 @@
+title	Shot Caller
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2017-07-13
+vote_average	6.9
+vote_count	997
+overview	A newly-released prison gangster is forced by the leaders of his gang to orchestrate a major crime with a brutal rival gang on the streets of Southern California.
+keywords	tattoo	prison	california	desperation	shooting	murder	gun battle	gang	undercover cop	violence	drugs	criminal	prison riot	driving drunk	estranged father	gun runner	probation officer	manslaughter	probation

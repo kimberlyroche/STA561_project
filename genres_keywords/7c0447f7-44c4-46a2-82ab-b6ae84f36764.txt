@@ -1,0 +1,8 @@
+title	Vice
+genre	Drama	History	Comedy
+original_language	en
+release_date	2018-12-25
+vote_average	7.2
+vote_count	951
+overview	George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.
+keywords	white house	war on terror	biography	iraq war	september 11 2001	vice president	usa politics

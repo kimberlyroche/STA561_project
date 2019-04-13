@@ -1,0 +1,8 @@
+title	The Disaster Artist
+genre	Comedy	Drama
+original_language	en
+release_date	2017-03-12
+vote_average	7.2
+vote_count	1802
+overview	An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.
+keywords	based on novel or book	jealousy	immigrant	ambition	biography	based on a true story	behind the scenes	disaster	hollywood	desire	wealthy man	strange behavior	strange person	socially awkward	film production

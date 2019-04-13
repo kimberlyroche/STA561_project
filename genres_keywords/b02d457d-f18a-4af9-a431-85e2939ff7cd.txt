@@ -1,0 +1,8 @@
+title	Gerald's Game
+genre	Drama	Horror	Thriller
+original_language	en
+release_date	2017-09-19
+vote_average	6.4
+vote_count	1593
+overview	When her husband's sex game goes wrong, Jessie (who is handcuffed to a bed in a remote lake house) faces warped visions, dark secrets and a dire choice.
+keywords	child abuse	based on novel or book	childhood trauma	suspense	sorrow	car accident	eclipse	dog	ghost	memoirs

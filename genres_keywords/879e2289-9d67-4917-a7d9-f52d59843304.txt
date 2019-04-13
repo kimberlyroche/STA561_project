@@ -1,0 +1,8 @@
+title	The Happytime Murders
+genre	Action	Comedy	Crime
+original_language	en
+release_date	2018-08-22
+vote_average	5.7
+vote_count	338
+overview	In a world where human beings and puppets live together, when the members of the cast of a children's television show aired during the 1990s begin to get murdered one by one, puppet Phil Philips, a former LAPD detective who fell in disgrace and turned into a private eye, takes on the case at the request of his old boss in order to assist detective Edwards, who was his partner in the past.
+keywords	prostitute	fbi	puppet	adult humor	puppetry	spoof	drug lord	muppet	buddy cop

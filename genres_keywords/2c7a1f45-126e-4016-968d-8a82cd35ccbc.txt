@@ -1,0 +1,8 @@
+title	The Strangers: Prey at Night
+genre	Horror	Thriller
+original_language	en
+release_date	2018-03-07
+vote_average	5.4
+vote_count	570
+overview	A family’s road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relatives and find it mysteriously deserted. Under the cover of darkness, three masked psychopaths pay them a visit to test the family’s every limit as they struggle to survive.
+keywords	road trip	swimming pool	sequel	murder	suspense	serial killer	masked killer	blood	slasher	home invasion	cross country	stranger	mysterious stranger	handgun	mobile home

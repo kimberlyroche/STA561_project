@@ -1,0 +1,8 @@
+title	Interstellar
+genre	Adventure	Drama	Science Fiction
+original_language	en
+release_date	2014-11-05
+vote_average	8.2
+vote_count	18030
+overview	Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.
+keywords	artificial intelligence	nasa	spacecraft	expedition	future	wormhole	space travel	famine	black hole	dystopia	race against time	quantum mechanics	space	rescue	family relationships	farmhouse	robot	astronaut	scientist	single father	farmer	space station	imax	father daughter relationship

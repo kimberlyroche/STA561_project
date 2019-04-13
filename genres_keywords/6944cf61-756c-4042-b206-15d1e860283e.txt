@@ -1,0 +1,8 @@
+title	StreetDance 2
+genre	Drama	Romance	Music
+original_language	en
+release_date	2012-03-30
+vote_average	5.8
+vote_count	207
+overview	After suffering humiliation by the crew Invincible, street dancer Ash  looks to gather the best dancers from around the world for a rematch.
+keywords	dancing	dancer	musical	street dance	salsa	woman director

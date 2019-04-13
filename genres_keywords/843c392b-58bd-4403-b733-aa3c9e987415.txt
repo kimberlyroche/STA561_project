@@ -1,0 +1,8 @@
+title	The Scorpion King: Book of Souls
+genre	Adventure	Action	Fantasy
+original_language	en
+release_date	2018-10-23
+vote_average	5.0
+vote_count	67
+overview	The Scorpion King teams up with a female warrior named Tala, who is the sister of The Nubian King. Together they search for a legendary relic known as The Book of Souls, which will allow them to put an end to an evil warlord.
+keywords	warlord	sister	prequel	relic	female warrior	fifth part

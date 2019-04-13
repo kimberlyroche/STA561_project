@@ -1,0 +1,8 @@
+title	Thunderball
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1965-12-15
+vote_average	6.7
+vote_count	965
+overview	A criminal organization has obtained two nuclear bombs and are asking for a 100 million pound ransom in the form of diamonds in seven days or they will use the weapons. The secret service sends James Bond to the Bahamas to once again save the world.
+keywords	paris france	spy	sea	florida	fighter pilot	sanatorium	secret organization	nuclear missile	coral reef	bahamas	secret agent	scuba diving	british spy	shark	scuba	british secret service	big ben

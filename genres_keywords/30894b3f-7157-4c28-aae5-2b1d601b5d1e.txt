@@ -1,0 +1,8 @@
+title	I Am Wrath
+genre	Action	Crime	Drama	Thriller
+original_language	en
+release_date	2016-04-14
+vote_average	4.9
+vote_count	285
+overview	A man is out for justice after a group of corrupt police officers are unable to catch his wife's killer.
+keywords	revenge	murder	police corruption	violence	corrupt politician	barber	governer

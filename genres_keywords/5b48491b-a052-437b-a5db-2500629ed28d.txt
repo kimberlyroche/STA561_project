@@ -1,0 +1,8 @@
+title	Life Is Beautiful
+genre	Thriller	Drama	Crime
+original_language	ru
+release_date	1979-06-01
+vote_average	8.0
+vote_count	2
+overview	A politically neutral man is arrested and tortured in prerevolutionary Lisbon, and forced to make, and act on, a political commitment. …
+keywords	italy	portugal	politics	police	murder	classic	killer

@@ -1,0 +1,8 @@
+title	Kronk's New Groove
+genre	Animation	Comedy	Family
+original_language	en
+release_date	2005-12-05
+vote_average	6.1
+vote_count	526
+overview	Kronk, now chef and Head Delivery Boy of Mudka's Meat Hut, is fretting over the upcoming visit of his father. Kronk's father always disapproved of young Kronk's culinary interests and wished that Kronk instead would settle down with a wife and a large house on a hill.
+keywords	competition	friendship	sequel	kids and family

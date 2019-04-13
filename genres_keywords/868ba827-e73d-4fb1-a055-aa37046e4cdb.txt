@@ -1,0 +1,8 @@
+title	Toy Story
+genre	Animation	Comedy	Family
+original_language	en
+release_date	1995-10-30
+vote_average	7.9
+vote_count	9837
+overview	Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.
+keywords	martial arts	jealousy	toy	boy	friendship	bullying	elementary school	friends	rivalry	rescue	mission	walkie talkie	boy next door	new toy	neighborhood	toy comes to life	resourcefulness

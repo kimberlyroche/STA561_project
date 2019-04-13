@@ -1,0 +1,8 @@
+title	The Abyss
+genre	Adventure	Action	Thriller	Science Fiction
+original_language	en
+release_date	1989-08-09
+vote_average	7.2
+vote_count	1328
+overview	A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.
+keywords	ocean	sea	diving suit	flying saucer	nuclear missile	alien life-form	insanity	scuba diving	underwater	scuba	deepsea	trapped underwater 	thalassophobia

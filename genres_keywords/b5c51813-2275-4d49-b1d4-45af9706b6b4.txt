@@ -1,0 +1,8 @@
+title	The Count of Monte Cristo
+genre	Action	Adventure	Drama	Thriller
+original_language	en
+release_date	2002-01-23
+vote_average	7.4
+vote_count	761
+overview	Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.
+keywords	loss of loved one	lover (female)	ex-lover	torture	napoleon bonaparte

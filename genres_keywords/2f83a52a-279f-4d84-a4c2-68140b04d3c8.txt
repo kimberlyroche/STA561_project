@@ -1,0 +1,8 @@
+title	The Foreigner
+genre	Action	Thriller	Drama
+original_language	en
+release_date	2017-09-28
+vote_average	6.7
+vote_count	1041
+overview	Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in a senseless act of politically-motivated terrorism. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.
+keywords	london	bomb	based on novel or book	revenge	terrorism	ira (irish republican army)	violence	ireland	death	united kingdom

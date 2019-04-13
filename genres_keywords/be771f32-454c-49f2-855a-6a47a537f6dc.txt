@@ -1,0 +1,8 @@
+title	The Lego Movie
+genre	Adventure	Animation	Comedy	Family	Fantasy
+original_language	en
+release_date	2014-02-06
+vote_average	7.4
+vote_count	4698
+overview	An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from gluing the universe together.
+keywords	parent child relationship	creativity	friendship	based on comic	part live action	toys	based on toy	falling in love	super power	duringcreditsstinger	different worlds	lego

@@ -1,0 +1,8 @@
+title	Venom
+genre	Science Fiction	Action
+original_language	en
+release_date	2018-09-28
+vote_average	6.6
+vote_count	5639
+overview	Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.
+keywords	san francisco	spacecraft	anti hero	alien life-form	superhero	based on comic	spin off	aftercreditsstinger	duringcreditsstinger	business tycoon	genetic experiment

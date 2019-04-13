@@ -1,0 +1,8 @@
+title	Midnight in Paris
+genre	Fantasy	Comedy	Romance
+original_language	en
+release_date	2011-05-11
+vote_average	7.5
+vote_count	3822
+overview	A romantic comedy about a family traveling to the French capital for business. The party includes a young engaged couple forced to confront the illusion that a life different from their own is better.
+keywords	paris france	painter	detective	based on novel or book	screenwriter	camping	diary	forbidden love	time travel	midnight	gramophone	nostalgia	versailles	sculpture	past	moulin rouge	wine tasting

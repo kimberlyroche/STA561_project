@@ -1,0 +1,8 @@
+title	K-19: The Widowmaker
+genre	Drama	History	War	Thriller	Mystery
+original_language	en
+release_date	2002-07-19
+vote_average	6.4
+vote_count	447
+overview	When Russia's first nuclear submarine malfunctions on its maiden voyage, the crew must race to save the ship and prevent a nuclear disaster.
+keywords	submarine	cold war	soviet union	core melt	north atlantic	based on a true story	nuclear	woman director	1960s	nuclear submarine

@@ -1,0 +1,8 @@
+title	Olympus Has Fallen
+genre	Action	Thriller
+original_language	en
+release_date	2013-03-20
+vote_average	6.2
+vote_count	4008
+overview	When the White House (Secret Service Code: "Olympus") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.
+keywords	white house	secret service	terrorist attack

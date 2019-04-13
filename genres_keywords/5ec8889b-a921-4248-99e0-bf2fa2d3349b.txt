@@ -1,0 +1,8 @@
+title	The Hurt Locker
+genre	Drama	Thriller	War
+original_language	en
+release_date	2008-10-10
+vote_average	7.3
+vote_count	2983
+overview	Forced to play a dangerous game of cat-and-mouse in the chaos of war, an elite Army bomb squad unit must come together in a city where everyone is a potential enemy and every object could be a deadly bomb.
+keywords	sniper	explosive	loyalty	u.s. army	middle east conflict	iraq	car bomb	suspense	rescue	tension	trap	terrorism	soldier	violence	iraq war	desert	bomb squad	body armor	woman director	army sergeant

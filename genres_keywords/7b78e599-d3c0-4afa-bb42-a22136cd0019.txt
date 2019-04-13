@@ -1,0 +1,8 @@
+title	First Man
+genre	History	Drama
+original_language	en
+release_date	2018-10-11
+vote_average	7.1
+vote_count	2075
+overview	A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
+keywords	moon	based on novel or book	nasa	obsession	sacrifice	space travel	space mission	wife	biography	engineer	moon landing	based on a true story	history	space	cancer	astronaut	imax	historical event	death of daughter	compromise	test pilot	1960s	cockpit	apollo program	neil armstrong

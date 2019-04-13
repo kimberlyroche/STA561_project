@@ -1,0 +1,8 @@
+title	The Incredible Hulk
+genre	Science Fiction	Action	Adventure
+original_language	en
+release_date	2008-06-12
+vote_average	6.2
+vote_count	5939
+overview	Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.
+keywords	new york	rio de janeiro	superhero	based on comic	on the run	fugitive	super soldier	scientist	virginia	military	marvel cinematic universe	angry	bruce banner

@@ -1,0 +1,8 @@
+title	Alvin and the Chipmunks: Chipwrecked
+genre	Comedy	Fantasy	Family	Music	Animation
+original_language	en
+release_date	2011-12-14
+vote_average	5.5
+vote_count	1007
+overview	Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.
+keywords	sequel	chipmunk	cruise ship	overboard

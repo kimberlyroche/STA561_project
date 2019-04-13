@@ -1,0 +1,8 @@
+title	Kingsman: The Golden Circle
+genre	Action	Adventure	Comedy
+original_language	en
+release_date	2017-09-20
+vote_average	7.0
+vote_count	5312
+overview	When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
+keywords	saving the world	usa	spy	europe	sequel	secret government organization	agent	statesman

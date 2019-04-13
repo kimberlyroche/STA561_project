@@ -1,0 +1,8 @@
+title	Friday the 13th
+genre	Horror
+original_language	en
+release_date	1980-05-09
+vote_average	6.3
+vote_count	1198
+overview	Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.
+keywords	drowning	lake	cabin	cult	revenge	murder	camp	slasher	fear	summer	teenager	maniac	counselor	desire

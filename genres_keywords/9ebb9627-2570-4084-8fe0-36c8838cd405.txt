@@ -1,0 +1,8 @@
+title	A Bronx Tale
+genre	Drama	Crime
+original_language	en
+release_date	1993-09-14
+vote_average	7.6
+vote_count	756
+overview	Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.
+keywords	gambling	black people	italian american	italian	parent child relationship	loyalty	gangster	funeral	molotow cocktail	gang leader	nostalgia	game of dice	bus driver	best friend	extreme violence	witness to murder	hoodlum	xenophobia	father figure

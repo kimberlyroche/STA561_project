@@ -1,0 +1,8 @@
+title	Dr. No
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1962-10-04
+vote_average	7.0
+vote_count	1561
+overview	In the film that launched the James Bond saga, Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.
+keywords	london	england	assassination	spy	casino	based on novel or book	exotic island	card game	space marine	intelligence	jamaica	secret base	secret mission	baccarat	secret organization	secret intelligence service	nuclear radiation	villain	secret agent	atomic reactor	caribbean

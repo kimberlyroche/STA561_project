@@ -1,0 +1,8 @@
+title	Dawn of the Planet of the Apes
+genre	Science Fiction	Action	Drama	Thriller
+original_language	en
+release_date	2014-06-26
+vote_average	7.3
+vote_count	6914
+overview	A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.
+keywords	leader	colony	post-apocalyptic	dystopia	animal attack	forest	sequel	woods	ape	scientist	monkey	medical research	plague	3d

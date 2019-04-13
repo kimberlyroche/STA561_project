@@ -1,0 +1,8 @@
+title	Executive Decision
+genre	Action	Adventure	Drama	Thriller
+original_language	en
+release_date	1996-03-15
+vote_average	6.1
+vote_count	379
+overview	Terrorists hijack a 747 inbound to Washington D.C., demanding the the release of their imprisoned leader. Intelligence expert David Grant (Kurt Russell) suspects another reason and he is soon the reluctant member of a special assault team that is assigned to intercept the plane and hijackers.
+keywords	bomb	ransom	hostage	airplane	hijacking	terror cell	special unit	deception	flashback	rescue	covert operation	disaster	shootout	terrorism	explosion	violence	surveillance	night vision goggles	flight attendant	intelligence agent	hand to hand combat	nerve gas

@@ -1,0 +1,8 @@
+title	Perfect Strangers
+genre	Comedy	Drama
+original_language	it
+release_date	2016-02-11
+vote_average	7.9
+vote_count	2385
+overview	During a dinner, a group of friends decide to share whatever text message or phone call they will receive during the evening - and all hell breaks loose.
+keywords	italy	italian	love	love fiction	smartphone

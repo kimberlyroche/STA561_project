@@ -1,0 +1,8 @@
+title	Looper
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	2012-09-26
+vote_average	6.8
+vote_count	6570
+overview	In the futuristic action thriller Looper, time travel will be invented but it will be illegal and only available on the black market. When the mob wants to get rid of someone, they will send their target 30 years into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.
+keywords	suicide	assassin	drug addiction	future	time travel	dystopia	retirement	boy	murder	organized crime	tragedy	execution	violence	criminal	drug addict	contract killer	neo-noir

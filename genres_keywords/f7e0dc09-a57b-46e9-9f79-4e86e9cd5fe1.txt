@@ -1,0 +1,8 @@
+title	Black Mirror: Bandersnatch
+genre	Science Fiction	Mystery	Drama	Thriller	TV Movie
+original_language	en
+release_date	2018-12-28
+vote_average	7.1
+vote_count	1744
+overview	In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings.
+keywords	technology	british	based on tv series	brit noir	tech noir	interactive	interactive game

@@ -1,0 +1,8 @@
+title	How About Adolf?
+genre	Comedy
+original_language	de
+release_date	2018-10-18
+vote_average	6.7
+vote_count	21
+overview	The family dinner at Stephan and Elisabeth could have been wonderful. But when Thomas announces that he and his pregnant girlfriend Anna are going to call their son Adolf, the hosts and the family friend René are stuck in the throat.
+keywords

@@ -1,0 +1,8 @@
+title	30 Days of Night
+genre	Horror	Thriller
+original_language	en
+release_date	2007-10-17
+vote_average	6.3
+vote_count	1347
+overview	This is the story of an isolated Alaskan town that is plunged into darkness for a month each year when the sun sinks below the horizon. As the last rays of light fade, the town is attacked by a bloodthirsty gang of vampires bent on an uninterrupted orgy of destruction. Only the small town's husband-and-wife Sheriff team stand between the survivors and certain destruction.
+keywords	sunrise	winter	vampire	marriage crisis	alaska	based on graphic novel	blizzard	blood lust	polar night

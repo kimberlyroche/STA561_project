@@ -1,0 +1,8 @@
+title	Captain Fantastic
+genre	Adventure	Comedy	Drama
+original_language	en
+release_date	2016-07-02
+vote_average	8.0
+vote_count	3341
+overview	A father living in the forests of the Pacific Northwest with his six young kids tries to assimilate back into society.
+keywords	suicide	socialism	oregon	food	survivalist	washington state	off the grid	non-registered home schooled	noam chomsky	living off the grid

@@ -1,0 +1,8 @@
+title	Rambo: First Blood Part II
+genre	Action	Adventure	Thriller	War
+original_language	en
+release_date	1985-05-21
+vote_average	6.4
+vote_count	1544
+overview	John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.
+keywords	usa	vietnam veteran	submachine gun	prisoner	prisoner of war	liberation of prisoners	liberation	vietnam	vietnam war	chase	machinegun	u.s. army	forest	photography	government	war	revenge	soldier	agent	denunciation

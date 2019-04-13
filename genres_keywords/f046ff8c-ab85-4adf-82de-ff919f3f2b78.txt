@@ -1,0 +1,8 @@
+title	The Perfect Date
+genre	Romance
+original_language	en
+release_date	2019-04-12
+vote_average	6.8
+vote_count	153
+overview	No beau? No problem! To earn money for college, a high schooler creates a dating app that lets him act as a stand-in boyfriend.
+keywords

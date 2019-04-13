@@ -1,0 +1,8 @@
+title	The Longest Yard
+genre	Comedy	Drama
+original_language	en
+release_date	2005-05-27
+vote_average	6.3
+vote_count	1500
+overview	Pro quarter-back, Paul Crewe and former college champion and coach, Nate Scarboro are doing time in the same prison. Asked to put together a team of inmates to take on the guards, Crewe enlists the help of Scarboro to coach the inmates to victory in a football game 'fixed' to turn out quite another way.
+keywords	prison	american football	prisoner	blackmail	supervisor	sport

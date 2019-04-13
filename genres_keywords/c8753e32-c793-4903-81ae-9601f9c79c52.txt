@@ -1,0 +1,8 @@
+title	Asterix: The Secret of the Magic Potion
+genre	Animation	Family	Comedy	Adventure
+original_language	fr
+release_date	2018-12-05
+vote_average	7.0
+vote_count	278
+overview	Following a fall during mistletoe picking, Druid Getafix decides that it is time to secure the future of the village. Accompanied by Asterix and Obelix, he undertakes to travel the Gallic world in search of a talented young druid to transmit the Secret of the Magic Potion.
+keywords	asterix	animation

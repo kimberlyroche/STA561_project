@@ -1,0 +1,8 @@
+title	Gone Girl
+genre	Mystery	Thriller	Drama
+original_language	en
+release_date	2014-10-01
+vote_average	7.9
+vote_count	10061
+overview	With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+keywords	based on novel or book	wife	investigation	marriage crisis	disappearance	cheating husband	missing person	search party	criminal lawyer	wife murder	murder suspect	missing wife

@@ -1,0 +1,8 @@
+title	Life As We Know It
+genre	Comedy	Romance	Drama
+original_language	en
+release_date	2010-10-02
+vote_average	6.8
+vote_count	1683
+overview	After a distastrous first date for caterer Holly and network sports director Messer, all they have is common is a dislike for each other and their love for their goddaughter Sophie. But when they suddenly become all Sophie has in this world, Holly and Messer must set their differences aside. Juggling careers and social calendars, they'll have to find common ground while living under the same roof.
+keywords	loss of loved one	baby	godmother	romantic comedy	parenthood	orphan	godfather	co-parenting	legal guardian

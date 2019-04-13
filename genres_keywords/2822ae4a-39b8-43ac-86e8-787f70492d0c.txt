@@ -1,0 +1,8 @@
+title	Dumbo
+genre	Adventure	Family	Fantasy
+original_language	en
+release_date	2019-03-27
+vote_average	6.7
+vote_count	755
+overview	A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.
+keywords	circus	elephant	missouri	remake	1910s

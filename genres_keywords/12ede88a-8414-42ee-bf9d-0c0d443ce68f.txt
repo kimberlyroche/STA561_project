@@ -1,0 +1,8 @@
+title	30 Minutes or Less
+genre	Action	Adventure	Comedy
+original_language	en
+release_date	2011-08-11
+vote_average	5.6
+vote_count	800
+overview	Two fledgling criminals kidnap a pizza delivery guy, strap a bomb to his chest, and advise him that he has mere hours to rob a bank or else...
+keywords	pizza delivery	adventure	pizza boy	aftercreditsstinger

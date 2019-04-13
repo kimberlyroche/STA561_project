@@ -1,0 +1,8 @@
+title	Oblivion
+genre	Action	Science Fiction	Adventure	Mystery
+original_language	en
+release_date	2013-04-10
+vote_average	6.5
+vote_count	6691
+overview	Jack Harper is one of the last few drone repairmen stationed on Earth.  Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack’s mission is nearly complete.  His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft.  Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.
+keywords	spacecraft	dystopia	space	drone	imax	human vs alien

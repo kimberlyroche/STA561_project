@@ -1,0 +1,8 @@
+title	Gremlins 2: The New Batch
+genre	Comedy	Horror	Fantasy
+original_language	en
+release_date	1990-06-15
+vote_average	6.3
+vote_count	1197
+overview	Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!
+keywords	new york	monster	skyscraper	mutant	restaurant	human animal relationship	mutation	tv station	dying and death	water	research station	fur	bat	current	electric shock	cleverness	gremlin	puppetry	cowardliness

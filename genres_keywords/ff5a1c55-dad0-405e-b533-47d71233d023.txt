@@ -1,0 +1,8 @@
+title	Life
+genre	Horror	Science Fiction	Thriller
+original_language	en
+release_date	2017-03-22
+vote_average	6.4
+vote_count	4020
+overview	The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.
+keywords	mars	alien life-form	space	astronaut	space station	intelligent	trapped in space	extraterrestrial life

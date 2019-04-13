@@ -1,0 +1,8 @@
+title	Superman Returns
+genre	Adventure	Fantasy	Action	Science Fiction
+original_language	en
+release_date	2006-06-28
+vote_average	5.5
+vote_count	2278
+overview	Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.
+keywords	saving the world	dc comics	invulnerability	sequel	superhero	based on comic	super power	kryptonite	superhuman strength	lex luthor

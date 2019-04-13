@@ -1,0 +1,8 @@
+title	Ace Ventura: When Nature Calls
+genre	Crime	Comedy	Adventure
+original_language	en
+release_date	1995-11-10
+vote_average	6.2
+vote_count	2077
+overview	Summoned from an ashram in Tibet, Ace finds himself on a perilous journey into the jungles of Africa to find Shikaka, the missing sacred animal of the friendly Wachati tribe. He must accomplish this before the wedding of the Wachati's Princess to the prince of the warrior Wachootoos. If Ace fails, the result will be a vicious tribal war.
+keywords	africa	indigenous	human animal relationship	bat

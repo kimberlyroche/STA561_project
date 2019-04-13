@@ -1,0 +1,8 @@
+title	The Amityville Horror
+genre	Horror
+original_language	en
+release_date	2005-04-14
+vote_average	6.1
+vote_count	1114
+overview	A family is terrorized by demonic forces after moving into a home that was the site of a grisly mass-murder.
+keywords	holy water	long island	remake	family dinner	paranormal	violence	wood chopping	backwards	tortured to death	moving in	based on supposedly true story

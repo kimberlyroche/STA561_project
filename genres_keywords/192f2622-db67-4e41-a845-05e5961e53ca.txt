@@ -1,0 +1,8 @@
+title	Kingdom of Heaven
+genre	Drama	Action	Adventure	History	War
+original_language	en
+release_date	2005-05-03
+vote_average	6.7
+vote_count	2022
+overview	After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.
+keywords	crusade	epic	knight	swordsman	order of the templars	religious	knight templars	12th century	saladin	king richard

@@ -1,0 +1,8 @@
+title	Escape Plan
+genre	Action	Thriller
+original_language	en
+release_date	2013-10-09
+vote_average	6.7
+vote_count	2706
+overview	Ray Breslin is the world's foremost authority on structural security. After analyzing every high security prison and learning a vast array of survival skills so he can design escape-proof prisons, his skills are put to the test. He's framed and incarcerated in a master prison he designed himself. He needs to escape and find the person who put him behind bars.
+keywords	prison	prisoner	ship	mystery	escape	prison escape

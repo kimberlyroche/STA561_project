@@ -1,0 +1,8 @@
+title	Survivor
+genre	Action	Crime	Thriller
+original_language	en
+release_date	2015-05-21
+vote_average	5.5
+vote_count	574
+overview	A Foreign Service Officer in London tries to prevent a terrorist attack set to hit New York, but is forced to go on the run when she is framed for crimes she did not commit.
+keywords	new year's eve	fire	showdown	terrorist	embassy	hand grenade	truck	laboratory	on the run	orphan	death	microscope	hazmat suit

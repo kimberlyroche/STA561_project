@@ -1,0 +1,8 @@
+title	Pokémon: The Movie 2000
+genre	Adventure	Fantasy	Animation	Science Fiction	Family
+original_language	ja
+release_date	1999-07-17
+vote_average	6.5
+vote_count	363
+overview	Ash Ketchum must put his skill to the test when he attempts to save the world from destruction. The Greedy Pokemon collector Lawrence III throws the universe into chaos after disrupting the balance of nature by capturing one of the Pokemon birds that rule the elements of fire, lightning and ice. Will Ash have what it takes to save the world?
+keywords	bird	collector	fighter	based on tv series	pokémon	duel	nature	based on video game	anime

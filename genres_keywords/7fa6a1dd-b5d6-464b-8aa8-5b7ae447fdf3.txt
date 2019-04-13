@@ -1,0 +1,8 @@
+title	Batman v Superman: Dawn of Justice
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2016-03-23
+vote_average	5.8
+vote_count	11700
+overview	Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.
+keywords	dc comics	gotham city	vigilante	superhero	based on comic	revenge	super power	dc extended universe

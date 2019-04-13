@@ -1,0 +1,8 @@
+title	Miss Peregrine's Home for Peculiar Children
+genre	Drama	Fantasy	Adventure	Family
+original_language	en
+release_date	2016-09-28
+vote_average	6.7
+vote_count	6049
+overview	A teenager finds himself transported to an island where he must help protect a group of orphans with special powers from creatures intent on destroying them.
+keywords	wales	shapeshifting	falcon	time travel	children's home	orphan	super power	1940s	based on young adult novel

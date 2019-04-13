@@ -1,0 +1,8 @@
+title	For Your Eyes Only
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1981-06-23
+vote_average	6.5
+vote_count	799
+overview	A British spy ship has sunk and on board was a hi-tech encryption device. James Bond is sent to find the device that holds British launching instructions before the enemy Soviets get to it first.
+keywords	london	submarine	england	sea	assassin	mountain	undercover	olympic games	drug traffic	secret mission	secret intelligence service	kgb	coral reef	ski jump	parrot	cryptographic device	gang of smugglers	figure skating	motorcycle	monastery	british secret service	snow skiing

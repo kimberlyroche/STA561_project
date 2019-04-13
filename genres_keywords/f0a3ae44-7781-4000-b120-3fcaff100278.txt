@@ -1,0 +1,8 @@
+title	Cold Pursuit
+genre	Thriller	Action	Drama
+original_language	en
+release_date	2019-02-07
+vote_average	5.2
+vote_count	296
+overview	Nels Coxman's quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.
+keywords	winter	colorado	drug dealer	remake	revenge	gun battle	snow plow	liam

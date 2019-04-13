@@ -1,0 +1,8 @@
+title	The Fate of the Furious
+genre	Adventure	Action	Crime	Thriller	Mystery
+original_language	en
+release_date	2017-04-12
+vote_average	6.9
+vote_count	6144
+overview	When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
+keywords	submarine	sequel	street race	betrayal	fast cars	rescue mission	new york city	criminal mastermind	mysterious woman	3d

@@ -1,0 +1,8 @@
+title	Harry Potter and the Chamber of Secrets
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2002-11-13
+vote_average	7.7
+vote_count	11352
+overview	Ignoring threats to his life, Harry returns to Hogwarts to investigate – aided by Ron and Hermione – a mysterious series of attacks.
+keywords	flying car	witch	magic	child hero	broom	sorcerer's apprentice	school of witchcraft	giant spider	giant snake	black magic	child driving car	aftercreditsstinger	based on young adult novel	wizarding world

@@ -1,0 +1,8 @@
+title	Sucker Punch
+genre	Action	Fantasy	Thriller
+original_language	en
+release_date	2011-03-24
+vote_average	6.0
+vote_count	2650
+overview	A young girl is institutionalized by her abusive stepfather. Retreating to an alternative reality as a coping strategy, she envisions a plan which will help her escape from the mental facility.
+keywords	brothel	fantasy	asylum	escape	robot	violence	inmate	alternative	imagination	lobotomy

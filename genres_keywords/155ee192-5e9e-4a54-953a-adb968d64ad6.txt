@@ -1,0 +1,8 @@
+title	Hotel Transylvania 3: Summer Vacation
+genre	Family	Fantasy	Comedy	Animation
+original_language	en
+release_date	2018-06-28
+vote_average	6.8
+vote_count	1526
+overview	Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a descendant of Abraham Van Helsing, the notorious monster slayer.
+keywords	monster	vampire	dracula	cruise ship

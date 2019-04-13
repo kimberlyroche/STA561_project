@@ -1,0 +1,8 @@
+title	Triple Frontier
+genre	Action	Thriller	Crime	Adventure
+original_language	en
+release_date	2019-03-06
+vote_average	6.2
+vote_count	809
+overview	Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.
+keywords	brazil	colombia	cocaine	peru	drug cartel	survival	drug lord	andes	ex special forces	amazon jungle	south american jungle	treasure heist

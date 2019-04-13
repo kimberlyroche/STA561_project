@@ -1,0 +1,8 @@
+title	Minority Report
+genre	Action	Thriller	Science Fiction	Mystery
+original_language	en
+release_date	2002-06-20
+vote_average	7.3
+vote_count	4454
+overview	John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.
+keywords	self-fulfilling prophecy	washington d.c.	evidence	future	precognition	hologram	dystopia	murder	police chase	murder investigation	neo-noir	missing son	future noir	backyard surgery	surveillance state

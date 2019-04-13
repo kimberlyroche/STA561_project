@@ -1,0 +1,8 @@
+title	American Hustle
+genre	Drama	Crime
+original_language	en
+release_date	2013-12-12
+vote_average	6.8
+vote_count	4347
+overview	A conman and his seductive partner are forced to work for a wild FBI agent, who pushes them into a world of Jersey power-brokers and the Mafia.
+keywords	new jersey	1970s	fbi	mayor	con artist	scam	mobster

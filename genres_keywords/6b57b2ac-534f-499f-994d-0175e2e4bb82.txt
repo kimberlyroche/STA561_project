@@ -1,0 +1,8 @@
+title	Jurassic Park
+genre	Adventure	Science Fiction
+original_language	en
+release_date	1993-06-11
+vote_average	7.8
+vote_count	8707
+overview	A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.
+keywords	exotic island	dna	paleontology	tyrannosaurus rex	triceratops	brontosaurus	electric fence	island	dinosaur	amusement park	theme park	jurassic park

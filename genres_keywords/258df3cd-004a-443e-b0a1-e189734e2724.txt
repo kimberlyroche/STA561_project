@@ -1,0 +1,8 @@
+title	Prospect
+genre	Science Fiction
+original_language	en
+release_date	2018-10-02
+vote_average	6.4
+vote_count	59
+overview	A teenage girl and her father travel to a remote alien moon, aiming to strike it rich. They've secured a contract to harvest a large deposit of the elusive gems hidden in the depths of the moon's toxic forest. But there are others roving the wilderness and the job quickly devolves into a fight to survive.
+keywords	alien planet	survival	space western	based on short film	natural resources	father daughter relationship	giant forest	toxic atmosphere

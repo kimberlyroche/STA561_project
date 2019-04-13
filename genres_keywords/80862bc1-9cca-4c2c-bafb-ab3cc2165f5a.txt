@@ -1,0 +1,8 @@
+title	The Expendables
+genre	Thriller	Adventure	Action
+original_language	en
+release_date	2010-08-03
+vote_average	6.1
+vote_count	4537
+overview	Barney Ross leads a band of highly skilled mercenaries including knife enthusiast Lee Christmas, a martial arts expert, heavy weapons specialist, demolitionist, and a loose-cannon sniper. When the group is commissioned by the mysterious Mr. Church to assassinate the dictator of a small South American island, Barney and Lee visit the remote locale to scout out their opposition and discover the true nature of the conflict engulfing the city.
+keywords	tattoo	martial arts	sniper	island	mercenary	bridge	rescue	escape	church	drugs	blade	ensemble cast	duringcreditsstinger

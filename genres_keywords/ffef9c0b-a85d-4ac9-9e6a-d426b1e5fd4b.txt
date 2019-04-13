@@ -1,0 +1,8 @@
+title	Back to the Future
+genre	Adventure	Comedy	Science Fiction	Family
+original_language	en
+release_date	1985-07-03
+vote_average	8.2
+vote_count	10587
+overview	Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.
+keywords	clock tower	car race	terrorist	delorean	lightning	guitar	plutonium	sports car	inventor	journey in the past	invention	time travel	race against time	partner	misfit	mad scientist	fish out of water	teenage love	destiny	hidden identity	odd couple	escapade	disorder	chases and races	love and romance	teenage life	misfit partners	changing the past or future	getting home

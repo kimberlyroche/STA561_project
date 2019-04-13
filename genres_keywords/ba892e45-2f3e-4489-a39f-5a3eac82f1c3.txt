@@ -1,0 +1,8 @@
+title	Captive State
+genre	Thriller	Science Fiction
+original_language	en
+release_date	2019-03-15
+vote_average	4.7
+vote_count	85
+overview	Nearly a decade after occupation by an extraterrestrial force, the lives of a Chicago neighborhood on both sides of the conflict are explored.
+keywords	chicago	dystopia	apocalypse	alien invasion

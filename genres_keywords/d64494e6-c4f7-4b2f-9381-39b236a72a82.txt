@@ -1,0 +1,8 @@
+title	Paddington
+genre	Comedy	Adventure	Family
+original_language	en
+release_date	2014-11-28
+vote_average	7.0
+vote_count	1848
+overview	A young Peruvian bear travels to London in search of a new home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family.
+keywords	england	train station	based on novel or book	bear	anthropomorphism	family	talking to animals	children's book	personification

@@ -1,0 +1,8 @@
+title	Stan & Ollie
+genre	Comedy	Drama
+original_language	en
+release_date	2018-12-28
+vote_average	6.8
+vote_count	121
+overview	With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair's love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public
+keywords	heart attack	comedian	biography	based on a true story	bromance	double act	music hall	laurel and hardy	1950s	1930s

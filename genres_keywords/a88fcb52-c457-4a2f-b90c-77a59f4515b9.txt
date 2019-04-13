@@ -1,0 +1,8 @@
+title	Wonder Park
+genre	Comedy	Animation	Adventure	Family	Fantasy
+original_language	en
+release_date	2019-03-14
+vote_average	6.0
+vote_count	54
+overview	The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.
+keywords	animal	amusement park	wonder

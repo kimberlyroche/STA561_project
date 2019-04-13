@@ -1,0 +1,8 @@
+title	Anchorman: The Legend of Ron Burgundy
+genre	Comedy
+original_language	en
+release_date	2004-07-09
+vote_average	6.8
+vote_count	2309
+overview	It's the 1970s, and San Diego super-sexist anchorman Ron Burgundy is the top dog in local TV, but that's all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.
+keywords	journalism	sexism	ladder	panda	tv show in film	mustache	misogynist	newsroom	teleprompter	gang warfare	aftercreditsstinger	duringcreditsstinger	news spoof

@@ -1,0 +1,8 @@
+title	Replicas
+genre	Thriller	Science Fiction
+original_language	en
+release_date	2018-10-25
+vote_average	5.5
+vote_count	171
+overview	A scientist becomes obsessed with returning his family to normalcy after a terrible accident.
+keywords	laboratory	car accident	family	science	consciousness	biologist	synthetic	neuro-scientist	police task force

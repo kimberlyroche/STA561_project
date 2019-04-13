@@ -1,0 +1,8 @@
+title	Terminator 2: Judgment Day
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	1991-07-03
+vote_average	7.9
+vote_count	6513
+overview	Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target for a newer, more deadly terminator. Once again, the resistance has managed to send a protector back to attempt to save John and his mother Sarah.
+keywords	cyborg	shotgun	post-apocalyptic	dystopia	moral ambiguity	mental institution	violence	fictional war	morphing	nuclear weapons	shape shifter	savior	catch phrase

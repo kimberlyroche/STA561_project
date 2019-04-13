@@ -1,0 +1,8 @@
+title	The Death of Superman
+genre	Animation	Action	Drama	Science Fiction
+original_language	en
+release_date	2019-01-13
+vote_average	7.2
+vote_count	238
+overview	When a hulking monster arrives on Earth and begins a mindless rampage, the Justice League is quickly called in to stop it. But it soon becomes apparent that only Superman can stand against the monstrosity.
+keywords	dc comics	superhero	based on comic	animation	alien abomination	superman	dc animated movie universe

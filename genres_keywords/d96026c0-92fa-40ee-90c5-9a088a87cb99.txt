@@ -1,0 +1,8 @@
+title	The Final Destination
+genre	Horror	Mystery
+original_language	en
+release_date	2009-08-26
+vote_average	5.6
+vote_count	1565
+overview	After a young man's premonition of a deadly race-car crash helps saves the lives of his peers, Death sets out to collect those who evaded their end.
+keywords	car race	dying and death	plan	stock car racing	car crash	premonition	gore	vision

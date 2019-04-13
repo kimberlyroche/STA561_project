@@ -1,0 +1,8 @@
+title	Night at the Museum: Secret of the Tomb
+genre	Adventure	Comedy	Fantasy	Family
+original_language	en
+release_date	2014-12-17
+vote_average	6.2
+vote_count	3408
+overview	When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.
+keywords	night watchman	museum	natural history	history	smithsonian

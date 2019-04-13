@@ -1,0 +1,8 @@
+title	The Hobbit: The Desolation of Smaug
+genre	Adventure	Fantasy	Action
+original_language	en
+release_date	2013-12-11
+vote_average	7.6
+vote_count	7496
+overview	The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.
+keywords	elves	dwarf	orcs	middle-earth (tolkien)	hobbit	giant spider	forest	bear	dragon	turns into animal	wizard	sword and sorcery

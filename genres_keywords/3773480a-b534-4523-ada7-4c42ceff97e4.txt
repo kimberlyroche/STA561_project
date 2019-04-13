@@ -1,0 +1,8 @@
+title	Everest
+genre	Adventure	Drama
+original_language	en
+release_date	2015-09-10
+vote_average	6.7
+vote_count	2800
+overview	Inspired by the incredible events surrounding a treacherous attempt to reach the summit of the world's highest mountain, "Everest" documents the awe-inspiring journey of two different expeditions challenged beyond their limits by one of the fiercest snowstorms ever encountered by mankind. Their mettle tested by the harshest of elements found on the planet, the climbers will face nearly impossible obstacles as a lifelong obsession becomes a breathtaking struggle for survival.
+keywords	mountain	snow storm	hiking	climbing	based on a true story	snow	death	imax	blizzard	mountain climbing	mount everest	3d

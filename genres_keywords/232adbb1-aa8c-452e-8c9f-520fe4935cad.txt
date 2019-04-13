@@ -1,0 +1,8 @@
+title	Tomb Raider
+genre	Action	Adventure	Fantasy
+original_language	en
+release_date	2018-03-05
+vote_average	6.3
+vote_count	4077
+overview	Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.
+keywords	island	treasure hunt	remake	female protagonist	heiress	based on video game	bicycle courier	missing person	reboot	peril	action heroine	3d	slave labor	father daughter relationship

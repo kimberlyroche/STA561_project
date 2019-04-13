@@ -1,0 +1,8 @@
+title	Full Metal Jacket
+genre	Drama	War
+original_language	en
+release_date	1987-06-26
+vote_average	8.1
+vote_count	4980
+overview	A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
+keywords	suicide	prostitute	helicopter	based on novel or book	journalism	sniper	propaganda	vietnam	recruit	war photographer	war correspondent	war	boot camp	rescue	jungle	infantry	sergeant	racism	violence	genocide	fighting	platoon	combat	discipline	u.s. marine	obstacle course	peace sign	mass grave	blanket party

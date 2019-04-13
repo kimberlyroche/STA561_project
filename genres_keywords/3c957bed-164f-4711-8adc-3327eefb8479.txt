@@ -1,0 +1,8 @@
+title	Enemy at the Gates
+genre	War	History	Romance	Drama	Action
+original_language	en
+release_date	2001-03-14
+vote_average	7.3
+vote_count	1697
+overview	A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.
+keywords	winter	sniper	world war ii	russia	stalingrad	1940s

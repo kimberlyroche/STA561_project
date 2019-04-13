@@ -1,0 +1,8 @@
+title	Lilo & Stitch 2: Stitch has a Glitch
+genre	Animation	Comedy	Family
+original_language	en
+release_date	2005-01-22
+vote_average	6.6
+vote_count	635
+overview	Now, we find the rowdy extraterrestrial getting used to life with his new ohana. However, a malfunction in the ultimate creation of Dr. Jumba soon emerges, which reinstates his destructive programming and threatens to both ruin his friendship with Lilo and to short him out for good!
+keywords

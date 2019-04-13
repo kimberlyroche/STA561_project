@@ -1,0 +1,8 @@
+title	Allegiant
+genre	Adventure	Science Fiction	Action	Mystery
+original_language	en
+release_date	2016-03-09
+vote_average	6.0
+vote_count	3989
+overview	Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.
+keywords	based on novel or book	revolution	dystopia	sequel	dystopian future	based on young adult novel

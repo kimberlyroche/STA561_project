@@ -1,0 +1,8 @@
+title	Free Solo
+genre	Documentary
+original_language	en
+release_date	2018-10-12
+vote_average	8.0
+vote_count	266
+overview	Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.
+keywords	mountain	yosemite	mountain climbing	woman director

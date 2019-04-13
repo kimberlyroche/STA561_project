@@ -1,0 +1,8 @@
+title	Saw: The Final Chapter
+genre	Horror	Crime
+original_language	en
+release_date	2010-10-21
+vote_average	6.0
+vote_count	1443
+overview	As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.
+keywords	survivor	violence	self help guru	tricycle	prosthetic arm	pig mask	3d

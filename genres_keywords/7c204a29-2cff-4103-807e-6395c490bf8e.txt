@@ -1,0 +1,8 @@
+title	RED 2
+genre	Action	Comedy	Crime	Thriller
+original_language	en
+release_date	2013-07-18
+vote_average	6.5
+vote_count	2306
+overview	Retired C.I.A. agent Frank Moses reunites his unlikely team of elite operatives for a global quest to track down a missing portable nuclear device.
+keywords	paris france	london	england	cia	europe	russia	mi6	agent	hired killer	exploding airplane

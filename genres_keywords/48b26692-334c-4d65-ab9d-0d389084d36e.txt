@@ -1,0 +1,8 @@
+title	The Head Hunter
+genre	Horror	Fantasy
+original_language	en
+release_date	2019-04-05
+vote_average	5.5
+vote_count	14
+overview	On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it’s in a way far more horrifying than he ever imagined.
+keywords

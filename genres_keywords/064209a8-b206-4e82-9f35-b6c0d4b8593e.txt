@@ -1,0 +1,8 @@
+title	Unforgiven
+genre	Western
+original_language	en
+release_date	1992-08-07
+vote_average	7.9
+vote_count	1883
+overview	William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.
+keywords	prostitute	sheriff	bounty	regret	wyoming	right and justice	kansas	revenge	mutilation	one last job	reputation	19th century	englishman	pig farmer

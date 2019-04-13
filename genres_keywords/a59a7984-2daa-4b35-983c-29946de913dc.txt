@@ -1,0 +1,8 @@
+title	Bird Box
+genre	Thriller	Drama
+original_language	en
+release_date	2018-12-13
+vote_average	7.0
+vote_count	4343
+overview	Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.
+keywords	based on novel or book	post-apocalyptic	blindfold	doomsday	survival horror	woman director	white water rafting

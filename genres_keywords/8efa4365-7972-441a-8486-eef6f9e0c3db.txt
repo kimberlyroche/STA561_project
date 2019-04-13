@@ -1,0 +1,8 @@
+title	Peppermint
+genre	Thriller	Action	Drama
+original_language	en
+release_date	2018-09-06
+vote_average	6.5
+vote_count	626
+overview	A grieving mother transforms herself into a vigilante following the murders of her husband and daughter, eluding the authorities to deliver her own personal brand of justice.
+keywords	coma	handcuffs	bus	cemetery	grave	widow	vigilante	alcoholism	revenge	murder	flashback	drug cartel	blood	hospital	police corruption	torture	skid row	corrupt official	loss of child	corrupt judge	fbi agent	driveby shooting

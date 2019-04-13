@@ -1,0 +1,8 @@
+title	Lucky Number Slevin
+genre	Drama	Thriller	Crime	Mystery
+original_language	en
+release_date	2006-02-24
+vote_average	7.5
+vote_count	2166
+overview	Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma. A film with many twists and turns.
+keywords	assassination	assassin	identity	sniper	fbi	mistake in person	jew	gangster	gambling debts	boss	murder	sniper rifle	horse racing	gambler	hoodlum	black men

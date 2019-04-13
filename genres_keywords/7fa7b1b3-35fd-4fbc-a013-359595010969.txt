@@ -1,0 +1,8 @@
+title	Taken
+genre	Action	Thriller
+original_language	en
+release_date	2008-02-18
+vote_average	7.3
+vote_count	6627
+overview	While vacationing with a friend in Paris, an American girl is kidnapped by a gang of human traffickers intent on selling her into forced prostitution. Working against the clock, her ex-spy father must pull out all the stops to save her. But with his best years possibly behind him, the job may be more than he can handle.
+keywords	paris france	kidnapping	human trafficking	rescue	prostitution	albanian	missing daughter	ex cia agent

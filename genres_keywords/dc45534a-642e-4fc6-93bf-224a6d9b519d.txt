@@ -1,0 +1,8 @@
+title	Breakthrough
+genre	Drama
+original_language	en
+release_date	2019-04-11
+vote_average	0.0
+vote_count	0
+overview	When he was 14, Smith drowned in Lake St. Louis and was dead for nearly an hour. According to reports at the time, CPR was performed 27 minutes to no avail. Then the youth's mother, Joyce Smith, entered the room, praying loudly. Suddenly, there was a pulse, and Smith came around.
+keywords	based on novel or book	based on memoir or autobiography

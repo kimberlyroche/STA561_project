@@ -1,0 +1,8 @@
+title	Slumdog Millionaire
+genre	Drama	Romance
+original_language	en
+release_date	2008-05-12
+vote_average	7.7
+vote_count	5609
+overview	Jamal Malik is an impoverished Indian teen who becomes a contestant on the Hindi version of ‘Who Wants to Be a Millionaire?’ but, after he wins, he is suspected of cheating.
+keywords	slum	indian lead	cheating	suspicion	game show	quiz show	orphan	duringcreditsstinger	taj mahal	mumbai

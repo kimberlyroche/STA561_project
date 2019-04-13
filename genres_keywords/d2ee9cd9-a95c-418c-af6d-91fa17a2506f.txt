@@ -1,0 +1,8 @@
+title	Office Uprising
+genre	Action	Comedy	Horror
+original_language	en
+release_date	2018-06-19
+vote_average	5.3
+vote_count	52
+overview	The compound of an arms manufacturer turns into a zombie nightmare when its workers are given the wrong formula.
+keywords

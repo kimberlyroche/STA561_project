@@ -1,0 +1,8 @@
+title	Mandy
+genre	Action	Thriller	Horror	Fantasy	Mystery
+original_language	en
+release_date	2018-09-13
+vote_average	6.3
+vote_count	562
+overview	The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.
+keywords	nightmare	revenge	rescue	animated sequence	cabin in the woods	motorcycle	cult leader	religious cult	burning corpse	1980s

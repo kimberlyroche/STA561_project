@@ -1,0 +1,8 @@
+title	Hereditary
+genre	Horror	Mystery	Thriller
+original_language	en
+release_date	2018-06-04
+vote_average	7.0
+vote_count	2300
+overview	When Ellen, the matriarch of the Graham family, passes away, her daughter’s family begins to unravel cryptic and increasingly terrifying secrets about their ancestry.
+keywords	secret	funeral	daughter	supernatural	grief	dysfunctional family	decapitation	ants	attic	evil	seance	ancestry	traumatic experience	anaphylaxis	matriarch	miniatures	decomposed body	doll house

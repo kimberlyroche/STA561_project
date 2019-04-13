@@ -1,0 +1,8 @@
+title	Harry Potter and the Prisoner of Azkaban
+genre	Adventure	Fantasy	Family
+original_language	en
+release_date	2004-05-31
+vote_average	7.9
+vote_count	11177
+overview	Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.
+keywords	flying	traitor	magic	child hero	broom	sorcerer's apprentice	school of witchcraft	black magic	time travel	best friend	werewolf	muggle	aftercreditsstinger	based on young adult novel	wizarding world

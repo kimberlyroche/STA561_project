@@ -1,0 +1,8 @@
+title	The World's End
+genre	Comedy	Action	Science Fiction
+original_language	en
+release_date	2013-07-18
+vote_average	6.7
+vote_count	2858
+overview	Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival.
+keywords	end of the world	apocalypse	trilogy	homage	edgar wright

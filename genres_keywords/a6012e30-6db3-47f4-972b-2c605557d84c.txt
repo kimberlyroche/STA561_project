@@ -1,0 +1,8 @@
+title	Justice League: War
+genre	Animation
+original_language	en
+release_date	2014-02-02
+vote_average	7.2
+vote_count	406
+overview	The world is under attack by an alien armada led by the powerful Apokoliptian, Darkseid. A group of superheroes consisting of Superman, Batman, Wonder Woman, The Flash, Green Lantern, Cyborg, and Shazam must set aside their differences and gather together to defend Earth.
+keywords	dc comics	based on comic	super power	superhero team	dc animated movie universe

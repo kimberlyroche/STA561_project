@@ -1,0 +1,8 @@
+title	The Revenant
+genre	Western	Drama	Adventure
+original_language	en
+release_date	2015-12-25
+vote_average	7.4
+vote_count	10712
+overview	In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.
+keywords	rape	based on novel or book	parent child relationship	mountain	winter	grizzly bear	wilderness	forest	frontier	liar	based on a true story	remake	revenge	murder	gore	native american	survival	bear	snow	scalping	violence	wild west	bear attack	indian attack	dead horse	starvation	fur trapper	19th century	final battle	wolves	dreamy	child killing

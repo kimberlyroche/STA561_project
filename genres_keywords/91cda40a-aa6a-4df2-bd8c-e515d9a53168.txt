@@ -1,0 +1,8 @@
+title	L.A. Confidential
+genre	Crime	Drama	Mystery	Thriller
+original_language	en
+release_date	1997-09-19
+vote_average	7.8
+vote_count	2232
+overview	Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.
+keywords	corruption	detective	shotgun	morgue	f word	domestic violence	corpse	district attorney	bandage	movie star	good cop bad cop	switchblade	call girl	neo-noir	1950s	falsifying

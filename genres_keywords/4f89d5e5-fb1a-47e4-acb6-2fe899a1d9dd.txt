@@ -1,0 +1,8 @@
+title	Captain Marvel
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2019-03-06
+vote_average	7.2
+vote_count	3708
+overview	The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.
+keywords	superhero	based on comic	superheroine	woman power	super power	marvel cinematic universe	1990s	alien technology	super woman

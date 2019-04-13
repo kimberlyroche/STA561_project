@@ -1,0 +1,8 @@
+title	Exodus: Gods and Kings
+genre	Adventure	Drama	Action
+original_language	en
+release_date	2014-12-03
+vote_average	5.7
+vote_count	2832
+overview	The defiant leader Moses rises up against the Egyptian Pharaoh Ramses, setting 400,000 slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.
+keywords	moses	bible	epic	racism	slave	ancient egypt	old testament	biblical	3d	ramses

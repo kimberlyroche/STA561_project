@@ -1,0 +1,8 @@
+title	Megamind
+genre	Animation	Action	Comedy	Family	Science Fiction
+original_language	en
+release_date	2010-10-28
+vote_average	6.8
+vote_count	3484
+overview	Bumbling supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.
+keywords	saving the world	date	prison	secret identity	fish	gun	dna	mayor	anti hero	rain	museum	one-sided love	serum	superhero	anthropomorphism	reporter	duringcreditsstinger	stronger villain

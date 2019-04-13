@@ -1,0 +1,8 @@
+title	Self/less
+genre	Science Fiction	Mystery	Thriller
+original_language	en
+release_date	2015-07-10
+vote_average	6.3
+vote_count	1762
+overview	An extremely wealthy elderly man dying from cancer undergoes a radical medical procedure that transfers his consciousness to the body of a healthy young man but everything may not be as good as it seems when he starts to uncover the mystery of the body's origins and the secret organization that will kill to keep its secrets.
+keywords	lie	immortality	terminal illness	laboratory	cancer	doctor	body-swap	death	rich	false memory	soul transference	rich man	mind transfer	host body	body snatching	eternal

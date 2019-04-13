@@ -1,0 +1,8 @@
+title	Her Smell
+genre	Drama	Music
+original_language	en
+release_date	2019-04-12
+vote_average	0.0
+vote_count	9
+overview	A self-destructive punk rocker struggles with sobriety while trying to recapture the creative inspiration that led her band to success.
+keywords	addiction	punk rocker

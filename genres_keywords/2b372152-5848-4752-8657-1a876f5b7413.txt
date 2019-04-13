@@ -1,0 +1,8 @@
+title	The Dark Knight Rises
+genre	Action	Crime	Drama	Thriller
+original_language	en
+release_date	2012-07-16
+vote_average	7.7
+vote_count	13583
+overview	Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.
+keywords	dc comics	crime fighter	terrorist	secret identity	burglar	hostage drama	time bomb	gotham city	vigilante	cover-up	superhero	based on comic	villainess	tragic hero	terrorism	destruction	criminal underworld	catwoman	cat burglar	imax	flood

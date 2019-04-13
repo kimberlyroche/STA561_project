@@ -1,0 +1,8 @@
+title	A Quiet Place
+genre	Drama	Horror	Thriller	Science Fiction
+original_language	en
+release_date	2018-04-03
+vote_average	7.3
+vote_count	5462
+overview	A family is forced to live in silence while hiding from creatures that hunt by sound.
+keywords	deafness	fireworks	pregnancy	post-apocalyptic	marriage	child in peril	farmhouse	parenting	survival horror	silence	cornfield	psychological horror	sign language	sound	mysterious creature

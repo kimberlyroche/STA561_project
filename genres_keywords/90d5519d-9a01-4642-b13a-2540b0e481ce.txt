@@ -1,0 +1,8 @@
+title	Velvet Buzzsaw
+genre	Thriller	Mystery	Horror
+original_language	en
+release_date	2019-02-01
+vote_average	5.3
+vote_count	737
+overview	Big money artists and mega-collectors pay a high price when art collides with commerce. After a series of paintings by an unknown artist are discovered, a supernatural force enacts revenge on those who have allowed their greed to get in the way of art.
+keywords	art collector	supernatural	satire	dark comedy	consumerism	art house	social satire	art thief	art dealer	art theft	commercialism	media criticism

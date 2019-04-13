@@ -1,0 +1,8 @@
+title	Hulk
+genre	Drama	Action	Science Fiction
+original_language	en
+release_date	2003-06-19
+vote_average	5.4
+vote_count	2990
+overview	Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.
+keywords	california	san francisco	monster	general	gun	dna	mutation	psychology	berkeley	transformation	frog	president	superhero	based on comic	golden gate bridge	doctor	fear	scientist	dog	desert	anger	phone	military	cell	superhuman strength	repressed memory	repression

@@ -1,0 +1,8 @@
+title	The Nutcracker and the Four Realms
+genre	Fantasy	Adventure	Family
+original_language	en
+release_date	2018-10-26
+vote_average	6.0
+vote_count	789
+overview	A young girl is transported into a magical world of gingerbread soldiers and an army of mice.  In Disney’s magical take on the classic The Nutcracker, Clara wants a one-of-a-kind key that will unlock a box holding a priceless gift. A golden thread presented at her godfather’s holiday party leads her to the coveted key—which promptly disappears into a strange and mysterious parallel world. There Clara encounters a soldier, a gang of mice and the regents of three magical Realms. But she must brave the ominous Fourth Realm, home to the tyrant Mother Ginger, to retrieve her key and return harmony to the unstable world.
+keywords	mouse	ball	key	fairy tale	egg	army	princess	betrayal	snow	magical object	christmas eve	attic	based on short story	christmas	christmas present

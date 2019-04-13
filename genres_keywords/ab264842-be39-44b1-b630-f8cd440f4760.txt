@@ -1,0 +1,8 @@
+title	The Girl with the Dragon Tattoo
+genre	Thriller	Crime	Mystery	Drama
+original_language	en
+release_date	2011-12-14
+vote_average	7.3
+vote_count	3856
+overview	This English-language adaptation of the Swedish novel by Stieg Larsson follows a disgraced journalist, Mikael Blomkvist, as he investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.
+keywords	rape	journalist	based on novel or book	journalism	hacker	nazi	punk	investigation	remake	antisocial personality disorder	serial killer	disappearance	hacking	bible quote	millennium	saga	based on movie	scandinavian	abuse	first part	stieg larsson

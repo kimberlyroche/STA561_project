@@ -1,0 +1,8 @@
+title	Jigsaw
+genre	Crime	Horror	Mystery	Thriller
+original_language	en
+release_date	2017-10-26
+vote_average	6.1
+vote_count	1788
+overview	Dead bodies begin to turn up all over the city, each meeting their demise in a variety of grisly ways. All investigations begin to point the finger at deceased killer John Kramer.
+keywords	sequel	flashback	gore	blood	torture	death	suicide by hanging	abduction

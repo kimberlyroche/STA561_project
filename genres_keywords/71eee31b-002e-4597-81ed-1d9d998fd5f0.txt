@@ -1,0 +1,8 @@
+title	Rogue One: A Star Wars Story
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2016-12-14
+vote_average	7.5
+vote_count	9057
+overview	A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
+keywords	rebel	spacecraft	space battle	space travel	war	prequel	death star	jedi	rebellion	female protagonist	space western	suicide mission	robot	spin off	space opera	alien language	against the odds	blind man

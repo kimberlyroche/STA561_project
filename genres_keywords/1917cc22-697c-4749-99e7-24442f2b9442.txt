@@ -1,0 +1,8 @@
+title	Neon Genesis Evangelion: The End of Evangelion
+genre	Drama	Science Fiction	Animation
+original_language	ja
+release_date	1997-07-19
+vote_average	8.4
+vote_count	304
+overview	The second of two theatrically released follow-ups to the Neon Genesis Evangelion series. Comprising of two alternate episodes which were first intended to take the place of episodes 25 and 26, this finale answers many of the questions surrounding the series, while also opening up some new possibilities.
+keywords	philosophy	post-apocalyptic	insanity	mecha	violence	psychological	body horror	anime

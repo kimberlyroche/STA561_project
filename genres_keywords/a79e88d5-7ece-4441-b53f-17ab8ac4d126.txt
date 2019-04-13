@@ -1,0 +1,8 @@
+title	Before I Fall
+genre	Drama	Mystery	Thriller	Fantasy
+original_language	en
+release_date	2017-03-02
+vote_average	7.0
+vote_count	2050
+overview	Samantha Kingston has everything. Then, everything changes. After one fateful night, she wakes up with no future at all. Trapped into reliving the same day over and over, she begins to question just how perfect her life really was.
+keywords	based on novel or book	time loop	female protagonist	teenager	mumblecore	teen drama	based on young adult novel

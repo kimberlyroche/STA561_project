@@ -1,0 +1,8 @@
+title	The Sixth Sense
+genre	Mystery	Thriller	Drama
+original_language	en
+release_date	1999-08-06
+vote_average	7.9
+vote_count	5949
+overview	A psychological thriller about an eight year old boy named Cole Sear who believes he can see into the world of the dead. A child psychologist named Malcolm Crowe comes to Cole to help him deal with his problem, learning that he really can see ghosts of dead people.
+keywords	philadelphia	child abuse	loss of loved one	sense of guilt	confidence	psychology	dying and death	marriage crisis	afterlife	single	paranormal phenomena	cowardliness	single mother	school play	ghost	child	spiritism

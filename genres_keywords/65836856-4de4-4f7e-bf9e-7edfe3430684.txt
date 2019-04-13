@@ -1,0 +1,8 @@
+title	Teen Titans Go! To the Movies
+genre	Animation	Action	Adventure	Comedy	Music	Science Fiction
+original_language	en
+release_date	2018-07-27
+vote_average	7.0
+vote_count	279
+overview	All the major DC superheroes are starring in their own films, all but the Teen Titans, so Robin is determined to remedy this situation by getting over his role as a sidekick and becoming a movie star. Thus, with a few madcap ideas and an inspirational song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams.
+keywords	dc comics	movie business	superhero	based on tv series	hollywood	teenager	super power	duringcreditsstinger	metacinema

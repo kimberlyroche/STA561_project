@@ -1,0 +1,8 @@
+title	Night at the Museum
+genre	Action	Adventure	Comedy	Family	Fantasy
+original_language	en
+release_date	2006-10-20
+vote_average	6.5
+vote_count	5705
+overview	Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.
+keywords	museum	skeleton	night shift	chaos	genghis khan	maya civilization	natural history	theodore roosevelt	dinosaur	based on children's book	magical object	security guard	duringcreditsstinger	inanimate objects coming to life

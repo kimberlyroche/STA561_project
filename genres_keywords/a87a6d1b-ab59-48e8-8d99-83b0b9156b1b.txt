@@ -1,0 +1,8 @@
+title	BlacKkKlansman
+genre	Crime	Drama
+original_language	en
+release_date	2018-07-30
+vote_average	7.6
+vote_count	2740
+overview	Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.
+keywords	ku klux klan	based on novel or book	biography	based on a true story	undercover cop	racism	based on memoir or autobiography	revisionist history	black panther party

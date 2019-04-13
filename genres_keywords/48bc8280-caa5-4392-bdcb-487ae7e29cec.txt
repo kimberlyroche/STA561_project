@@ -1,0 +1,8 @@
+title	Ender's Game
+genre	Science Fiction	Action	Adventure
+original_language	en
+release_date	2013-10-23
+vote_average	6.6
+vote_count	3465
+overview	Based on the classic novel by Orson Scott Card, Ender's Game is the story of the Earth's most gifted children training to defend their homeplanet in the space wars of the future.
+keywords	based on novel or book	starship	intolerance	war strategy	chosen one	child prodigy	futuristic	space	alien invasion	universe	military school	morality tale	based on young adult novel

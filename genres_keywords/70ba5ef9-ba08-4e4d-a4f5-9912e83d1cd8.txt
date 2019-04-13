@@ -1,0 +1,8 @@
+title	Shrek Forever After
+genre	Comedy	Adventure	Fantasy	Animation	Family
+original_language	en
+release_date	2010-05-16
+vote_average	6.1
+vote_count	3693
+overview	A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.
+keywords	ogre	3d

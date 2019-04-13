@@ -1,0 +1,8 @@
+title	The Predator
+genre	Science Fiction	Action	Thriller	Adventure	Horror
+original_language	en
+release_date	2018-09-05
+vote_average	5.2
+vote_count	1878
+overview	When a kid accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled female scientist can prevent the end of the human race.
+keywords	predator	sequel	alien	military

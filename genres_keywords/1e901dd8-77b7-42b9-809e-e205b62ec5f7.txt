@@ -1,0 +1,8 @@
+title	Windtalkers
+genre	Drama	Action	History	War
+original_language	en
+release_date	2002-06-14
+vote_average	5.8
+vote_count	537
+overview	Joe Enders is a gung-ho Marine assigned to protect a "windtalker" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.
+keywords	japan	world war ii	radio transmission	marine corps	u.s. army	code	navajo	pacific war

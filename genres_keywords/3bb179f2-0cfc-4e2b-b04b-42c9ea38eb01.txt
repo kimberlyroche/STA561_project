@@ -1,0 +1,8 @@
+title	Jack Reacher
+genre	Crime	Drama	Thriller	Action
+original_language	en
+release_date	2012-12-20
+vote_average	6.4
+vote_count	4073
+overview	When a gunman takes five lives with six shots, all evidence points to the suspect in custody. On interrogation, the suspect offers up a single note: "Get Jack Reacher!" So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.
+keywords	usa	detective	based on novel or book	sniper	investigation	police	murder	conspiracy	quarry

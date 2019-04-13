@@ -1,0 +1,8 @@
+title	Apostle
+genre	Thriller	Mystery	Fantasy	Horror
+original_language	en
+release_date	2018-09-21
+vote_average	6.1
+vote_count	488
+overview	In 1905, a man travels to a remote island in search of his missing sister who has been kidnapped by a mysterious religious cult.
+keywords	wales	ransom	cult	murder	religion	prophet	church	violence	praying	isolated island	early 1900s	father daughter relationship	false prophet

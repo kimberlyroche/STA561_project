@@ -1,0 +1,8 @@
+title	Parker
+genre	Action	Crime
+original_language	en
+release_date	2013-01-23
+vote_average	5.8
+vote_count	1829
+overview	A thief with a unique code of professional ethics is double-crossed by his crew and left for dead. Assuming a new disguise and forming an unlikely alliance with a woman on the inside, he looks to hijack the score of the crew's latest heist.
+keywords	florida	real estate agent	professional thief	jewel robbery	palm beach

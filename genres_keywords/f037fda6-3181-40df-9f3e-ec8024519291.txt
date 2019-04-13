@@ -1,0 +1,8 @@
+title	Lady Bird
+genre	Comedy	Drama
+original_language	en
+release_date	2017-09-08
+vote_average	7.3
+vote_count	3688
+overview	A California high school student plans to escape from her family and small town by going to college in New York, much to the disapproval of wildly loving, deeply opinionated and strong-willed mother.
+keywords	coming of age	best friend	loss of job	catholic school	first love	sacramento	woman director	mother daughter relationship	college applications

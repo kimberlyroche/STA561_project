@@ -1,0 +1,8 @@
+title	Spirit: Stallion of the Cimarron
+genre	Western	Animation	Adventure	Comedy	Family
+original_language	en
+release_date	2002-05-24
+vote_average	7.6
+vote_count	1930
+overview	As a wild stallion travels across the frontiers of the Old West, he befriends a young human and finds true love with a mare.
+keywords	human being	freedom	mustang	rivalry	wildlife	animation	cavalry	indian war	eyebrow	wild horse

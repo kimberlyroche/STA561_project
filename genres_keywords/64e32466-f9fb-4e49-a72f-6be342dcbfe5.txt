@@ -1,0 +1,8 @@
+title	Walk. Ride. Rodeo.
+genre	Drama
+original_language	en
+release_date	2019-03-08
+vote_average	7.2
+vote_count	66
+overview	Tells the incredible true story of Amberley Snyder, a nationally ranked rodeo barrel racer who defies the odds after barely surviving a car accident that leaves her paralyzed from the waist down.
+keywords	rodeo	based on a true story	handicap	determined mother	overcoming

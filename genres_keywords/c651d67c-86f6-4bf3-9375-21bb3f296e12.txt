@@ -1,0 +1,8 @@
+title	Don't Breathe
+genre	Crime	Horror	Thriller
+original_language	en
+release_date	2016-08-25
+vote_average	6.8
+vote_count	3559
+overview	A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.
+keywords	kidnapping	thief	teenager	violence	held captive	blind	break in	blind man	trapped in a house

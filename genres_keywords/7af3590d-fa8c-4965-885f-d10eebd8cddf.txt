@@ -1,0 +1,8 @@
+title	Serenity
+genre	Thriller	Drama	Mystery	Science Fiction
+original_language	en
+release_date	2019-01-24
+vote_average	5.0
+vote_count	231
+overview	Baker Dill is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen tracks him down with a desperate plea for help.
+keywords	florida	island	murder	underwater	ex-wife	fishing boat	neo-noir

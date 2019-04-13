@@ -1,0 +1,8 @@
+title	The Wind
+genre	Horror	Western	Thriller
+original_language	en
+release_date	2018-09-10
+vote_average	6.5
+vote_count	10
+overview	A supernatural thriller set in the Western frontier of the late 1800s, The Wind stars Caitlin Gerard as a plains-woman driven mad by the harshness and isolation of the untamed land.
+keywords	based on novel or book	supernatural	frontier	remake	19th century	1800s	plains

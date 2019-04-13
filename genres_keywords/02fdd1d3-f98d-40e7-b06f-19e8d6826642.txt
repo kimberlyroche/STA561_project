@@ -1,0 +1,8 @@
+title	Outlaw King
+genre	Drama	Action	History
+original_language	en
+release_date	2018-11-09
+vote_average	7.0
+vote_count	569
+overview	Forced into exile by the English after being crowned King of Scotland, legendary warrior Robert the Bruce fights to reclaim the throne.
+keywords	scotland	castle	exile	biography	uprising	period drama	historical drama	14th century

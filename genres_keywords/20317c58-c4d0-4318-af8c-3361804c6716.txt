@@ -1,0 +1,8 @@
+title	Batman Returns
+genre	Action	Fantasy
+original_language	en
+release_date	1992-06-19
+vote_average	6.8
+vote_count	3080
+overview	Having defeated the Joker, Batman now faces the Penguin - a warped and deformed individual who is intent on being accepted into Gotham society. Crooked businessman Max Schreck is coerced into helping him become Mayor of Gotham and they both attempt to expose Batman in a different light. Selina Kyle, Max's secretary, is thrown from the top of a building and is transformed into Catwoman - a mysterious figure who has the same personality disorder as Batman. Batman must attempt to clear his name, all the time deciding just what must be done with the Catwoman.
+keywords	holiday	corruption	double life	dc comics	crime fighter	fictional place	hallucination	christmas tree	gotham city	vigilante	superhero	violence	dark hero	super power	super villain	deformed	bird cage	evil circus	christmas holiday

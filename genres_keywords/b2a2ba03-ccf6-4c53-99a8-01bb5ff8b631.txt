@@ -1,0 +1,8 @@
+title	Madagascar: Escape 2 Africa
+genre	Family	Animation	Comedy
+original_language	en
+release_date	2008-10-30
+vote_average	6.3
+vote_count	3588
+overview	Alex, Marty, and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just long enough to make it to the African continent. There the New Yorkers encounter members of their own species for the first time. Africa proves to be a wild place, but Alex and company wonder if it is better than their Central Park home.
+keywords	africa	jealousy	dance	hunger	lion	zoo	hippopotamus	chimp	penguin	volcano	madagascar	airplane	zebra	sequel	shark	imax	duringcreditsstinger

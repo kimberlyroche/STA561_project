@@ -1,0 +1,8 @@
+title	Prisoners
+genre	Drama	Thriller	Crime
+original_language	en
+release_date	2013-09-18
+vote_average	8.0
+vote_count	5606
+overview	When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?
+keywords	detective	pennsylvania	hostage	kidnapping	maze	investigation	vigilante	revenge	beating	rural setting	crime scene	brutality	candlelight vigil	animal cruelty	neo-noir

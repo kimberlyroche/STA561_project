@@ -1,0 +1,8 @@
+title	A Cure for Wellness
+genre	Horror	Mystery	Science Fiction	Thriller
+original_language	en
+release_date	2017-02-15
+vote_average	6.2
+vote_count	1990
+overview	An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious "wellness center" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem.
+keywords	switzerland	mountain	therapist	health	darkness	wellness	employee	patient	spa	violence	drugs	remote	swiss alps	treatment	cure	accident	wellness center	institute	incertitude

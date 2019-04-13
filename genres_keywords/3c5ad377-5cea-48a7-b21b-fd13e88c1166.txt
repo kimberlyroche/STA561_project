@@ -1,0 +1,8 @@
+title	Mad Max
+genre	Adventure	Action	Thriller	Science Fiction
+original_language	en
+release_date	1979-04-12
+vote_average	6.7
+vote_count	2000
+overview	In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.
+keywords	chain	baby	exploitation	bridge	post-apocalyptic	dystopia	matter of life and death	australia	benzine	biker	vigilante	cop	partner	truck	motorcycle	motorcycle gang	exploding car	cult film	ozploitation

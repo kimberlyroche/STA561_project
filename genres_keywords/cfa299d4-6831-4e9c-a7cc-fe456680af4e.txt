@@ -1,0 +1,8 @@
+title	Dirty Harry
+genre	Action	Crime	Thriller
+original_language	en
+release_date	1971-12-21
+vote_average	7.5
+vote_count	1018
+overview	When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath. Harry eventually collars Scorpio in the process of rescuing a kidnap victim, only to see him walk on technicalities. Now, the maverick detective is determined to nail the maniac himself.
+keywords	ambush	san francisco	detective	ransom	sniper	mayor	kidnapping	chase	investigation	assault	police	psychopath	swimming pool	beating	serial killer	gunfight	maniac	violence	school bus	revolver	neo-noir

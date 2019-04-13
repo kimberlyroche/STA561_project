@@ -1,0 +1,8 @@
+title	Final Destination
+genre	Horror
+original_language	en
+release_date	2000-03-17
+vote_average	6.5
+vote_count	2655
+overview	After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.
+keywords	omen	airplane accident	corpse	death	near-death experience

@@ -1,0 +1,8 @@
+title	Capernaum
+genre	Drama
+original_language	ar
+release_date	2018-10-06
+vote_average	8.4
+vote_count	231
+overview	Zain, a 12-year-old boy scrambling to survive on the streets of Beirut, sues his parents for having brought him into such an unjust world, where being a refugee with no documents means that your rights can easily be denied.
+keywords	child abuse	lebanon	refugee	neglect	beirut	lawsuit	child bride	illegal immigrant	poverty

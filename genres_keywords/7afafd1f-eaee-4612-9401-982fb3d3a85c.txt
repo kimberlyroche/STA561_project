@@ -1,0 +1,8 @@
+title	The Extraordinary Journey of the Fakir
+genre	Comedy
+original_language	en
+release_date	2018-05-30
+vote_average	7.1
+vote_count	89
+overview	The story of Ajatashatru Oghash Rathod, a fakir who tricks his local village in Rajasthan, India into believing his possesses special powers and into paying him to fly to Paris to buy a bed of nails from an Ikea store.
+keywords

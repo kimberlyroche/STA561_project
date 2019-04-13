@@ -1,0 +1,8 @@
+title	Raiders of the Lost Ark
+genre	Adventure	Action
+original_language	en
+release_date	1981-06-12
+vote_average	7.9
+vote_count	6411
+overview	When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.
+keywords	saving the world	riddle	nepal	himalaya	cairo	moses	egypt	whip	treasure	medallion	leather jacket	nazi	hat	mediterranean	ark of the covenant	ten commandments	treasure hunt	excavation	swastika	archaeologist	archeology 	religious history	1930s

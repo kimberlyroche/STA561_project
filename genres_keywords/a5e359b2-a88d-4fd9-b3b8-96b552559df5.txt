@@ -1,0 +1,8 @@
+title	Step Up 3D
+genre	Drama	Romance
+original_language	en
+release_date	2010-08-04
+vote_average	6.7
+vote_count	1108
+overview	A tight-knit group of New York City street dancers, including Luke and Natalie, team up with NYU freshman Moose, and find themselves pitted against the world's best hip hop dancers in a high-stakes showdown that will change their lives forever.
+keywords	musical	duringcreditsstinger	3d

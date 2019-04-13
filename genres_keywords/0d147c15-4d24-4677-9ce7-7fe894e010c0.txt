@@ -1,0 +1,8 @@
+title	Antz
+genre	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	1998-10-02
+vote_average	6.1
+vote_count	2470
+overview	In this animated hit, a neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.
+keywords	general	hero	worker	ant	work	assignment	war	princess	soldier	individuality	friend

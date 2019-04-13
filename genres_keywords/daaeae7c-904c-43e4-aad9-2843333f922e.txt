@@ -1,0 +1,8 @@
+title	A Dog's Purpose
+genre	Comedy	Drama	Family	Fantasy
+original_language	en
+release_date	2017-01-19
+vote_average	7.2
+vote_count	1408
+overview	A dog goes on quest to discover his purpose in life over the course of several lifetimes with multiple owners.
+keywords	based on novel or book	human animal relationship	reincarnation	dog	adaptation

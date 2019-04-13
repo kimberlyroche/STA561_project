@@ -1,0 +1,8 @@
+title	Terminator 3: Rise of the Machines
+genre	Action	Thriller	Science Fiction
+original_language	en
+release_date	2003-07-02
+vote_average	6.0
+vote_count	3427
+overview	It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor … just like he promised.
+keywords	saving the world	artificial intelligence	man vs machine	cyborg	killer robot	leather jacket	nanotechnology	rocket launcher	firemen	veterinarian	fire engine	dystopia	psychiatrist

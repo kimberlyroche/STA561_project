@@ -1,0 +1,8 @@
+title	Pan's Labyrinth
+genre	Fantasy	Drama	War
+original_language	es
+release_date	2006-08-25
+vote_average	7.7
+vote_count	5774
+overview	Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.
+keywords	spain	resistance	servant	anti hero	fairy	fairy tale	franco regime	army	princess	love	woods	king	hiding	labyrinth	mythological	children in wartime

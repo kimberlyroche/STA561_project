@@ -1,0 +1,8 @@
+title	Daddy's Home 2
+genre	Comedy
+original_language	en
+release_date	2017-11-09
+vote_average	6.0
+vote_count	1226
+overview	Brad and Dusty must deal with their intrusive fathers during the holidays.
+keywords	holiday	sequel	christmas

@@ -1,0 +1,8 @@
+title	Iron Man 3
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2013-04-18
+vote_average	6.9
+vote_count	13580
+overview	When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.
+keywords	usa	terrorist	war on terror	tennessee	malibu	superhero	based on comic	aftercreditsstinger	marvel cinematic universe

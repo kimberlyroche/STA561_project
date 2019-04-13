@@ -1,0 +1,8 @@
+title	Battleship
+genre	Thriller	Action	Adventure	Science Fiction
+original_language	en
+release_date	2012-04-11
+vote_average	5.6
+vote_count	3170
+overview	When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father, Admiral Shane, expect of him.
+keywords	fight	u.s. navy	mind reading	hong kong	soccer	scientist	fictional war	naval	armada	battleship	naval combat	jds myoko	lost communication	taser	buoy	communications expert	joint chiefs of staff	crash landing	jet fighter pilot	navy lieutenant	permission to marry	uss john paul jones	based on game	aftercreditsstinger	mighty mo	uss missouri

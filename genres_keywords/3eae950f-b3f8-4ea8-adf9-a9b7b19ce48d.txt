@@ -1,0 +1,8 @@
+title	Ice Princess
+genre	Drama	Comedy	Family
+original_language	en
+release_date	2005-03-17
+vote_average	6.0
+vote_count	463
+overview	With the help of her coach, her parents, and the boy who drives the Zamboni machine, nothing can stop Casey from realizing her dream to be a champion figure skater.
+keywords	competition	usa	sport	love	rivalry	figure skating	teenage girl	school	teen movie	teenager	university

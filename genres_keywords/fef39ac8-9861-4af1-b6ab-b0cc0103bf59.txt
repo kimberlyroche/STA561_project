@@ -1,0 +1,8 @@
+title	Gringo
+genre	Comedy	Action	Crime
+original_language	en
+release_date	2018-03-08
+vote_average	5.9
+vote_count	303
+overview	An American businessman with a stake in a pharmaceutical company that's about to go public finds his life is thrown into turmoil by an incident in Mexico.
+keywords	kidnapping	drug cartel	shootout	boyfriend girlfriend

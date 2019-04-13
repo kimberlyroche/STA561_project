@@ -1,0 +1,8 @@
+title	Beauty and the Beast
+genre	Family	Fantasy	Romance
+original_language	en
+release_date	2017-03-16
+vote_average	6.9
+vote_count	10758
+overview	A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.
+keywords	magic	castle	fairy tale	musical	transformation	cartoon	remake	curse	creature	18th century	beast	live action remake

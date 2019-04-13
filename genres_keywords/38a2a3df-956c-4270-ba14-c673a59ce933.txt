@@ -1,0 +1,8 @@
+title	The Fifth Element
+genre	Adventure	Fantasy	Action	Thriller	Science Fiction
+original_language	en
+release_date	1997-05-07
+vote_average	7.4
+vote_count	6062
+overview	In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.
+keywords	clone	taxi	cyborg	egypt	future	stowaway	space travel	race against time	arms dealer	love	alien	priest	end of the world	good vs evil	shootout	police chase	cab driver	new york city	cult film	archaeologist	space opera	military	opera singer	resort hotel	ancient astronaut	ancient evil	cruise liner

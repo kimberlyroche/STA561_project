@@ -1,0 +1,8 @@
+title	Crank
+genre	Action	Thriller	Crime
+original_language	en
+release_date	2006-08-31
+vote_average	6.6
+vote_count	1852
+overview	Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.
+keywords	poison	helicopter	assassin	hitman	adrenaline	fistfight	swimming pool	revenge	shootout	motorcycle	drugs	cell phone	car chase	pharmacy	defibrillation	hospital gown	emergency room	aftercreditsstinger	sweatshop	run	epinephrine

@@ -1,0 +1,8 @@
+title	Oculus
+genre	Horror
+original_language	en
+release_date	2014-04-03
+vote_average	6.4
+vote_count	1701
+overview	A woman tries to exonerate her brother's murder conviction by proving that the crime was committed by a supernatural phenomenon.
+keywords	wife husband relationship	hallucination	haunted house	supernatural	artifact	family relationships	skepticism	ghost	mirror

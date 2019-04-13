@@ -1,0 +1,8 @@
+title	Moneyball
+genre	Drama
+original_language	en
+release_date	2011-09-22
+vote_average	7.1
+vote_count	2184
+overview	The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.
+keywords	1970s	baseball	sport	based on a true story	job transfer	team	oakland athletics	franchise	talent manager	statistics	1980s

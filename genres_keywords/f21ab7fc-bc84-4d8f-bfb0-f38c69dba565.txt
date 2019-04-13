@@ -1,0 +1,8 @@
+title	Shoplifters
+genre	Drama	Crime	Family
+original_language	ja
+release_date	2018-06-02
+vote_average	8.0
+vote_count	403
+overview	After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu’s wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them.
+keywords	secret	family drama	tokyo japan	poverty	orphan	shoplifting	petty crimes

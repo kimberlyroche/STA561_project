@@ -1,0 +1,8 @@
+title	Journey to the Center of the Earth
+genre	Action	Science Fiction	Adventure	Comedy	Family
+original_language	en
+release_date	2008-07-10
+vote_average	5.9
+vote_count	2589
+overview	On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.
+keywords	based on novel or book	volcano	iceland	prehistoric	dinosaur	prehistoric creature	3d

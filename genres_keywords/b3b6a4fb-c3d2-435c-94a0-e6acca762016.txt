@@ -1,0 +1,8 @@
+title	The Place Beyond the Pines
+genre	Drama	Crime
+original_language	en
+release_date	2013-03-20
+vote_average	6.9
+vote_count	2701
+overview	A motorcycle stunt rider considers committing a crime in order to provide for his wife and child, an act that puts him on a collision course with a cop-turned-politician.
+keywords	corruption	drug abuse	parent child relationship	hostage	motel	carnival	stuntman	mechanic	house party	bag of money	religion	motorcycle	bank robbery	car chase	rookie cop	haunted by the past	legacy	evidence room

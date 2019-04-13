@@ -1,0 +1,8 @@
+title	Captain America: Civil War
+genre	Adventure	Action	Science Fiction
+original_language	en
+release_date	2016-04-27
+vote_average	7.3
+vote_count	13330
+overview	Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.
+keywords	civil war	war	sequel	superhero	based on comic	imax	aftercreditsstinger	duringcreditsstinger	marvel cinematic universe	3d

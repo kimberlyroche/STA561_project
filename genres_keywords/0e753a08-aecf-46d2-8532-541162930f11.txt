@@ -1,0 +1,8 @@
+title	Zootopia
+genre	Animation	Adventure	Family	Comedy
+original_language	en
+release_date	2016-02-11
+vote_average	7.7
+vote_count	9686
+overview	Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.
+keywords	allegory	lion	hippopotamus	fox	elephant	sheep	polar bear	bullying	moose	revenge	conspiracy	urban	female protagonist	cheetah	anthropomorphism	rabbit	rookie cop	missing person	racial prejudice	injustice	reconciliation	ram	stereotype	badger	discrimination	3d	police woman	yak	african buffalo	gazelle	three-toed sloth	arctic shrew	african elephant	honey badger	indian elephant	black jaguar	fennec fox	black rhinoceros	nine-banded armadillo

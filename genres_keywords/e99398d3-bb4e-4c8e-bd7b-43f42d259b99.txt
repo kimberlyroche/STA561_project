@@ -1,0 +1,8 @@
+title	The Post
+genre	Drama	History
+original_language	en
+release_date	2017-12-22
+vote_average	7.0
+vote_count	2391
+overview	A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.
+keywords	journalism	newspaper	1970s	vietnam war	biography	politics	richard nixon	based on a true story	pentagon papers	government cover-up	publisher

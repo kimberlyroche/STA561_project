@@ -1,0 +1,8 @@
+title	Ghostland
+genre	Horror	Mystery	Thriller
+original_language	en
+release_date	2018-03-15
+vote_average	7.2
+vote_count	689
+overview	A mother of two inherits a home from her aunt. On the first night in the new home she is confronted with murderous intruders and fights for her daughters’ lives. Sixteen years later the daughters reunite at the house, and that is when things get strange . . .
+keywords	hallucination	insanity	torture	reality vs fantasy

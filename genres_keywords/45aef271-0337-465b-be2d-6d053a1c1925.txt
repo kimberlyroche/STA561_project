@@ -1,0 +1,8 @@
+title	Robin Hood: Men in Tights
+genre	Comedy
+original_language	en
+release_date	1993-07-28
+vote_average	6.5
+vote_count	967
+overview	Robin Hood comes home after fighting in the Crusades to learn that the noble King Richard is in exile and that the despotic King John now rules England, with the help of the Sheriff of Rottingham. Robin Hood assembles a band of fellow patriots to do battle with King John and the Sheriff.
+keywords	witch	tree house	robin hood	forest	taxes	thief	parody	arrow	spoof	tournament

@@ -1,0 +1,8 @@
+title	A Madea Family Funeral
+genre	Comedy
+original_language	en
+release_date	2019-03-01
+vote_average	5.5
+vote_count	265
+overview	A joyous family reunion becomes a hilarious nightmare as Madea and the crew travel to backwoods Georgia, where they find themselves unexpectedly planning a funeral that might unveil unpleasant family secrets.
+keywords	secret	funeral	family secret	family

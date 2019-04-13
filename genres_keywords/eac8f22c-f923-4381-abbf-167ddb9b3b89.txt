@@ -1,0 +1,8 @@
+title	Bridget Jones's Diary
+genre	Comedy	Romance	Drama
+original_language	en
+release_date	2001-04-13
+vote_average	6.7
+vote_count	2571
+overview	A chaotic Bridget Jones meets a snobbish lawyer, and he soon enters her world of imperfections.
+keywords	holiday	london	england	alcohol	sex	lovesickness	telecaster	parent child relationship	birthday	christmas party	news broadcast	sexual frustration	diary	cigarette	daughter	lawyer	reporter	extramarital affair	duringcreditsstinger	woman director

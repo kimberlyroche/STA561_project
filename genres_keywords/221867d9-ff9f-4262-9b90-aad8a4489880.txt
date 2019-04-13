@@ -1,0 +1,8 @@
+title	Baywatch
+genre	Action	Comedy
+original_language	en
+release_date	2017-05-12
+vote_average	6.1
+vote_count	4555
+overview	Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
+keywords	sea	beach	drug dealer	yacht	life-saver	based on tv series	lifeguard	rookie	vigilantism

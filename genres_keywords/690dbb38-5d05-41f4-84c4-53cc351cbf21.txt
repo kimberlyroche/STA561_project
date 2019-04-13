@@ -1,0 +1,8 @@
+title	Brooklyn
+genre	Drama	Romance
+original_language	en
+release_date	2015-10-20
+vote_average	7.3
+vote_count	1869
+overview	In 1950s Ireland and New York, young Ellis Lacey has to choose between two men and two countries.
+keywords	love triangle	based on novel or book	homesickness	ship	community	marriage	working class	boarding house	suburb	ireland	brooklyn, new york city	journey	dual life	irish immigrant	1950s

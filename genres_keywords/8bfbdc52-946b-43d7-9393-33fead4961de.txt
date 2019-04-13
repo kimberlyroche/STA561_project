@@ -1,0 +1,8 @@
+title	The Proposal
+genre	Comedy	Romance	Drama
+original_language	en
+release_date	2009-06-01
+vote_average	6.9
+vote_count	3307
+overview	When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.
+keywords	fictitious marriage	deportation	immigration law	alaska	co-worker	humiliation	book editor	fake boyfriend	duringcreditsstinger	woman director	pretend relationship

@@ -1,0 +1,8 @@
+title	The Wandering Earth
+genre	Science Fiction
+original_language	zh
+release_date	2019-02-05
+vote_average	6.8
+vote_count	37
+overview	The sun is dying out, a group of brave astronauts set out to find a new home for the entire human race and the planet.
+keywords

@@ -1,0 +1,8 @@
+title	Scary Movie
+genre	Comedy
+original_language	en
+release_date	2000-07-07
+vote_average	6.1
+vote_count	3203
+overview	Following on the heels of popular teen-scream horror movies, with uproarious comedy and biting satire. Marlon and Shawn Wayans, Shannon Elizabeth and Carmen Electra pitch in to skewer some of Hollywood's biggest blockbusters, including Scream, I Know What You Did Last Summer, The Matrix, American Pie and The Blair Witch Project.
+keywords	sex	garage	psychopath	crude humor	horror spoof	drugs

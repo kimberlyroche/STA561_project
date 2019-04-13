@@ -1,0 +1,8 @@
+title	Blue Film: Estimation
+genre
+original_language	ja
+release_date	1968-03-01
+vote_average	1.3
+vote_count	2
+overview	The film depicts the plight of a female office worker whose boss introduces to the world of pornographic films.
+keywords

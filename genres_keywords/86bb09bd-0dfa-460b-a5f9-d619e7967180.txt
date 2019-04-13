@@ -1,0 +1,8 @@
+title	The Mafia Kills Only in Summer
+genre	Romance	Comedy	Crime	Drama
+original_language	it
+release_date	2013-11-28
+vote_average	7.4
+vote_count	662
+overview	While Arturo tries to gain the love of Flora, he witnesses the history of Sicily from 1969 to 1992, miraculously dodging the crimes of the Mafia and supporting as a journalist the heroic struggle of the judges and policemen who fought this infamous organization.
+keywords	sicily	journalist	judge	mafia	sicilian mafia

@@ -1,0 +1,8 @@
+title	Casino Royale
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	2006-11-14
+vote_average	7.4
+vote_count	5859
+overview	Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond – on his maiden mission as a 00 Agent – to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.
+keywords	italy	poker	casino	based on novel or book	terrorist	banker	money	free running	torture	british secret service	montenegro

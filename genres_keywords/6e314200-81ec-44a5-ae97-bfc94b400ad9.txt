@@ -1,0 +1,8 @@
+title	The Good Dinosaur
+genre	Adventure	Animation	Family
+original_language	en
+release_date	2015-11-14
+vote_average	6.7
+vote_count	3042
+overview	An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.
+keywords	tyrannosaurus rex	friends	alternate history	dinosaur	fear	storm	nature	human	journey

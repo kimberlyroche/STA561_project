@@ -1,0 +1,8 @@
+title	Last Action Hero
+genre	Adventure	Fantasy	Action	Comedy	Family
+original_language	en
+release_date	1993-06-18
+vote_average	6.2
+vote_count	1212
+overview	Danny is obsessed with a fictional movie character action hero Jack Slater. When a magical ticket transports him into Jack's latest adventure, Danny finds himself in a world where movie magic and reality collide. Now it's up to Danny to save the life of his hero and new friend.
+keywords	magic	film in film	spoof	magical object	cartoon cat	ticket	self-referential	projectionist	child's point of view

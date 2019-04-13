@@ -1,0 +1,8 @@
+title	Can You Ever Forgive Me?
+genre	Drama	Comedy	Crime
+original_language	en
+release_date	2018-10-19
+vote_average	6.9
+vote_count	373
+overview	When bestselling celebrity biographer is no longer able to get published because she has fallen out of step with current tastes, she turns her art form to deception.
+keywords	based on novel or book	cat	biography	based on a true story	author	new york city	woman director	forgery	female author

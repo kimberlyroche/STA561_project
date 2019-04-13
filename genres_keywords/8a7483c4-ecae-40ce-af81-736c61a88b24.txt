@@ -1,0 +1,8 @@
+title	Status Update
+genre	Comedy	Fantasy	Science Fiction
+original_language	en
+release_date	2018-02-09
+vote_average	6.8
+vote_count	101
+overview	After being uprooted by his parents' separation and unable to fit into his new hometown, a teenager stumbles upon a magical app that causes his social media updates to come true.
+keywords	high school	teenager	new kid	social media	divorced parents	app

@@ -1,0 +1,8 @@
+title	Star Trek: The Motion Picture
+genre	Science Fiction	Adventure	Mystery
+original_language	en
+release_date	1979-12-06
+vote_average	6.4
+vote_count	814
+overview	When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.
+keywords	artificial intelligence	uss enterprise	starfleet	san francisco	self sacrifice	spacecraft	klingon	vulcan	space opera

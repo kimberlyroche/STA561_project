@@ -1,0 +1,8 @@
+title	Snatch
+genre	Thriller	Crime
+original_language	en
+release_date	2000-09-01
+vote_average	7.8
+vote_count	4605
+overview	The second film from British director Guy Ritchie. Snatch tells an obscure story similar to his first fast-paced crazy character-colliding filled film “Lock, Stock and Two Smoking Barrels.” There are two overlapping stories here – one is the search for a stolen diamond, and the other about a boxing promoter who’s having trouble with a psychotic gangster.
+keywords	gypsy	bare knuckle boxing	slang	trailer park	diamond	antwerp	boxer	pig	sport	receiving of stolen goods	cult film	pikey

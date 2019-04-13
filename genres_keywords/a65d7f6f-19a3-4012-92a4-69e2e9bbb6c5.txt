@@ -1,0 +1,8 @@
+title	After
+genre	Drama	Romance	Thriller
+original_language	en
+release_date	2019-04-11
+vote_average	7.3
+vote_count	78
+overview	A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.
+keywords	based on novel or book	love	teenage crush	saga	after

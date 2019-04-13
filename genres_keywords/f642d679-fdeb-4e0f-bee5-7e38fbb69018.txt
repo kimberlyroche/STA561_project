@@ -1,0 +1,8 @@
+title	A Christmas Carol
+genre	Animation	Drama	Family
+original_language	en
+release_date	2009-11-04
+vote_average	6.8
+vote_count	2361
+overview	Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.
+keywords	holiday	based on novel or book	victorian england	money	christmas eve	scrooge	christmas carol	ghost	lesson	charles dickens	christmas

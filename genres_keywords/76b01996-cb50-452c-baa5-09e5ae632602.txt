@@ -1,0 +1,8 @@
+title	Paranormal Activity: The Marked Ones
+genre	Horror	Thriller
+original_language	en
+release_date	2014-01-01
+vote_average	5.2
+vote_count	724
+overview	Seventeen-year-old Jesse has been hearing terrifying sounds coming from his neighbor’s apartment, but when he turns on his camera and sets out to uncover their source, he encounters an ancient evil that won’t rest until it’s claimed his very soul.
+keywords	supernatural	demon	found footage

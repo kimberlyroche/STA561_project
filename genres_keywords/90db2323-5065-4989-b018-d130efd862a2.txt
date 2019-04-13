@@ -1,0 +1,8 @@
+title	The Mule
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2018-12-14
+vote_average	6.4
+vote_count	1197
+overview	Earl Stone, a man in his 80s who is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he’s just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.
+keywords	mexico	drug crime	drug mule	based on a true story	drug cartel	dea agent	veteran	based on magazine, newspaper or article	2010s	2000s	sinaloa

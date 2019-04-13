@@ -1,0 +1,8 @@
+title	Fight Club
+genre	Drama
+original_language	en
+release_date	1999-10-15
+vote_average	8.4
+vote_count	15835
+overview	A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground "fight clubs" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.
+keywords	support group	dual identity	nihilism	fight	rage and hate	insomnia	dystopia	alter ego	violence	cult film	split personality	quitting a job	dissociative identity disorder

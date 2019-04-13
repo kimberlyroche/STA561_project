@@ -1,0 +1,8 @@
+title	Searching
+genre	Thriller	Mystery	Drama
+original_language	en
+release_date	2018-08-24
+vote_average	7.6
+vote_count	1342
+overview	After David Kim's 16-year-old daughter goes missing, a local investigation is opened and a detective is assigned to the case. But 37 hours later and without a single lead, David decides to search the one place no one has looked yet, where all secrets are kept today: his daughter's laptop.
+keywords	california	stalker	internet	missing person	missing child	computer screen	social media	missing daughter	internet video	live stream	searching	father daughter relationship	search and rescue

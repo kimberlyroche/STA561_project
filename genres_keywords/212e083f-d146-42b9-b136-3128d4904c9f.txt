@@ -1,0 +1,8 @@
+title	Abduction
+genre	Thriller	Action	Mystery
+original_language	en
+release_date	2011-09-22
+vote_average	5.7
+vote_count	1735
+overview	A young man sets out to uncover the truth about his life after finding his baby photo on a missing persons website.
+keywords	cia	airport	hero	fight	fbi	kidnapping	time bomb	training	past	webcam	website	party	on the run	hospital	train	teenager

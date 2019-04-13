@@ -1,0 +1,8 @@
+title	Dragon Ball Z: Resurrection 'F'
+genre	Action	Adventure	Animation	Fantasy
+original_language	ja
+release_date	2015-04-18
+vote_average	6.7
+vote_count	655
+overview	One peaceful day on Earth, two remnants of Frieza's army named Sorbet and Tagoma arrive searching for the Dragon Balls with the aim of reviving Frieza. They succeed, and Frieza subsequently seeks revenge on the Saiyans.
+keywords	anime

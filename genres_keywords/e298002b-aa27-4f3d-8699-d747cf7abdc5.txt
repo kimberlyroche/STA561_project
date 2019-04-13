@@ -1,0 +1,8 @@
+title	Set It Up
+genre	Romance	Comedy
+original_language	en
+release_date	2018-06-12
+vote_average	7.0
+vote_count	1380
+overview	Two overworked and underpaid assistants come up with a plan to get their bosses off their backs by setting them up with each other.
+keywords	date	assistant	boss	romantic comedy	matchmaking	corporate	new york city	employer employee relationship

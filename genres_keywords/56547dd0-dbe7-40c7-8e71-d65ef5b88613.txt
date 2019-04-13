@@ -1,0 +1,8 @@
+title	Blackhat
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2015-01-13
+vote_average	5.3
+vote_count	1145
+overview	A man is released from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The dangerous search leads them from Chicago to Hong Kong.
+keywords	terrorist	technology	anti hero	hacker	computer virus	national security agency (nsa)	nuclear power plant	race against time	computer	malaysia	suspense	betrayal	conspiracy	on the run	fugitive	shootout	hacking	terrorism	cat and mouse	one against many	no opening credits	terrorist plot	stock exchange	cybercrime	cyber terrorism	chinese military	cyber terrorist	cyber thriller

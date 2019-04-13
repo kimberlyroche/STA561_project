@@ -1,0 +1,8 @@
+title	Lord of War
+genre	Crime	Drama	Thriller
+original_language	en
+release_date	2005-09-16
+vote_average	7.2
+vote_count	2196
+overview	Yuri Orlov is a globetrotting arms dealer and, through some of the deadliest war zones, he struggles to stay one step ahead of a relentless Interpol agent, his business rivals and even some of his customers who include many of the world’s most notorious dictators. Finally, he must also face his own conscience.
+keywords	cold war	weapon	arms dealer

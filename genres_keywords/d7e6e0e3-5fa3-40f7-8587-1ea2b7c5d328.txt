@@ -1,0 +1,8 @@
+title	Wallace & Gromit: The Curse of the Were-Rabbit
+genre	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2005-09-04
+vote_average	6.9
+vote_count	1220
+overview	Cheese-loving eccentric Wallace and his cunning canine pal, Gromit, investigate a mystery in Nick Park's animated adventure, in which the lovable inventor and his intrepid pup run a business ridding the town of garden pests. Using only humane methods that turn their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest.
+keywords	competition	garden	northern england	village	vegetable	yorkshire	stop motion	contest	dog	rabbit	pest control	giant vegetable	claymation	plasticine

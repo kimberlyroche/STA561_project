@@ -1,0 +1,8 @@
+title	The Last Emperor
+genre	Drama	History
+original_language	en
+release_date	1987-10-21
+vote_average	7.6
+vote_count	644
+overview	A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.
+keywords	buddhism	suicide	china	suicide attempt	war crimes	becoming an adult	isolation	war on drugs	opium	experiment	drug addiction	world war ii	revolution	emperor	arranged marriage	manchuria	dynasty	reeducation camp	biography	war	coup d'etat	autobiography	based on a true story	teacher	japanese occupation	beijing	dowager	decadence	communism	1920s	1940s	1950s	1910s	1930s

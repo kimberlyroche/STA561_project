@@ -1,0 +1,8 @@
+title	Captain America: The First Avenger
+genre	Action	Adventure	Science Fiction
+original_language	en
+release_date	2011-07-22
+vote_average	6.8
+vote_count	12118
+overview	During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.
+keywords	new york	usa	world war ii	nazi	superhero	based on comic	nazi germany	heroism	period drama	brooklyn, new york city	aftercreditsstinger	marvel cinematic universe	3d

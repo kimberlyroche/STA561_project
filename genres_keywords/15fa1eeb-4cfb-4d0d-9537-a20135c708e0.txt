@@ -1,0 +1,8 @@
+title	Death Race: Beyond Anarchy
+genre	Action	Thriller
+original_language	en
+release_date	2018-01-30
+vote_average	5.5
+vote_count	83
+overview	Black Ops specialist Connor Gibson infiltrates a maximum security prison to take down legendary driver Frankenstein in a violent and brutal car race.
+keywords	prison	car race	sequel	street race	infiltration	face mask

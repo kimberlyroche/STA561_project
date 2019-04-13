@@ -1,0 +1,8 @@
+title	Perfume: The Story of a Murderer
+genre	Crime	Fantasy	Drama
+original_language	en
+release_date	2006-09-13
+vote_average	7.2
+vote_count	2179
+overview	Jean-Baptiste Grenouille, born in the stench of 18th century Paris, develops a superior olfactory sense, which he uses to create the world's finest perfumes. However, his work takes a dark turn as he tries to preserve scents in the search for the ultimate perfume.
+keywords	paris france	prostitute	small town	obsession	orgy	bad smell	lone wolf	lavender	nose	child prodigy	fish market	daughter	supernatural	genius	children's home	murder	death	perfume

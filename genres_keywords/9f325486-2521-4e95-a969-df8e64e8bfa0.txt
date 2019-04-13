@@ -1,0 +1,8 @@
+title	The Last Samurai
+genre	Drama	Action	War	History
+original_language	en
+release_date	2003-12-05
+vote_average	7.4
+vote_count	3307
+overview	Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.
+keywords	japan	loss of loved one	war crimes	sense of guilt	swordplay	general	samurai	war veteran	katana	sword	arms deal	homeland	emperor	language barrier	self-discovery	mountain village	foreign legion	mercenary	campaign	commercial agreement	insurgence	leader	war strategy	gettysburg	slaughter	soldier	alcoholic	u.s. soldier	japanese army	19th century	war trauma

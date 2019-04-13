@@ -1,0 +1,8 @@
+title	I Know What You Did Last Summer
+genre	Horror	Thriller	Mystery
+original_language	en
+release_date	1997-10-17
+vote_average	5.8
+vote_count	1287
+overview	As they celebrate their high school graduation, four friends are involved in a hit-and-run accident when their car hits and apparently kills a pedestrian on an isolated roadway. They dispose of the body and vow to keep the incident a secret, a year later somebody starts sending them letters bearing the warning "I Know What You Did Last Summer".
+keywords	secret	blackmail	fisherman	police	high school	cover-up	friends	revenge	murder	pageant	slasher	teenager	killer

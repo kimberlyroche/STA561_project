@@ -1,0 +1,8 @@
+title	AVP: Alien vs. Predator
+genre	Adventure	Science Fiction	Action	Horror
+original_language	en
+release_date	2004-08-12
+vote_average	5.6
+vote_count	2089
+overview	When scientists discover something in the Arctic that appears to be a buried Pyramid, they send a research team out to investigate. Little do they know that they are about to step into a hunting ground where Aliens are grown as sport for the Predator race.
+keywords	saving the world	predator	space marine	pyramid	praise	alien	cosmos	21st century	xenomorph

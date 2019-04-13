@@ -1,0 +1,8 @@
+title	Atomic Blonde
+genre	Action	Mystery	Thriller
+original_language	en
+release_date	2017-07-26
+vote_average	6.3
+vote_count	3524
+overview	An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.
+keywords	germany	berlin germany	spy	europe	undercover	cold war	double agent	undercover agent	shooting	based on comic	murder	mi6	murder investigation

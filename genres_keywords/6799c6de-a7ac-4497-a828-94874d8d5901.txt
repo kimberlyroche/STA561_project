@@ -1,0 +1,8 @@
+title	Flushed Away
+genre	Adventure	Animation	Comedy	Family
+original_language	en
+release_date	2006-10-22
+vote_average	6.1
+vote_count	1861
+overview	London high-society mouse, Roddy is flushed down the toilet by Sid, a common sewer rat. Hang on for a madcap adventure deep in the sewer bowels of Ratropolis, where Roddy meets the resourceful Rita, the rodent-hating Toad and his faithful thugs, Spike and Whitey.
+keywords	london	underworld	return	ship	frog	girlfriend	rubin

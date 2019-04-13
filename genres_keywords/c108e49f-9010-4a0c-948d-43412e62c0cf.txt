@@ -1,0 +1,8 @@
+title	Ave Maryam
+genre	Drama
+original_language	id
+release_date	2019-04-11
+vote_average	0.0
+vote_count	1
+overview	Sister Maryam spends her days taking care of the residents in a home for elderly nuns. Maryam finds herself forced to make a choice between staying true to her vow or abandoning everything for the pursuit of personal happiness.
+keywords

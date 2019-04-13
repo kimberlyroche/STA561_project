@@ -1,0 +1,8 @@
+title	The Bourne Legacy
+genre	Action	Thriller
+original_language	en
+release_date	2012-08-08
+vote_average	6.1
+vote_count	3555
+overview	New CIA operative, Aaron Cross experiences life-or-death stakes that have been triggered by the previous actions of Jason Bourne.
+keywords	assassin	wolf	seoul	maryland	covert operation	espionage	suicide by gunshot	rooftop	exploding house	laptop	tracking device	fake id	pharmaceutical lab	government conspiracy	roof chase	manila philippines	hunted	false passport	alberta canada

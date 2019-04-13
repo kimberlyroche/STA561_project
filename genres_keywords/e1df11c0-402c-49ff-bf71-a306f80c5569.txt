@@ -1,0 +1,8 @@
+title	The Name of the Rose
+genre	Drama	Thriller	Mystery
+original_language	en
+release_date	1986-09-24
+vote_average	7.4
+vote_count	1411
+overview	14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence – which is considerable.
+keywords	christianity	library	inquisition	monk	poison	secret passage	labyrinth	rich	middle ages	persecution	medieval	franciscan	burned at the stake	poor	murder mystery	theological debate	14th century

@@ -1,0 +1,8 @@
+title	The Big Short
+genre	Comedy	Drama
+original_language	en
+release_date	2015-12-11
+vote_average	7.3
+vote_count	4480
+overview	The men who made millions from a global economic meltdown.
+keywords	bank	fraud	biography	wall street	finances	based on a true story	animated sequence	breaking the fourth wall	loan	financial crisis	real estate	mortgage

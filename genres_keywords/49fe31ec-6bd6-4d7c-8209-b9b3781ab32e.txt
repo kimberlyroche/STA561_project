@@ -1,0 +1,8 @@
+title	Ghost Rider
+genre	Thriller	Action	Fantasy	Horror
+original_language	en
+release_date	2007-02-16
+vote_average	5.4
+vote_count	3118
+overview	In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.
+keywords	religion and supernatural	dying and death	devil's son	ghost world	stunt	flame	based on comic	demon

@@ -1,0 +1,8 @@
+title	The Illusionist
+genre	Fantasy	Drama	Thriller	Romance
+original_language	en
+release_date	2006-08-18
+vote_average	7.2
+vote_count	2658
+overview	With his eye on a lovely aristocrat, a gifted illusionist named Eisenheim uses his powers to win her away from her betrothed, a crowned prince. But Eisenheim's scheme creates tumult within the monarchy and ignites the suspicion of a dogged inspector.
+keywords	magic	princess	love	rivalry	vienna austria	super power	crown prince	duchess	childhood sweetheart	vienna

@@ -1,0 +1,8 @@
+title	The Spy Who Loved Me
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1977-07-07
+vote_average	6.7
+vote_count	816
+overview	Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.
+keywords	london	submarine	england	assassination	spy	cairo	sea	terrorist	egypt	mass murder	pyramid	russia	planned murder	secret intelligence service	kgb	villain	nuclear missile	tanker	sphinx	warhead	jet ski	utopia	secret agent	murder	shark	killer	british secret service	snow skiing	sardinia

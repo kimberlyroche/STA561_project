@@ -1,0 +1,8 @@
+title	Scary Movie 5
+genre	Comedy
+original_language	en
+release_date	2013-04-11
+vote_average	4.7
+vote_count	1440
+overview	Home with their newly-formed family, happy parents Dan and Jody are haunted by sinister, paranormal activities. Determined to expel the insidious force, they install security cameras and discover their family is being stalked by an evil dead demon.
+keywords	sequel	parody	spoof	aftercreditsstinger	duringcreditsstinger

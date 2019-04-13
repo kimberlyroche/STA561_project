@@ -1,0 +1,8 @@
+title	A View to a Kill
+genre	Adventure	Action	Thriller
+original_language	en
+release_date	1985-05-24
+vote_average	6.2
+vote_count	826
+overview	A newly developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin.
+keywords	paris france	london	france	england	san francisco	horse race	fire	helicopter	drug abuse	terrorist	secret identity	firemen	fire engine	villain	ascot	silicon valley	zeppelin	earthquake	snowboarding	microchip	doping	racehorse	flooding	pipeline	snow	british secret service	snow skiing

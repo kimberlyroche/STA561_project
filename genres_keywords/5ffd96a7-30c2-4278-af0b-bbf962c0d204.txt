@@ -1,0 +1,8 @@
+title	I, Robot
+genre	Action	Science Fiction
+original_language	en
+release_date	2004-07-15
+vote_average	6.8
+vote_count	6662
+overview	In 2035, where robots are common-place and abide by the three laws of robotics, a techno-phobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.
+keywords	suicide	artificial intelligence	man vs machine	chicago	based on novel or book	hero	future	law	dystopia	police	murder	robot	3d	humanoid robot

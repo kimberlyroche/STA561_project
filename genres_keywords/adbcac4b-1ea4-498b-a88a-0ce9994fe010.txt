@@ -1,0 +1,8 @@
+title	Thor: Ragnarok
+genre	Action	Adventure	Comedy	Fantasy	Science Fiction
+original_language	en
+release_date	2017-10-25
+vote_average	7.5
+vote_count	10699
+overview	Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.
+keywords	sequel	superhero	based on comic	female villain	norse mythology	aftercreditsstinger	duringcreditsstinger	marvel cinematic universe	norse god

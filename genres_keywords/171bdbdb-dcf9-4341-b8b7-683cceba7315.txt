@@ -1,0 +1,8 @@
+title	Insurgent
+genre	Action	Adventure	Science Fiction	Thriller
+original_language	en
+release_date	2015-03-18
+vote_average	6.3
+vote_count	6591
+overview	Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart.
+keywords	based on novel or book	revolution	dystopia	sequel	dystopian future	3d	based on young adult novel

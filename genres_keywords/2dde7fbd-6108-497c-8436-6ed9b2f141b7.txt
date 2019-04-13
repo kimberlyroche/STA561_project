@@ -1,0 +1,8 @@
+title	Death Wish
+genre	Action	Crime	Drama	Thriller
+original_language	en
+release_date	2018-03-02
+vote_average	5.8
+vote_count	1117
+overview	A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.
+keywords	robbery	detective	based on novel or book	gun	kidnapping	police	vigilante	remake	shootout	blood	dark hero	criminal	death of wife	father daughter relationship

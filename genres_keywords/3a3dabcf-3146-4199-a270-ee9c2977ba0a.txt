@@ -1,0 +1,8 @@
+title	It
+genre	Horror	Thriller
+original_language	en
+release_date	2017-09-06
+vote_average	7.2
+vote_count	10564
+overview	In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
+keywords	based on novel or book	small town	clown	bullying	abandoned house	murder	flashback	balloon	school	fear	summer	killer	missing person	death of brother	well	child	demonic	town history

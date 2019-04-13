@@ -1,0 +1,8 @@
+title	SuperFly
+genre	Action	Crime
+original_language	en
+release_date	2018-06-13
+vote_average	6.5
+vote_count	122
+overview	Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.
+keywords	gambling	corruption	sex	famous score	nightclub	arrest	police	black	money	african american	police car	driving	revolver	selling drugs

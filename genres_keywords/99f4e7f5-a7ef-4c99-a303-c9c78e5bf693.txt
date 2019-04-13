@@ -1,0 +1,8 @@
+title	Justice League vs. the Fatal Five
+genre	Animation	Action	Science Fiction
+original_language	en
+release_date	2019-03-30
+vote_average	6.4
+vote_count	32
+overview	The Justice League faces a powerful new threat — the Fatal Five! Superman, Batman and Wonder Woman seek answers as the time-traveling trio of Mano, Persuader and Tharok terrorize Metropolis in search of budding Green Lantern, Jessica Cruz. With her unwilling help, they aim to free remaining Fatal Five members Emerald Empress and Validus to carry out their sinister plan. But the Justice League has also discovered an ally from another time in the peculiar Star Boy — brimming with volatile power, could he be the key to thwarting the Fatal Five? An epic battle against ultimate evil awaits!
+keywords	dc comics	time travel

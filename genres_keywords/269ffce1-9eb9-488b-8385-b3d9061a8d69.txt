@@ -1,0 +1,8 @@
+title	Pinocchio
+genre	Animation	Family
+original_language	en
+release_date	1940-02-23
+vote_average	7.0
+vote_count	2857
+overview	Lonely toymaker Geppetto has his wishes answered when the Blue Fairy arrives to bring his wooden puppet Pinocchio to life. Before becoming a real boy, however, Pinocchio must prove he's worthy as he sets off on an adventure with his whistling sidekick and conscience, Jiminy Cricket.
+keywords	italy	sea	lie	magic	fairy	carnival	donkey	whale	wish	boy	nose	puppet	rescue	animation	conscience	jackass	wish fulfillment	toy comes to life

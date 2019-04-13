@@ -1,0 +1,8 @@
+title	Trainwreck
+genre	Comedy	Romance
+original_language	en
+release_date	2015-07-17
+vote_average	5.8
+vote_count	1693
+overview	Having thought that monogamy was never possible, a commitment-phobic career woman may have to face her fears when she meets a good guy.
+keywords	alcohol	one-night stand	doctor	writer	older woman younger man relationship	intern	magazine editor	party girl

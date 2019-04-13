@@ -1,0 +1,6 @@
+title	Goosebumps 2: Haunted Halloween
+genre	Adventure	Comedy	Fantasy	Family	Horror
+original_language	en
+release_date	2018-10-11
+vote_average	5.6
+vote_count	374

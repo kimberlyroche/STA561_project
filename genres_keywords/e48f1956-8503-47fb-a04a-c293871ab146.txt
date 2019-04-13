@@ -1,0 +1,8 @@
+title	The Devil Wears Prada
+genre	Comedy	Drama	Romance
+original_language	en
+release_date	2006-06-30
+vote_average	7.2
+vote_count	6286
+overview	Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.
+keywords	paris france	journalist	based on novel or book	journalism	fashion journal	assistant	job entrant	job interview	editor-in-chief	fashion

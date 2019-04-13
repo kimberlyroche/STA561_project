@@ -1,0 +1,8 @@
+title	Cube
+genre	Thriller	Science Fiction	Mystery
+original_language	en
+release_date	1997-09-09
+vote_average	6.9
+vote_count	2090
+overview	Seven strangers are taken out of their daily lives and placed mysteriously in a deadly cube where they all agree they must find their way out.
+keywords	riddle	autism	claustrophobia	maze	prime number	entrapment	mathematics	murder	escape	violence	numbers

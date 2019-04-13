@@ -1,0 +1,8 @@
+title	The Beach Bum
+genre	Comedy
+original_language	en
+release_date	2019-03-21
+vote_average	5.2
+vote_count	22
+overview	An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.
+keywords

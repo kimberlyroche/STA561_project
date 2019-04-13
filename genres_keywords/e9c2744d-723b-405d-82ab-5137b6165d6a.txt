@@ -1,0 +1,8 @@
+title	IO
+genre	Science Fiction	Drama	Adventure	Romance
+original_language	en
+release_date	2019-01-18
+vote_average	4.8
+vote_count	627
+overview	As a young scientist searches for a way to save a dying Earth, she finds a connection with a man who's racing to catch the last shuttle off the planet.
+keywords	exodus	post-apocalyptic	survival	escape	scientist	polluted air	post-cataclysmic

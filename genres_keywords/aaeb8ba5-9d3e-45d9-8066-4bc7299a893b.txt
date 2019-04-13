@@ -1,0 +1,8 @@
+title	Mohabbat
+genre
+original_language	en
+release_date	1985-06-14
+vote_average	0.0
+vote_count	0
+overview	Shekhar and Pooja are in love, but cannot get married until Shekhar's family demands an unaffordable dowry to seal the deal.
+keywords

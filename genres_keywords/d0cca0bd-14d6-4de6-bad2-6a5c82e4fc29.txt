@@ -1,0 +1,8 @@
+title	Pixels
+genre	Action	Comedy	Science Fiction
+original_language	en
+release_date	2015-07-16
+vote_average	5.6
+vote_count	4320
+overview	Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.
+keywords	video game	nerd	alien attack	3d	pixels
