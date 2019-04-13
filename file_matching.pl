@@ -12,7 +12,7 @@ foreach my $file (@files) {
     		if(!(-e "posters/".$1.".jpg")) {
     			print($file." has no matching poster!\n");
     			$unmatched++;
-    			system("mv ".$file." ".$desktop_path."/saved_metadata");
+    			system("mv ".$file." ".$desktop_path."/omitted_metadata");
     		}
     	}
     }

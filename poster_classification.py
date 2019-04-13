@@ -20,12 +20,12 @@ from keras.models import model_from_json # for model saving
 from keras.datasets import mnist # MNIST
 from sklearn.model_selection import train_test_split
 
-# at this point you need to have run file_matching.pl which discards movies with metadata
-# but without posters
+# at this point you need to have run file_matching.pl, then discard the movies indicated
+# (those without posters)
 
 # get_data will perform the next step of filtering: omitting movies with no genre
 
-def get_data(input_shape):
+def get_data(input_shape, all_genres=True):
   directory = "posters"
   meta_directory = "metadata"
   no_files = len([f for f in listdir(meta_directory) if isfile(join(meta_directory, f))])    
@@ -49,8 +49,12 @@ def get_data(input_shape):
             genres = res.group(1).split("\t")
             if(len(genres) > 0):
                 genre_found = True
-            for g in genres:
-                y = y.append(Series({'movie':uuid, 'genre':g}), ignore_index=True)
+            if all_genres:
+              for g in genres:
+                  y = y.append(Series({'movie':uuid, 'genre':g}), ignore_index=True)
+            else:
+              y = y.append(Series({'movie':uuid, 'genre':genres[0]}), ignore_index=True)
+
       if(not genre_found):
         missing_genres.append(idx)
         print("No genre found for " + uuid + "! Omitting it...")        
@@ -64,8 +68,10 @@ save_model = False
 
 input_shape = (100, 150, 3)
 
-(x, y) = get_data(input_shape)
+(x, y) = get_data(input_shape, all_genres=False)
 y = y.pivot(index='movie', columns='genre', values='count').fillna(0)
+y.to_csv("uuid_genre_mapping.csv", index=True)
+exit()
 
 # on this test set:
 # 1 : Action
